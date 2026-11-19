@@ -1,0 +1,4 @@
+# As tested (Python 3.14).
+numpy==2.5.4
+spglib==2.8.0
+pymatgen==2026.10.24

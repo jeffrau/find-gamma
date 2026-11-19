@@ -1,0 +1,2319 @@
+id	tolerance	G0	order	G	allowed	texture	gamma	k
+0.1	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B1g	0
+0.2	0.01	Fd-3m	non-coplanar	Fd-3m	C Σ- Σ+	d/-	T2g	0
+0.3	0.01	R-3c	collinear	R-3c	Σ-	g/-	A2g	0
+0.4	0.01	I4_1/amd	collinear	I4_1/amd	M C Σ-	s/-	A1g	0
+0.5	0.01	R-3	collinear	R-3	M C Σ-	s/-	Ag	0
+0.6	0.01	P6_3cm	coplanar	P6_3cm	C Σ- Σ+ α-	d/k	E1	0
+0.7	0.01	P6_3cm	coplanar	P6_3cm	C Σ- Σ+ α-	d/k	E1	0
+0.8	0.01	P6_3cm	coplanar	P6_3cm	C Σ- Σ+ α-	d/k	E1	0
+0.9	0.01	P4/mbm	coplanar	P4/mbm	Σ+ α-	-/-	Eu	0
+0.10	0.01	Pnma	coplanar	P2_12_12_1	C Σ- Σ+ α- α+	d/p	B1 ⊕ B2	0
+0.11	0.01	Pnma	coplanar	Pna2_1	M C Σ- Σ+ α- α+	s/p	A1 ⊕ B1	0
+0.12	0.01	P6_3/mmc	coplanar	Cmcm	Σ+ α-	-/-	B3u ⊕ B2u	0
+0.13	0.01	R-3c	collinear	R3c	Σ-	g/-	A2	0
+0.14	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.15	0.01	P4_2/mnm	collinear	P4_2/mnm	C Σ-	d/-	B2g	0
+0.16	0.01	I4/mcm	collinear	I4/mcm	none	-/-	B1u	0
+0.17	0.01	Pnma	coplanar	Pnma	C Σ- α- α+	d/p	B2g ⊕ B3u	0
+0.18	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.19	0.01	R-3	collinear	R-3	α-	-/-	Au	0
+0.20	0.01	Pa-3	non-coplanar	Pa-3	C Σ- Σ+	d/-	Tg	0
+0.21	0.01	R3c	collinear	R3c	Σ-	g/-	A2	0
+0.22	0.01	P4/mbm	collinear	Pbam	α-	-/-	B3u	0
+0.23	0.01	Cmc2_1	collinear	Cmc2_1	C Σ-	d/-	A2	0
+0.24	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.25	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.26	0.01	P-62m	coplanar	Amm2	M C Σ- Σ+ α- α+	s/p	A1 ⊕ B2	0
+0.27	0.01	Pnnm	coplanar	Pnnm	Σ+ α-	-/-	B3u ⊕ B2u	0
+0.28	0.01	P2_1/c	coplanar	P2_1/c	Σ+ α-	-/-	Au ⊕ Bu	0
+0.29	0.01	Fd-3m	non-coplanar	I4_1/amd	C Σ- Σ+	d/-	B1g ⊕ Eg	0
+0.30	0.01	P6_3cm	coplanar	P6_3cm	C Σ- Σ+	d/k	E2	0
+0.31	0.01	P6_3cm	coplanar	P6_3cm	C Σ- Σ+ α-	d/k	E1	0
+0.32	0.01	P6_3cm	coplanar	P6_3cm	C Σ- Σ+ α-	d/k	E1	0
+0.33	0.01	P6_3cm	non-coplanar	P6_3cm	C Σ- Σ+ α- α+	d/p	A2 ⊕ E1	0
+0.34	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.35	0.01	P2_13	collinear	P2_13	M Σ-	s/-	A	0
+0.36	0.01	P4_2/mnm	coplanar	P4_2/mnm	M C Σ- Σ+	s/-	A1g ⊕ B2g	0
+0.37	0.01	I4	coplanar	C2	M C Σ- Σ+ α- α+	s/p	2A	0
+0.38	0.01	Pna2_1	collinear	Pna2_1	M C Σ- α-	s/-	A1	0
+0.39	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+0.40	0.01	Pbca	coplanar	Pbca	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.41	0.01	Pbca	coplanar	Pbca	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.42	0.01	P6_3cm	non-coplanar	P6_3cm	C Σ- Σ+ α+	d/p	B1 ⊕ E2	0
+0.43	0.01	P6_3cm	non-coplanar	P6_3cm	C Σ- Σ+ α+	d/p	B2 ⊕ E2	0
+0.44	0.01	P6_3cm	coplanar	P6_3cm	C Σ- Σ+	d/k	E2	0
+0.45	0.01	P4_2/ncm	collinear	Pccn	C Σ-	d/-	B2g	0
+0.46	0.01	Pna2_1	coplanar	Pna2_1	M C Σ- Σ+ α-	s/f	A1 ⊕ A2	0
+0.47	0.01	Fd-3m	coplanar	I4_1/amd	C Σ- Σ+	d/-	Eg	0
+0.48	0.01	Fd-3m	non-coplanar	I4_1/amd	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.49	0.01	Fd-3m	non-coplanar	I4_1/amd	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.50	0.01	R3c	collinear	R3c	Σ-	g/-	A2	0
+0.51	0.01	Fd-3m	non-coplanar	I4_1/amd	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.52	0.01	I4/m	collinear	C2/m	C Σ-	d/-	Bg	0
+0.53	0.01	I4/m	collinear	C2/m	C Σ-	d/-	Bg	0
+0.54	0.01	I4/m	collinear	I4/m	α-	-/-	Au	0
+0.55	0.01	I4/m	collinear	I4/m	α-	-/-	Au	0
+0.56	0.01	P-42_1m	collinear	P-42_1m	Σ-	g/-	A2	0
+0.57	0.01	R3c	collinear	R3c	Σ-	g/-	A2	0
+0.58	0.01	Fd-3m	collinear	Fd-3m	none	-/-	A2u	0
+0.59	0.01	R-3c	collinear	R-3c	α-	-/-	A2u	0
+0.60	0.01	R-3c	non-coplanar	R-3c	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.61	0.01	P2_1/c	coplanar	P2_1/c	C Σ- Σ+	d/-	2Bg	0
+0.62	0.01	I4_1cd	collinear	I4_1cd	C Σ-	d/-	B1	0
+0.63	0.01	Fd-3m	non-coplanar	I4_1/amd	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.64	0.01	I4_1/amd	non-coplanar	I4_1/amd	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.65	0.01	R-3c	collinear	R-3c	Σ-	g/-	A2g	0
+0.66	0.01	R-3c	collinear	R-3c	Σ-	g/-	A2g	0
+0.67	0.01	Ima2	collinear	Ima2	C Σ-	d/-	A2	0
+0.68	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.69	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.70	0.01	Fd-3	non-coplanar	Fd-3	C Σ- Σ+	d/-	Tg	0
+0.71	0.01	Pbca	collinear	Pbca	α-	-/-	B2u	0
+0.72	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.73	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.74	0.01	Pm-3m	coplanar	Pm-3m	C Σ-	d/-	Eg	0
+0.75	0.01	P4_2/mnm	collinear	P4_2/mnm	none	-/-	B1u	0
+0.76	0.01	P4_2/mnm	collinear	P4_2/mnm	α-	-/-	A2u	0
+0.77	0.01	Fd-3m	non-coplanar	R-3m	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.78	0.01	R-3	non-coplanar	R-3	M C Σ- Σ+ σ-	s/-	Ag ⊕ Eg	0
+0.79	0.01	Cmcm	collinear	Cmcm	C Σ-	d/-	B3g	0
+0.80	0.01	P4/mbm	coplanar	P4/mbm	Σ+ α-	-/-	Eu	0
+0.81	0.01	P4/mbm	coplanar	P4/mbm	Σ+ α-	-/-	Eu	0
+0.82	0.01	Cmce	coplanar	Cmce	M C Σ- Σ+	s/-	Ag ⊕ B3g	0
+0.83	0.01	P2_1	collinear	P2_1	C Σ- α-	d/-	B	0
+0.84	0.01	R3	collinear	R3	M C Σ- α-	s/-	A	0
+0.85	0.01	Pnnm	coplanar	Pnnm	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.86	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.87	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.88	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.89	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.90	0.01	Pnma	non-coplanar	Pnma	C Σ- Σ+	d/-	B1g ⊕ B3g ⊕ B2g	0
+0.91	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B3g	0
+0.92	0.01	P-3m1	collinear	P-3m1	α-	-/-	A2u	0
+0.93	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B3g ⊕ B2g	0
+0.94	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B3g	0
+0.95	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.96	0.01	Pnma	non-coplanar	Pnma	C Σ- Σ+	d/-	B1g ⊕ B3g ⊕ B2g	0
+0.97	0.01	P4_2/mbc	non-coplanar	P4_2/mbc	C Σ- Σ+	d/f	B2g ⊕ A1u ⊕ B2u	0
+0.98	0.01	Ibam	collinear	Ibam	C Σ-	d/-	B2g	0
+0.99	0.01	Ibam	collinear	Ibam	C Σ-	d/-	B2g	0
+0.100	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B3g	0
+0.101	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.102	0.01	Pnma	non-coplanar	Pnma	C Σ- Σ+	d/-	B1g ⊕ B3g ⊕ B2g	0
+0.103	0.01	Pnma	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+0.104	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.105	0.01	Pnma	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.106	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B3g ⊕ B2g	0
+0.107	0.01	P4_12_12	coplanar	P4_12_12	C Σ- Σ+ α- α+	d/p	E	0
+0.108	0.01	Pm-3m	coplanar	Pm-3m	C Σ-	d/-	Eg	0
+0.109	0.01	Pm-3m	coplanar	Pm-3m	C Σ-	d/-	Eg	0
+0.110	0.01	R-3c	collinear	R-3c	α-	-/-	A2u	0
+0.111	0.01	P-3c1	collinear	P-3c1	α-	-/-	A2u	0
+0.112	0.01	R-3c	collinear	R-3c	Σ-	g/-	A2g	0
+0.113	0.01	R-3c	collinear	R-3c	Σ-	g/-	A2g	0
+0.114	0.01	R-3c	collinear	R-3c	Σ-	g/-	A2g	0
+0.115	0.01	R-3c	collinear	R-3c	Σ-	g/-	A2g	0
+0.116	0.01	R-3c	collinear	R-3c	Σ-	g/-	A2g	0
+0.117	0.01	P6_3cm	coplanar	P6_3cm	C Σ- Σ+ α-	d/k	E1	0
+0.118	0.01	P6_3/mmc	collinear	P6_3/mmc	none	g/-	B2g	0
+0.119	0.01	Pbcn	coplanar	Pbcn	Σ+ α-	-/-	Au ⊕ B2u	0
+0.120	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.121	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.122	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.123	0.01	Pm-3m	coplanar	Pm-3m	C Σ-	d/-	Eg	0
+0.124	0.01	Pm-3m	coplanar	Pm-3m	C Σ-	d/-	Eg	0
+0.125	0.01	R-3	collinear	R-3	α-	-/-	Au	0
+0.126	0.01	Fd-3m	collinear	Fd-3m	none	-/-	A2u	0
+0.127	0.01	Ia-3d	non-coplanar	Ia-3d	C Σ- Σ+	d/-	T2g	0
+0.128	0.01	C2/c	collinear	C2/c	C Σ-	d/-	Bg	0
+0.129	0.01	Pnma	coplanar	P2_12_12_1	C Σ- Σ+ α- α+	d/p	B1 ⊕ B2	0
+0.130	0.01	Pnma	coplanar	Pmc2_1	M C Σ- Σ+ α- α+	s/p	A1 ⊕ B2	0
+0.131	0.01	Pnnm	collinear	Pnnm	C Σ-	d/-	B1g	0
+0.132	0.01	Pnnm	coplanar	Pnnm	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.133	0.01	Pca2_1	coplanar	Pca2_1	M C Σ- Σ+ α-	s/f	A1 ⊕ A2	0
+0.134	0.01	Pca2_1	coplanar	Pca2_1	C Σ- Σ+ α- α+	d/p	A2 ⊕ B2	0
+0.135	0.01	Pca2_1	non-coplanar	Pca2_1	M C Σ- Σ+ σ- α- α+	s/p	A1 ⊕ A2 ⊕ B2	0
+0.136	0.01	Pca2_1	non-coplanar	Pca2_1	M C Σ- Σ+ σ- α- α+	s/p	A1 ⊕ A2 ⊕ B2	0
+0.137	0.01	Fdd2	collinear	Fdd2	C Σ- α-	d/-	B2	0
+0.138	0.01	C2/c	collinear	C2/c	M C Σ-	s/-	Ag	0
+0.139	0.01	C2/c	collinear	C2/c	M C Σ-	s/-	Ag	0
+0.140	0.01	Pnnm	coplanar	Pnnm	Σ+ α-	-/-	B3u ⊕ B2u	0
+0.141	0.01	Pnma	non-coplanar	Pnma	Σ+ α-	-/-	Au ⊕ B1u ⊕ B3u	0
+0.142	0.01	P4_2/mnm	collinear	P4_2/mnm	α-	-/-	A2u	0
+0.143	0.01	P4_2/mnm	collinear	P4_2/mnm	α-	-/-	A2u	0
+0.144	0.01	P4_2/mnm	collinear	P4_2/mnm	none	-/-	B1u	0
+0.145	0.01	C2/c	non-coplanar	C2/c	Σ+ α-	-/-	2Au ⊕ Bu	0
+0.146	0.01	Pnma	collinear	Pnma	α-	-/-	B1u	0
+0.147	0.01	Pnma	collinear	Pnma	α-	-/-	B1u	0
+0.148	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.149	0.01	P6_3/mmc	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.150	0.01	Pa-3	non-coplanar	Pa-3	C Σ- Σ+	d/-	Tg	0
+0.151	0.01	Fd-3m	non-coplanar	I4_1/amd	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.152	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.153	0.01	Fd-3m	collinear	I4_1/amd	C Σ-	d/-	B1g	0
+0.154	0.01	Fd-3m	collinear	I4_1/amd	C Σ-	d/-	B1g	0
+0.155	0.01	C2/c	collinear	C2/c	α-	-/-	Au	0
+0.156	0.01	C2/c	collinear	C2/c	α-	-/-	Au	0
+0.157	0.01	Fd-3m	non-coplanar	I4_1/amd	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.158	0.01	Fd-3m	non-coplanar	I4_1/amd	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.159	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.160	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.161	0.01	Pbcn	collinear	Pbcn	none	-/-	Au	0
+0.162	0.01	Pbam	non-coplanar	Pbam	Σ+ α-	-/-	Au ⊕ B3u ⊕ B2u	0
+0.163	0.01	C2/m	collinear	C2/m	α-	-/-	Au	0
+0.164	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.165	0.01	P2_12_12_1	coplanar	P2_12_12_1	M C Σ- Σ+ α- α+	s/p	A ⊕ B2	0
+0.166	0.01	P4_2/mmc	collinear	P4_2/mmc	none	-/-	B2u	0
+0.167	0.01	R-3m	non-coplanar	R-3m	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.168	0.01	Pnma	non-coplanar	Pnma	C Σ- Σ+	d/-	B1g ⊕ B3g ⊕ B2g	0
+0.169	0.01	I-43d	non-coplanar	I-43d	M C Σ- Σ+	s/h	A1 ⊕ E	0
+0.170	0.01	I-43d	non-coplanar	I-43d	M C Σ- Σ+	s/h	A1 ⊕ E	0
+0.171	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.172	0.01	Cmcm	coplanar	Cmcm	M C Σ- Σ+	s/-	Ag ⊕ B3g	0
+0.173	0.01	P6_3/mmc	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.174	0.01	P6_3/mmc	coplanar	Cmcm	M C Σ- Σ+	s/-	2Ag	0
+0.175	0.01	P2_12_12	coplanar	P2_12_12	M C Σ- Σ+ α- α+	s/p	A ⊕ B1	0
+0.176	0.01	P-31c	collinear	P-31c	M C Σ-	s/-	A1g	0
+0.177	0.01	Pm-3m	coplanar	Pm-3m	C Σ-	d/-	Eg	0
+0.178	0.01	P4_2/mnm	collinear	P4_2/mnm	C Σ-	d/-	B2g	0
+0.179	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- α- α+	s/p	Ag ⊕ Bu	0
+0.180	0.01	R-3	collinear	R-3	α-	-/-	Au	0
+0.181	0.01	P6_3mc	non-coplanar	P6_3mc	M C Σ- Σ+ σ- α- α+	s/p	A1 ⊕ E1	0
+0.182	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	Au ⊕ B2u	0
+0.183	0.01	P4_2bc	coplanar	P4_2bc	M C Σ- Σ+ α-	s/h	A1 ⊕ A2	0
+0.184	0.01	P4_12_12	non-coplanar	P4_12_12	M C Σ- Σ+ σ- α- α+	s/p	A1 ⊕ E	0
+0.185	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B2g	0
+0.186	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.187	0.01	P4/nmm	collinear	Pmmn	α-	-/-	B1u	0
+0.188	0.01	P4/nmm	coplanar	Pmmn	Σ+ α-	-/-	2B1u	0
+0.189	0.01	P4/nbm	collinear	P4/nbm	C Σ-	d/-	B2g	0
+0.190	0.01	P4/nbm	collinear	P4/nbm	C Σ-	d/-	B2g	0
+0.191	0.01	Cmc2_1	coplanar	Cmc2_1	M C Σ- Σ+ α- α+	s/p	A1 ⊕ B2	0
+0.192	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.193	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.194	0.01	P4/nmm	collinear	P4/nmm	α-	-/-	A2u	0
+0.195	0.01	I4_1/acd	coplanar	I4_1/acd	M C Σ- Σ+	s/-	A1g ⊕ A2g	0
+0.196	0.01	P-3c1	coplanar	P-3c1	Σ+ α-	-/-	2A2u	0
+0.197	0.01	P-3c1	coplanar	P-3c1	Σ+ α-	-/-	A1u ⊕ A2u	0
+0.198	0.01	I4_1/amd	collinear	I4_1/amd	none	-/-	B2u	0
+0.199	0.01	P6_3/mmc	coplanar	P6_3/mmc	C Σ- Σ+	d/-	E2g	0
+0.200	0.01	P6_3/mmc	coplanar	P6_3/mmc	C Σ- Σ+	d/-	E2g	0
+0.201	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.202	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.203	0.01	P6_3/mmc	non-coplanar	P6_3/mmc	M C Σ- Σ+ σ-	s/-	A1g ⊕ E2g	0
+0.204	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+0.205	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	2Ag ⊕ Bg	0
+0.206	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B2g	0
+0.207	0.01	I4/m	coplanar	I4/m	C Σ- Σ+	d/-	Eg	0
+0.208	0.01	I4/m	collinear	I4/m	α-	-/-	Au	0
+0.209	0.01	I4/m	collinear	I4/m	α-	-/-	Au	0
+0.210	0.01	C2/c	collinear	C2/c	C Σ-	d/-	Bg	0
+0.211	0.01	I4_1/acd	collinear	I4_1/acd	none	-/-	B1u	0
+0.212	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.213	0.01	I4/mmm	collinear	I4/mmm	M C Σ-	s/-	A1g	0
+0.214	0.01	P4_2/mbc	coplanar	P4_2/mbc	C Σ-	d/h	B2g ⊕ B2u	0
+0.215	0.01	R-3	collinear	R-3	α-	-/-	Au	0
+0.216	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.217	0.01	P2_1/c	collinear	P2_1/c	α-	-/-	Au	0
+0.218	0.01	Pnma	non-coplanar	Pnma	C Σ- Σ+	d/-	B1g ⊕ B3g ⊕ B2g	0
+0.219	0.01	Pnma	non-coplanar	Pnma	C Σ- Σ+	d/-	B1g ⊕ B3g ⊕ B2g	0
+0.220	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B3g ⊕ B2g	0
+0.221	0.01	Pnma	non-coplanar	Pnma	C Σ- Σ+	d/-	B1g ⊕ B3g ⊕ B2g	0
+0.222	0.01	P4/nmm	collinear	P4/nmm	α-	-/-	A2u	0
+0.223	0.01	Pnma	collinear	Pnma	α-	-/-	B1u	0
+0.224	0.01	R-3m	coplanar	R-3m	M C Σ- Σ+	s/-	2A1g	0
+0.225	0.01	R-3m	coplanar	R-3m	M C Σ- Σ+	s/-	2A1g	0
+0.226	0.005	Fddd	collinear	Fddd	M C Σ-	s/-	Ag	0
+0.227	0.01	I4_1/amd	collinear	I4_1/amd	M C Σ-	s/-	A1g	0
+0.228	0.01	R-3m	collinear	R-3m	M C Σ-	s/-	A1g	0
+0.229	0.01	P-42_1m	collinear	P-42_1m	Σ-	g/-	A2	0
+0.230	0.01	P4_2/mnm	collinear	P4_2/mnm	none	-/-	B2u	0
+0.231	0.01	Pmmn	collinear	Pmmn	M C Σ-	s/-	Ag	0
+0.232	0.01	Pmmn	collinear	Pmmn	M C Σ-	s/-	Ag	0
+0.233	0.01	R-3	collinear	R-3	M C Σ-	s/-	Ag	0
+0.234	0.01	P4_2/n	collinear	P4_2/n	M C Σ-	s/-	Ag	0
+0.235	0.01	P4_2/n	collinear	P4_2/n	M C Σ-	s/-	Ag	0
+0.236	0.01	I4/mmm	non-coplanar	I4/mmm	C Σ- Σ+	d/-	B2g ⊕ Eg	0
+0.237	0.01	Fd-3m	coplanar	I4_1/amd	C Σ- Σ+	d/-	Eg	0
+0.238	0.01	Fd-3m	coplanar	I4_1/amd	C Σ- Σ+	d/-	Eg	0
+0.239	0.01	R-3c	collinear	R-3c	Σ-	g/-	A2g	0
+0.240	0.01	Pna2_1	non-coplanar	Pna2_1	C Σ- Σ+ α- α+	d/p	A2 ⊕ B2 ⊕ B1	0
+0.241	0.01	Pna2_1	collinear	Pna2_1	C Σ- α-	d/-	B1	0
+0.242	0.01	Pna2_1	coplanar	Pna2_1	M C Σ- Σ+ α- α+	s/p	A1 ⊕ B1	0
+0.243	0.01	Pbca	collinear	Pbca	α-	-/-	B2u	0
+0.244	0.01	Pbca	collinear	Pbca	α-	-/-	B2u	0
+0.245	0.01	Pbca	collinear	Pbca	α-	-/-	B2u	0
+0.246	0.01	Pbca	collinear	Pbca	α-	-/-	B2u	0
+0.247	0.01	P4_2/ncm	coplanar	P4_2/ncm	C Σ- Σ+	d/-	Eg	0
+0.248	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.249	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.250	0.01	P-31c	non-coplanar	P-31c	M C Σ- Σ+ σ-	s/-	2A1g ⊕ A2g	0
+0.251	0.01	P-31c	non-coplanar	P-31c	M C Σ- Σ+ σ-	s/-	2A1g ⊕ A2g	0
+0.252	0.01	C2/c	collinear	C2/c	α-	-/-	Bu	0
+0.253	0.01	C2/c	coplanar	C2/c	M C Σ- α- α+	s/p	Ag ⊕ Bu	0
+0.254	0.01	Pna2_1	collinear	Pna2_1	C Σ- α-	d/-	B1	0
+0.255	0.01	Pna2_1	collinear	Pna2_1	C Σ- α-	d/-	B1	0
+0.256	0.01	Pnna	collinear	Pnna	C Σ-	d/-	B3g	0
+0.257	0.01	Pnna	collinear	Pnna	C Σ-	d/-	B3g	0
+0.258	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.259	0.01	R-3	collinear	R-3	M C Σ-	s/-	Ag	0
+0.260	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B2g	0
+0.261	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B2g	0
+0.262	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B1g ⊕ B2g	0
+0.263	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B2g	0
+0.264	0.01	P2_1/c	collinear	P2_1/c	α-	-/-	Bu	0
+0.265	0.01	Pm-3m	non-coplanar	Pm-3m	M C Σ- Σ+	s/-	A1g ⊕ Eg	0
+0.266	0.01	P-3m1	collinear	P-3m1	M C Σ-	s/-	A1g	0
+0.267	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.268	0.01	P2_1/c	non-coplanar	P2_1	M C Σ- Σ+ σ- α- α+	s/p	2A ⊕ B	0
+0.269	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	2Ag ⊕ Bg	0
+0.270	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.271	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.272	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.273	0.01	Pm-3m	coplanar	Pm-3m	C Σ-	d/-	Eg	0
+0.274	0.01	Pm-3m	collinear	Pm-3m	M Σ-	s/-	A1g	0
+0.275	0.01	Pm-3m	collinear	Pm-3m	M Σ-	s/-	A1g	0
+0.276	0.01	Pm-3m	collinear	P4/mmm	M C Σ-	s/-	A1g	0
+0.277	0.01	R-3	collinear	R-3	α-	-/-	Au	0
+0.278	0.01	P-6	coplanar	P-6	C Σ- Σ+ α-	d/f	E'	0
+0.279	0.01	P6_3/mmc	coplanar	P6_3/mmc	C Σ- Σ+	d/-	E2g	0
+0.280	0.01	P6_3/mmc	coplanar	P6_3/mmc	C Σ- Σ+	d/-	E2g	0
+0.281	0.01	P2_1/c	non-coplanar	P2_1/c	Σ+ α-	-/-	Au ⊕ 2Bu	0
+0.282	0.01	P6/m	collinear	P6/m	none	-/-	Bu	0
+0.283	0.01	P6/m	coplanar	P6/m	Σ+ α-	-/-	E1u	0
+0.284	0.01	I4_1/a	collinear	I4_1/a	none	-/-	Bu	0
+0.285	0.01	I4_1/a	collinear	I4_1/a	none	-/-	Bu	0
+0.286	0.01	P6_3/mcm	collinear	P6_3/mcm	M C Σ-	s/-	A1g	0
+0.287	0.01	P2_12_12_1	non-coplanar	P2_12_12_1	C Σ- Σ+ α- α+	d/p	B1 ⊕ B3 ⊕ B2	0
+0.288	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.289	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.290	0.01	Imma	collinear	Imma	α-	-/-	B1u	0
+0.291	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.292	0.01	Pnma	non-coplanar	Pnma	C Σ- Σ+	d/-	B1g ⊕ B3g ⊕ B2g	0
+0.293	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.294	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B3g ⊕ B2g	0
+0.295	0.01	P2_1/c	coplanar	P2_1/c	C Σ- Σ+	d/-	2Bg	0
+0.296	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.297	0.01	C2/c	collinear	C2/c	M C Σ-	s/-	Ag	0
+0.298	0.01	C2/c	coplanar	C2/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.299	0.01	Pna2_1	collinear	Pna2_1	M C Σ- α-	s/-	A1	0
+0.300	0.01	Pna2_1	collinear	Pna2_1	M C Σ- α-	s/-	A1	0
+0.301	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.302	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.303	0.01	P2_12_12_1	collinear	P2_12_12_1	C Σ- α-	d/-	B1	0
+0.304	0.01	Imma	collinear	Imma	M C Σ-	s/-	Ag	0
+0.305	0.01	I4/mcm	collinear	I4/mcm	M C Σ-	s/-	A1g	0
+0.306	0.01	R3c	collinear	R3c	Σ-	g/-	A2	0
+0.307	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B2g	0
+0.308	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B2g	0
+0.309	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B2g	0
+0.310	0.01	P321	collinear	P321	M C Σ-	s/-	A1	0
+0.311	0.01	Pbca	non-coplanar	Pbca	Σ+ α-	-/-	Au ⊕ B3u ⊕ B2u	0
+0.312	0.01	C2/c	collinear	C2/c	α-	-/-	Au	0
+0.313	0.01	Pbca	coplanar	Pbca	Σ+ α-	-/-	Au ⊕ B1u	0
+0.314	0.01	P4/nbm	coplanar	P4/nbm	M C Σ- Σ+	s/-	A1g ⊕ B2g	0
+0.315	0.01	P4/nbm	collinear	P4/nbm	C Σ-	d/-	B2g	0
+0.316	0.01	Pna2_1	non-coplanar	Pna2_1	C Σ- Σ+ σ- α- α+	d/p	A2 ⊕ 2B1	0
+0.317	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.318	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	2Ag ⊕ Bg	0
+0.319	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	2Ag	0
+0.320	0.01	P4/mbm	coplanar	P4/mbm	Σ+ α-	-/-	Eu	0
+0.321	0.01	P4/mbm	coplanar	P4/mbm	Σ+ α-	-/-	Eu	0
+0.322	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	2Ag	0
+0.323	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.324	0.01	Fd-3m	coplanar	I4_1/amd	C Σ- Σ+	d/-	Eg	0
+0.325	0.01	Fd-3m	coplanar	I4_1/amd	C Σ- Σ+	d/-	Eg	0
+0.326	0.01	Fd-3m	non-coplanar	Fd-3m	C Σ- Σ+	d/-	T2g	0
+0.327	0.01	P4/nmm	collinear	P4/nmm	M C Σ-	s/-	A1g	0
+0.328	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.329	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.330	0.01	Cmcm	collinear	Cmcm	α-	-/-	B2u	0
+0.331	0.01	P6_3mc	collinear	P6_3mc	none	g/-	B1	0
+0.332	0.01	P6_3mc	collinear	P6_3mc	none	g/-	B1	0
+0.333	0.01	P6_3mc	collinear	P6_3mc	M C Σ- α-	s/-	A1	0
+0.334	0.01	R-3c	collinear	R-3c	Σ-	g/-	A2g	0
+0.335	0.01	R-3c	collinear	R-3c	Σ-	g/-	A2g	0
+0.336	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.337	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.338	0.01	P6_3mc	collinear	P6_3mc	none	g/-	B1	0
+0.339	0.01	Fd-3m	non-coplanar	Fd-3m	C Σ- Σ+	d/-	T2g	0
+0.340	0.01	Fd-3m	non-coplanar	Fd-3m	C Σ- Σ+	d/-	T2g	0
+0.341	0.01	Cmmm	collinear	Cmmm	α-	-/-	B2u	0
+0.342	0.01	Fdd2	non-coplanar	Fdd2	C Σ- Σ+ α- α+	d/p	A2 ⊕ B2 ⊕ B1	0
+0.343	0.01	Cmmm	collinear	Cmmm	α-	-/-	B2u	0
+0.344	0.01	Cmc2_1	collinear	Cmc2_1	C Σ- α-	d/-	B2	0
+0.345	0.01	I-43d	collinear	Fdd2	C Σ-	d/-	A2	0
+0.346	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.347	0.01	Pnma	non-coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ 2B3u	0
+0.348	0.01	P4/ncc	collinear	P4/ncc	α-	-/-	A2u	0
+0.349	0.01	P4_2/ncm	non-coplanar	P4_2/ncm	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.350	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.351	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.352	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B3g ⊕ B2g	0
+0.353	0.01	Pnma	coplanar	P2_12_12_1	C Σ- Σ+ α- α+	d/p	B3 ⊕ B2	0
+0.354	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.355	0.01	P6_3/mmc	coplanar	P6_3/mmc	C Σ- Σ+	d/-	E2g	0
+0.356	0.01	I4/mmm	collinear	I4/mmm	M C Σ-	s/-	A1g	0
+0.357	0.01	P2_1/m	non-coplanar	P2_1/m	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+0.358	0.01	P2_1/m	collinear	P2_1/m	C Σ-	d/-	Bg	0
+0.359	0.01	R3	collinear	R3	M C Σ- α-	s/-	A	0
+0.360	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.361	0.01	R-3c	collinear	R-3c	Σ-	g/-	A2g	0
+0.362	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.363	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.364	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.365	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.366	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.367	0.01	I4/mmm	collinear	I-4m2	M C Σ-	s/-	A1	0
+0.368	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B3g	0
+0.369	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	2Ag ⊕ Bg	0
+0.370	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.371	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.372	0.01	I4_1/a	collinear	I4_1/a	none	-/-	Bu	0
+0.373	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.374	0.01	Cmmm	collinear	Cmmm	M C Σ-	s/-	Ag	0
+0.375	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.376	0.01	Cmce	collinear	Cmce	C Σ-	d/-	B3g	0
+0.377	0.01	P6_3/mmc	coplanar	P6_3/mmc	C Σ- Σ+	d/-	E2g	0
+0.378	0.01	P4/nmm	collinear	P4/nmm	α-	-/-	A2u	0
+0.379	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.380	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.381	0.01	P6_3mc	non-coplanar	P6_3mc	C Σ- Σ+ α+	d/p	B2 ⊕ E2	0
+0.382	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.383	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.384	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.385	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.386	0.01	Pnma	collinear	Pnma	α-	-/-	B1u	0
+0.387	0.01	Pnma	coplanar	Pnma	M C Σ- α- α+	s/p	Ag ⊕ B1u	0
+0.388	0.01	Ia-3d	non-coplanar	I4_1/acd	Σ+ α-	-/-	A1u ⊕ Eu	0
+0.389	0.01	Pbam	collinear	Pbam	C Σ-	d/-	B1g	0
+0.390	0.01	Ibam	collinear	Ibam	C Σ-	d/-	B3g	0
+0.391	0.01	Ibam	collinear	Ibam	C Σ-	d/-	B3g	0
+0.392	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.393	0.01	P6_3/m	non-coplanar	P2_1/m	M C Σ- Σ+ σ-	s/-	2Ag ⊕ Bg	0
+0.394	0.01	P2_1/c	coplanar	P2_1/c	Σ+ α-	-/-	Au ⊕ Bu	0
+0.395	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.396	0.01	P6_3/mmc	coplanar	P6_3/mmc	M C Σ-	s/-	A1g ⊕ B2g	0
+0.397	0.01	P-31c	collinear	P-31c	M C Σ-	s/-	A1g	0
+0.398	0.01	Pbca	coplanar	Pbca	C Σ- Σ+	d/-	B1g ⊕ B2g	0
+0.399	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.400	0.01	Cmmm	collinear	Cmmm	α-	-/-	B3u	0
+0.401	0.01	Cmmm	collinear	Cmmm	α-	-/-	B3u	0
+0.402	0.01	Cmmm	collinear	Cmmm	C Σ-	d/-	B1g	0
+0.403	0.01	Imma	collinear	Imma	M C Σ-	s/-	Ag	0
+0.404	0.01	R-3c	collinear	R-3c	Σ-	g/-	A2g	0
+0.405	0.01	I-4c2	collinear	I-4	C Σ- α-	d/-	B	0
+0.406	0.01	Cmmm	collinear	Cmmm	α-	-/-	B2u	0
+0.407	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.408	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.409	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.410	0.01	Pnma	collinear	Pnma	α-	-/-	B1u	0
+0.411	0.01	Pnma	non-coplanar	Pnma	Σ+ α-	-/-	Au ⊕ B1u ⊕ B3u	0
+0.412	0.01	Pnma	non-coplanar	Pnma	Σ+ α-	-/-	Au ⊕ B1u ⊕ B3u	0
+0.413	0.01	I4/mmm	collinear	I4/mmm	α-	-/-	A2u	0
+0.414	0.01	Cmmm	collinear	Cmmm	M C Σ-	s/-	Ag	0
+0.415	0.01	I4/mmm	collinear	I4/mmm	M C Σ-	s/-	A1g	0
+0.416	0.01	R-3c	collinear	R-3c	Σ-	g/-	A2g	0
+0.417	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.418	0.01	I4/m	collinear	I4/m	α-	-/-	Au	0
+0.419	0.01	P4_12_12	non-coplanar	P4_12_12	C Σ- Σ+ α- α+	d/p	B2 ⊕ E	0
+0.420	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.421	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.422	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	2B3u	0
+0.423	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.424	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.425	0.01	Pna2_1	coplanar	Pna2_1	C Σ- Σ+ α- α+	d/p	A2 ⊕ B2	0
+0.426	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.427	0.01	Fd-3m	non-coplanar	Fd-3m	C Σ- Σ+	d/-	T2g	0
+0.428	0.01	C2/c	collinear	C2/c	M C Σ-	s/-	Ag	0
+0.429	0.01	Pnma	collinear	Pnma	α-	-/-	B1u	0
+0.430	0.01	R-3	non-coplanar	R-3	Σ+ α-	-/-	Au ⊕ Eu	0
+0.431	0.01	I-42d	coplanar	Cc	C Σ- Σ+ α- α+	d/p	2A''	0
+0.432	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.433	0.01	I4/mcm	collinear	I4/mcm	Σ-	g/-	A2g	0
+0.434	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.435	0.01	P4/mmm	collinear	P4/mmm	none	-/-	M3-	M
+0.436	0.01	Cmmm	collinear	Cmmm	M C Σ-	s/-	Ag	0
+0.437	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.438	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.439	0.01	Pnma	collinear	Pnma	M C Σ-	s/-	Ag	0
+0.440	0.01	P4_132	non-coplanar	P4_132	Σ- Σ+ α- α+	g/p	T1	0
+0.441	0.01	P-3c1	coplanar	P-3c1	Σ+ α-	-/-	A1u ⊕ A2u	0
+0.442	0.01	C2/c	collinear	C2/c	α-	-/-	Bu	0
+0.443	0.01	P-3c1	collinear	P-3c1	α-	-/-	A2u	0
+0.444	0.01	C2/m	collinear	C2/m	α-	-/-	Au	0
+0.445	0.01	Pnma	collinear	Pnma	M C Σ-	s/-	Ag	0
+0.446	0.01	P6_3/mmc	coplanar	P6_3/mmc	M C Σ-	s/-	A1g ⊕ B2g	0
+0.447	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.448	0.01	I-43d	collinear	I-42d	Σ-	g/-	A2	0
+0.449	0.01	Pnma	coplanar	P2_1/m	M C Σ- Σ+	s/-	2Ag	0
+0.450	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B2g	0
+0.451	0.01	Pmmn	collinear	Pmmn	α-	-/-	B1u	0
+0.452	0.01	P4/nmm	collinear	P4/nmm	α-	-/-	A2u	0
+0.453	0.01	Cmcm	collinear	Cmcm	α-	-/-	B2u	0
+0.454	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+0.455	0.01	Pbca	collinear	Pbca	α-	-/-	B1u	0
+0.456	0.01	Fd-3m	collinear	Fd-3m	none	-/-	A2u	0
+0.457	0.01	Pbca	collinear	Pbca	α-	-/-	B1u	0
+0.458	0.01	Fd-3m	collinear	Fd-3m	none	-/-	A2u	0
+0.459	0.01	Pbca	collinear	Pbca	α-	-/-	B1u	0
+0.460	0.01	Pbca	collinear	Pbca	α-	-/-	B1u	0
+0.461	0.01	Fd-3m	collinear	Fd-3m	none	-/-	A2u	0
+0.462	0.01	Fd-3m	collinear	Fd-3m	none	-/-	A2u	0
+0.463	0.01	Fd-3m	collinear	Fd-3m	none	-/-	A2u	0
+0.464	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.465	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.466	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.467	0.01	I4_1/amd	collinear	I4_1/amd	none	-/-	B2u	0
+0.468	0.01	P4/mbm	collinear	Pbam	α-	-/-	B2u	0
+0.469	0.01	P4/mbm	collinear	Pbam	α-	-/-	B2u	0
+0.470	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.471	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.472	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.473	0.01	I4/mmm	coplanar	I4/mmm	M C Σ-	s/f	A1g ⊕ B2u	0
+0.474	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.475	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.476	0.01	C2/c	collinear	C2/c	α-	-/-	Bu	0
+0.477	0.01	P-3c1	collinear	P-3c1	α-	-/-	A2u	0
+0.478	0.01	Pnma	non-coplanar	Pnma	C Σ- Σ+	d/-	B1g ⊕ B3g ⊕ B2g	0
+0.479	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B3g	0
+0.480	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.481	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.482	0.01	P-3m1	collinear	P-3m1	α-	-/-	A2u	0
+0.483	0.01	P-3m1	collinear	P-3m1	α-	-/-	A2u	0
+0.484	0.01	P-3m1	collinear	P-3m1	α-	-/-	A2u	0
+0.485	0.01	P-3m1	collinear	P-3m1	α-	-/-	A2u	0
+0.486	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.487	0.01	I4/mmm	coplanar	I4/mmm	M C Σ-	s/f	A1g ⊕ B2u	0
+0.488	0.01	P6_3cm	non-coplanar	P6_3cm	C Σ- Σ+ α+	d/p	B1 ⊕ E2	0
+0.489	0.01	P6_3cm	non-coplanar	P6_3cm	C Σ- Σ+ α+	d/p	B1 ⊕ E2	0
+0.490	0.01	P6_3cm	non-coplanar	P6_3cm	M C Σ- Σ+ σ- α- α+	s/p	A1 ⊕ E1	0
+0.491	0.01	P4/mbm	coplanar	P4/mbm	Σ+ α-	-/-	Eu	0
+0.492	0.01	P4/mbm	coplanar	Pbam	Σ+ α-	-/-	B3u ⊕ B2u	0
+0.493	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.494	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.495	0.01	I4/mmm	coplanar	I4/mmm	M C Σ-	s/f	A1g ⊕ B2u	0
+0.496	0.01	I4/mmm	coplanar	I4/mmm	M C Σ-	s/f	A1g ⊕ B2u	0
+0.497	0.01	I4/mmm	coplanar	I4/mmm	M C Σ-	s/f	A1g ⊕ B2u	0
+0.498	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.499	0.01	P4/mmm	collinear	P4/mmm	C Σ-	d/-	B1g	0
+0.500	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.501	0.01	P4_2/mnm	collinear	P4_2/mnm	C Σ-	d/-	B2g	0
+0.502	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.503	0.01	P-31c	collinear	P-31c	Σ-	g/-	A2g	0
+0.504	0.01	C2/c	collinear	C2/c	α-	-/-	Au	0
+0.505	0.01	P2_1/c	collinear	P2_1/c	α-	-/-	Au	0
+0.506	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.507	0.01	P-3c1	collinear	P-3c1	α-	-/-	A2u	0
+0.508	0.01	Ia-3	collinear	Ia-3	M Σ-	s/-	Ag	0
+0.509	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.510	0.01	P2_1/c	coplanar	P2_1/c	C Σ- Σ+	d/-	2Bg	0
+0.511	0.01	P-3c1	coplanar	P-3c1	Σ+ α-	-/-	A1u ⊕ A2u	0
+0.512	0.01	C2/m	collinear	C2/m	M C Σ-	s/-	Ag	0
+0.513	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.514	0.01	Cmcm	collinear	Cmcm	C Σ-	d/-	B3g	0
+0.515	0.01	Cmcm	coplanar	Cmcm	M C Σ- Σ+	s/-	Ag ⊕ B3g	0
+0.516	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.517	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.518	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.519	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.520	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.521	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.522	0.01	I4/mmm	collinear	I4/mmm	C Σ-	d/-	B1g	0
+0.523	0.01	P-3m1	collinear	P-3m1	α-	-/-	A2u	0
+0.524	0.01	R-3	collinear	R-3	α-	-/-	Au	0
+0.525	0.01	I4_1/amd	collinear	I4_1/amd	none	-/-	B2u	0
+0.526	0.01	P-3c1	collinear	P-3c1	α-	-/-	A2u	0
+0.527	0.01	C2/m	collinear	C2/m	α-	-/-	Au	0
+0.528	0.01	P6_3/mmc	collinear	P6_3/mmc	none	g/-	B2g	0
+0.529	0.01	P-3c1	coplanar	P-3c1	Σ+ α-	-/-	A1u ⊕ A2u	0
+0.530	0.01	P4_132	non-coplanar	P4_132	Σ- Σ+ α- α+	g/p	T1	0
+0.531	0.01	I4/mmm	collinear	I4/mmm	C Σ-	d/-	B2g	0
+0.532	0.01	I4/mmm	collinear	I4/mmm	C Σ-	d/-	B2g	0
+0.533	0.01	I4/mmm	collinear	I4/mmm	C Σ-	d/-	B2g	0
+0.534	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B2g	0
+0.535	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B2g	0
+0.536	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B2g	0
+0.537	0.01	P4_2/n	collinear	P4_2/n	M C Σ-	s/-	Ag	0
+0.538	0.01	P4_2/n	collinear	P4_2/n	M C Σ-	s/-	Ag	0
+0.539	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.540	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+0.541	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.542	0.01	P2_1/c	collinear	P-1	M C Σ-	s/-	Ag	0
+0.543	0.01	P2_1/c	collinear	P-1	M C Σ-	s/-	Ag	0
+0.544	0.01	P2_1/c	non-coplanar	P-1	M C Σ- Σ+ σ-	s/-	3Ag	0
+0.545	0.01	P2_1/c	non-coplanar	P-1	M C Σ- Σ+ σ-	s/-	3Ag	0
+0.546	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.547	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.548	0.01	P2_1/c	coplanar	P-1	M C Σ- Σ+	s/-	2Ag	0
+0.549	0.01	P2_1/c	coplanar	P-1	M C Σ- Σ+	s/-	2Ag	0
+0.550	0.01	P2_1/c	coplanar	P-1	Σ+	-/-	2V1-	(1/2,1/2,0)
+0.551	0.01	P2_1/c	coplanar	P-1	Σ+	-/-	2V1-	(1/2,1/2,0)
+0.552	0.01	P-42_1c	coplanar	P-42_1c	C Σ- Σ+ α-	d/f	E	0
+0.553	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.554	0.01	Fm-3m	collinear	Fm-3m	M Σ-	s/-	A1g	0
+0.555	0.01	R3c	collinear	R3c	Σ-	g/-	A2	0
+0.556	0.01	R3c	collinear	R3c	Σ-	g/-	A2	0
+0.557	0.01	R3c	coplanar	R3c	M C Σ- Σ+ α-	s/f	A1 ⊕ A2	0
+0.558	0.01	R3c	coplanar	R3c	M C Σ- Σ+ α-	s/f	A1 ⊕ A2	0
+0.559	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.560	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.561	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.562	0.01	Ibam	collinear	Ibam	none	-/-	X1+	(0,1,0)
+0.563	0.01	Ibam	collinear	Ibam	none	-/-	X4-	(0,1,0)
+0.564	0.01	C2/c	coplanar	C2/c	Σ+	-/-	Y1- ⊕ Y2-	(0,1,0)
+0.565	0.01	Ibam	coplanar	Ibam	Σ+	-/-	X1+ ⊕ X2+	(0,1,0)
+0.566	0.01	Cmcm	collinear	Cmcm	α-	-/-	B2u	0
+0.567	0.01	Cmcm	collinear	Cmcm	α-	-/-	B2u	0
+0.568	0.01	Cmcm	collinear	Cmcm	α-	-/-	B2u	0
+0.569	0.01	Cmcm	collinear	Cmcm	α-	-/-	B2u	0
+0.570	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.571	0.01	Pnma	non-coplanar	Pnma	C Σ- Σ+	d/-	B1g ⊕ B3g ⊕ B2g	0
+0.572	0.01	Imma	non-coplanar	Imma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B3g ⊕ B2g	0
+0.573	0.01	Imma	non-coplanar	Imma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B3g ⊕ B2g	0
+0.574	0.01	Imm2	non-coplanar	C2	M C Σ- Σ+ σ- α- α+	s/p	2A ⊕ B	0
+0.575	0.01	Imm2	collinear	Imm2	C Σ- α-	d/-	B1	0
+0.576	0.01	C2/c	non-coplanar	C2/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+0.577	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	2Ag	0
+0.578	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+0.579	0.01	Imma	coplanar	Imma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.580	0.01	Imma	coplanar	Imma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.581	0.01	R-3c	collinear	R-3c	Σ-	g/-	A2g	0
+0.582	0.01	C2/m	collinear	C2/m	C Σ-	d/-	Bg	0
+0.583	0.01	Imma	coplanar	Imma	M C Σ- Σ+	s/-	Ag ⊕ B3g	0
+0.584	0.01	Imma	non-coplanar	C2/c	M C Σ- Σ+ σ-	s/-	2Ag ⊕ Bg	0
+0.585	0.01	C2/m	collinear	C2/m	α-	-/-	Au	0
+0.586	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.587	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.588	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B3g	0
+0.589	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.590	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.591	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.592	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.593	0.01	P4/nmm	collinear	P4/nmm	M C Σ-	s/-	A1g	0
+0.594	0.01	P4/nmm	collinear	P4/nmm	M C Σ-	s/-	A1g	0
+0.595	0.01	I4/mmm	collinear	I4/mmm	M C Σ-	s/-	A1g	0
+0.596	0.01	I4/mmm	collinear	I4/mmm	M C Σ-	s/-	A1g	0
+0.597	0.01	R-3m	collinear	R-3m	M C Σ-	s/-	A1g	0
+0.598	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+0.599	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.600	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.601	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.602	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.603	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.604	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.605	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.606	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.607	0.01	P4_2/mnm	collinear	P4_2/mnm	C Σ-	d/-	B2g	0
+0.608	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B1g	0
+0.609	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B1g	0
+0.610	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.611	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.612	0.01	C2/m	coplanar	C2/m	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.613	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.614	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.615	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.616	0.01	P6/mmm	collinear	P6/mmm	M C Σ-	s/-	A1g	0
+0.617	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.618	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.619	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.620	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.621	0.01	P4/nmm	collinear	Pmmn	α-	-/-	B1u	0
+0.622	0.01	P4/nmm	collinear	Pmmn	α-	-/-	B1u	0
+0.623	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.624	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.625	0.01	P4/mbm	coplanar	P4/mbm	Σ+ α-	-/-	Eu	0
+0.626	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.627	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.628	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.629	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.630	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.631	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.632	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.633	0.01	C2/c	collinear	C2/c	α-	-/-	Au	0
+0.634	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.635	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.636	0.01	C2/c	collinear	C2/c	α-	-/-	Au	0
+0.637	0.01	C2/c	collinear	C2/c	α-	-/-	Au	0
+0.638	0.01	C2/c	collinear	C2/c	α-	-/-	Au	0
+0.639	0.01	I4/mmm	collinear	I4/mmm	α-	-/-	A2u	0
+0.640	0.01	I4/mmm	collinear	I4/mmm	α-	-/-	A2u	0
+0.641	0.01	I4/mmm	coplanar	I4/mmm	M C Σ- Σ+	s/-	2A1g	0
+0.642	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B1g	0
+0.643	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.644	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.645	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B1g	0
+0.646	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.647	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.648	0.01	Pnma	collinear	Pnma	M C Σ-	s/-	Ag	0
+0.649	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.650	0.01	C2/m	collinear	C2/m	α-	-/-	Au	0
+0.651	0.01	C2/m	collinear	C2/m	none	-/-	M2-	(1,0,-1/2)
+0.652	0.01	P6_3cm	non-coplanar	P6_3cm	C Σ- Σ+ α+	d/p	B2 ⊕ E2	0
+0.653	0.01	P6_3cm	non-coplanar	P6_3cm	C Σ- Σ+ α+	d/p	B2 ⊕ E2	0
+0.654	0.01	P6_3cm	non-coplanar	P6_3cm	C Σ- Σ+ α+	d/p	B2 ⊕ E2	0
+0.655	0.01	P6_3cm	non-coplanar	P6_3cm	C Σ- Σ+ α+	d/p	B2 ⊕ E2	0
+0.656	0.01	I4/mmm	coplanar	I4/mmm	M C Σ-	s/f	A1g ⊕ B2u	0
+0.657	0.01	I4/mmm	coplanar	I4/mmm	M C Σ-	s/f	A1g ⊕ B2u	0
+0.658	0.01	P4_132	non-coplanar	P4_132	C Σ- Σ+ α+	d/p	T2	0
+0.659	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B3g	0
+0.660	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B3g	0
+0.661	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.662	0.01	Pnma	collinear	Pnma	M C Σ-	s/-	Ag	0
+0.663	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.664	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.665	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.666	0.01	P4/nmm	collinear	Pmmn	α-	-/-	B1u	0
+0.667	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.668	0.01	Pmmn	collinear	Pmmn	α-	-/-	B1u	0
+0.669	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.670	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.671	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.672	0.01	Pn-3	collinear	Pn-3	M Σ-	s/-	Ag	0
+0.673	0.01	P6_3/mcm	collinear	P6_3/mcm	M C Σ-	s/-	A1g	0
+0.674	0.01	P6_3/mcm	collinear	P6_3/mcm	M C Σ-	s/-	A1g	0
+0.675	0.01	P6_3/mcm	collinear	P6_3/mcm	M C Σ-	s/-	A1g	0
+0.676	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.677	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.678	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.679	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.680	0.01	Imma	collinear	Imma	C Σ-	d/-	B3g	0
+0.681	0.01	I-43d	collinear	I-42d	C Σ- α-	d/-	B2	0
+0.682	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.683	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.684	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.685	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.686	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.687	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.688	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.689	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.690	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.691	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+0.692	0.01	Cmce	collinear	Cmce	α-	-/-	B1u	0
+0.693	0.01	Cmce	collinear	Cmce	α-	-/-	B1u	0
+0.694	0.01	P4/ncc	collinear	P4/ncc	α-	-/-	A2u	0
+0.695	0.01	P4/ncc	collinear	P4/ncc	α-	-/-	A2u	0
+0.696	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B3g	0
+0.697	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B3g ⊕ B2g	0
+0.698	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.699	0.01	P6/mmm	collinear	P6/mmm	M C Σ-	s/-	A1g	0
+0.700	0.01	P6/mmm	collinear	P6/mmm	M C Σ-	s/-	A1g	0
+0.701	0.01	P6/mmm	collinear	P6/mmm	M C Σ-	s/-	A1g	0
+0.702	0.01	P6/mmm	collinear	P6/mmm	M C Σ-	s/-	A1g	0
+0.703	0.01	P6/mmm	collinear	P6/mmm	M C Σ-	s/-	A1g	0
+0.704	0.01	P6/mmm	collinear	P6/mmm	M C Σ-	s/-	A1g	0
+0.705	0.01	P6/mmm	collinear	P6/mmm	M C Σ-	s/-	A1g	0
+0.706	0.01	Cmcm	collinear	Cmcm	C Σ-	d/-	B1g	0
+0.707	0.01	Cmcm	coplanar	Cmcm	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.708	0.01	P6_3/mmc	collinear	P6_3/mmc	none	g/-	B2g	0
+0.709	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.710	0.01	P6_322	collinear	P6_322	M C Σ-	s/-	A1	0
+0.711	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.712	0.01	P6_322	collinear	P6_322	none	g/-	B1	0
+0.713	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.714	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.715	0.01	Pna2_1	non-coplanar	Pna2_1	C Σ- Σ+ α- α+	d/p	A2 ⊕ B2 ⊕ B1	0
+0.716	0.01	Pna2_1	coplanar	Pna2_1	C Σ- Σ+ α- α+	d/p	A2 ⊕ B1	0
+0.717	0.01	Imma	collinear	Imma	M C Σ-	s/-	Ag	0
+0.718	0.01	I4/mcm	collinear	I4/mcm	M C Σ-	s/-	A1g	0
+0.719	0.01	P6_3cm	non-coplanar	P6_3cm	M C Σ- Σ+ σ- α- α+	s/p	A1 ⊕ E1	0
+0.720	0.01	P6_3cm	non-coplanar	P6_3cm	M C Σ- Σ+ σ- α- α+	s/p	A1 ⊕ E1	0
+0.721	0.01	P6_3cm	non-coplanar	P6_3cm	M C Σ- Σ+ σ- α- α+	s/p	A1 ⊕ E1	0
+0.722	0.01	Cc	collinear	Cc	C Σ- α-	d/-	A''	0
+0.723	0.01	C2/m	collinear	C2/m	α-	-/-	Au	0
+0.724	0.01	P6_3	coplanar	P6_3	C Σ- Σ+ α- α+	d/p	E1	0
+0.725	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.726	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B2g	0
+0.727	0.01	Pnma	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+0.728	0.01	R-3c	collinear	R-3c	α-	-/-	A2u	0
+0.729	0.01	P6/mmm	collinear	P6/mmm	M C Σ-	s/-	A1g	0
+0.730	0.01	P6/mmm	collinear	P6/mmm	M C Σ-	s/-	A1g	0
+0.731	0.01	P6/mmm	collinear	P6/mmm	M C Σ-	s/-	A1g	0
+0.732	0.01	Pnma	collinear	Pnma	M C Σ-	s/-	Ag	0
+0.733	0.01	R-3c	collinear	R-3c	α-	-/-	A2u	0
+0.734	0.01	I4_1/a	collinear	I4_1/a	none	-/-	Bu	0
+0.735	0.01	P4/nmm	collinear	P4/nmm	M C Σ-	s/-	A1g	0
+0.736	0.01	Pm-3m	collinear	Pm-3m	M Σ-	s/-	A1g	0
+0.737	0.01	P4/mmm	collinear	P4/mmm	M C Σ-	s/-	A1g	0
+0.738	0.01	P4/mmm	collinear	P4/mmm	M C Σ-	s/-	A1g	0
+0.739	0.01	P4/nmm	collinear	P4/nmm	M C Σ-	s/-	A1g	0
+0.740	0.01	Ia-3d	non-coplanar	Ia-3d	C Σ- Σ+	d/-	T2g	0
+0.741	0.01	Ia-3d	non-coplanar	Ia-3d	C Σ- Σ+	d/-	T2g	0
+0.742	0.01	Ia-3d	non-coplanar	Ia-3d	C Σ- Σ+	d/-	T2g	0
+0.743	0.01	Ia-3d	non-coplanar	Ia-3d	C Σ- Σ+	d/-	T2g	0
+0.744	0.01	Ia-3d	non-coplanar	Ia-3d	C Σ- Σ+	d/-	T2g	0
+0.745	0.01	Ia-3d	non-coplanar	Ia-3d	C Σ- Σ+	d/-	T2g	0
+0.746	0.01	Ia-3d	non-coplanar	Ia-3d	C Σ- Σ+	d/-	T2g	0
+0.747	0.01	C2/c	collinear	C2/c	C Σ-	d/-	Bg	0
+0.748	0.01	P6_3/mmc	collinear	P6_3/mmc	none	g/-	B2g	0
+0.749	0.01	Cmcm	collinear	Cmcm	none	-/-	Y3+	(0,1,0)
+0.750	0.01	P6_3/mmc	collinear	Cmcm	none	-/-	Y3+	(0,1,0)
+0.751	0.01	R-3c	non-coplanar	R-3c	Σ+ α-	-/-	A1u ⊕ Eu	0
+0.752	0.01	R-3c	non-coplanar	R-3c	Σ+ α-	-/-	A1u ⊕ Eu	0
+0.753	0.01	R-3c	non-coplanar	R-3c	Σ+ α-	-/-	A1u ⊕ Eu	0
+0.754	0.01	R-3c	non-coplanar	R-3c	Σ+ α-	-/-	A1u ⊕ Eu	0
+0.755	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.756	0.01	R3m	non-coplanar	R3m	M C Σ- Σ+ σ- α- α+	s/p	A1 ⊕ E	0
+0.757	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.758	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.759	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.760	0.01	C2/c	collinear	C2/c	C Σ-	d/-	Bg	0
+0.761	0.01	Pmmn	coplanar	Pmmn	Σ+ α-	-/-	B1u ⊕ B2u	0
+0.762	0.01	Pmmn	coplanar	Pmmn	Σ+ α-	-/-	B1u ⊕ B2u	0
+0.763	0.01	C2/c	non-coplanar	C2/c	M C Σ- Σ+ σ-	s/-	2Ag ⊕ Bg	0
+0.764	0.01	C2/c	non-coplanar	C2/c	M C Σ- Σ+ σ-	s/-	2Ag ⊕ Bg	0
+0.765	0.01	C2/c	non-coplanar	C2/c	M C Σ- Σ+ σ-	s/-	2Ag ⊕ Bg	0
+0.766	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.767	0.01	Pnma	collinear	Pnma	M C Σ-	s/-	Ag	0
+0.768	0.01	Pnma	coplanar	Pnma	M C Σ- α- α+	s/p	Ag ⊕ B3u	0
+0.769	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.770	0.01	C2/c	collinear	C2/c	α-	-/-	Bu	0
+0.771	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.772	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.773	0.01	Cmcm	coplanar	Cmcm	M C Σ- Σ+	s/-	2Ag	0
+0.774	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.775	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.776	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.777	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.778	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.779	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.780	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.781	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.782	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.783	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.784	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B2g	0
+0.785	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	2B2g	0
+0.786	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B2g	0
+0.787	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.788	0.01	P2_1/c	coplanar	P2_1/c	C Σ- Σ+	d/-	2Bg	0
+0.789	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.790	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.791	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.792	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.793	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.794	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.795	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.796	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.797	0.01	P4/nmm	collinear	P4/nmm	M C Σ-	s/-	A1g	0
+0.798	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.799	0.01	Ima2	collinear	Ima2	none	-/-	X1	(1,0,0)
+0.800	0.01	P6_3/mmc	collinear	P6_3/mmc	none	g/-	B2g	0
+0.801	0.01	Pnma	collinear	Pnma	α-	-/-	B2u	0
+0.802	0.01	I-42d	collinear	I-42d	Σ-	g/-	A2	0
+0.803	0.01	Pnma	coplanar	Pnma	C Σ- α- α+	d/p	B2g ⊕ B1u	0
+0.804	0.01	R-3c	collinear	R-3c	α-	-/-	A2u	0
+0.805	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.806	0.01	Pccn	non-coplanar	Pccn	Σ+ α-	-/-	Au ⊕ B1u ⊕ B2u	0
+0.807	0.01	Pccn	non-coplanar	Pccn	Σ+ α-	-/-	Au ⊕ B1u ⊕ B2u	0
+0.808	0.01	Pccn	non-coplanar	Pccn	Σ+ α-	-/-	Au ⊕ B1u ⊕ B2u	0
+0.809	0.01	P2_1/c	non-coplanar	P2_1/c	Σ+ α-	-/-	Au ⊕ 2Bu	0
+0.810	0.01	Pbcn	coplanar	Pbcn	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.811	0.01	Pbcn	collinear	Pbcn	C Σ-	d/-	B2g	0
+0.812	0.01	Pbcn	coplanar	Pbcn	C Σ- α-	d/f	B2g ⊕ B2u	0
+0.813	0.01	Pbcn	collinear	Pbcn	C Σ-	d/-	B2g	0
+0.814	0.01	Pbcn	collinear	Pbcn	α-	-/-	B2u	0
+0.815	0.01	Pbcn	collinear	Pbcn	none	-/-	Au	0
+0.816	0.01	Pbcn	collinear	Pbcn	none	-/-	Au	0
+0.817	0.01	Pbcn	coplanar	Pbcn	Σ+ α-	-/-	Au ⊕ B2u	0
+0.818	0.01	Pbcn	coplanar	Pbcn	Σ+ α-	-/-	Au ⊕ B2u	0
+0.819	0.01	Pbcn	coplanar	Pbcn	Σ+ α-	-/-	Au ⊕ B2u	0
+0.820	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.821	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.822	0.01	Fd-3m	non-coplanar	Fd-3m	C Σ- Σ+	d/-	T2g	0
+0.823	0.01	Ima2	collinear	Ima2	C Σ-	d/-	A2	0
+0.824	0.01	P4/mmm	collinear	P4/mmm	none	-/-	M1+	M
+0.825	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B1g	0
+0.826	0.01	P6_3/mmc	collinear	P6_3/mmc	none	g/-	B2g	0
+0.827	0.01	P2_1/c	collinear	P2_1/c	α-	-/-	Bu	0
+0.828	0.01	P2_1/c	collinear	P2_1/c	α-	-/-	Bu	0
+0.829	0.01	P2_1/c	collinear	P2_1/c	α-	-/-	Bu	0
+0.830	0.01	P2_1/c	collinear	P2_1/c	α-	-/-	Bu	0
+0.831	0.01	Pna2_1	coplanar	Pna2_1	M C Σ- Σ+ α- α+	s/p	A1 ⊕ B1	0
+0.832	0.01	P6_3mc	collinear	P6_3mc	M C Σ- α-	s/-	A1	0
+0.833	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.834	0.01	Pnma	collinear	Pnma	M C Σ-	s/-	Ag	0
+0.835	0.01	Pbam	collinear	Pbam	M C Σ-	s/-	Ag	0
+0.836	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.837	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.838	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.839	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.840	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.841	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.842	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.843	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.844	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.845	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.846	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.847	0.01	Pbam	coplanar	P2/m	M C Σ- Σ+	s/-	2Ag	0
+0.848	0.01	Pbam	coplanar	P2/m	M C Σ- Σ+	s/-	2Ag	0
+0.849	0.01	Pbam	coplanar	Pbam	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.850	0.01	Pbam	coplanar	Pbam	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.851	0.01	Pbca	non-coplanar	P2_12_12_1	M C Σ- Σ+ σ- α- α+	s/p	A ⊕ B3 ⊕ B2	0
+0.852	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.853	0.01	Pnma	non-coplanar	Pna2_1	M C Σ- Σ+ σ- α- α+	s/p	A1 ⊕ A2 ⊕ B2	0
+0.854	0.01	Fd-3m	coplanar	I4_1/amd	C Σ- Σ+	d/-	Eg	0
+0.855	0.01	P4/nmm	collinear	P4/nmm	M C Σ-	s/-	A1g	0
+0.856	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.857	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.858	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.859	0.01	R-3m	collinear	R-3m	M C Σ-	s/-	A1g	0
+0.860	0.01	R-3m	collinear	R-3m	M C Σ-	s/-	A1g	0
+0.861	0.01	R-3m	collinear	R-3m	M C Σ-	s/-	A1g	0
+0.862	0.01	Fd-3m	non-coplanar	Fd-3m	C Σ- Σ+	d/-	T2g	0
+0.863	0.01	P-3m1	collinear	P-3m1	M C Σ-	s/-	A1g	0
+0.864	0.01	P2_1/c	coplanar	P2_1/c	C Σ- Σ+	d/-	2Bg	0
+0.865	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+0.866	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+0.867	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.868	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.869	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.870	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+0.871	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.872	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.873	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.874	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+0.875	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+0.876	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.877	0.01	P2_1/c	non-coplanar	P-1	Σ+	-/-	3V1-	(1/2,1/2,0)
+0.878	0.01	P2_1/c	non-coplanar	P-1	Σ+	-/-	3V1-	(1/2,1/2,0)
+0.879	0.01	P2_1/c	non-coplanar	P-1	Σ+	-/-	3V1-	(1/2,1/2,0)
+0.880	0.01	P-3m1	coplanar	P-3m1	C Σ- Σ+	d/-	Eg	0
+0.881	0.01	P4/nmm	collinear	P4/nmm	α-	-/-	A2u	0
+0.882	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.883	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B3g	0
+0.884	0.01	I4_1/amd	non-coplanar	I4_1/amd	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.885	0.01	I4_1/amd	non-coplanar	I4_1/amd	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.886	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.887	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.888	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.889	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.890	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.891	0.01	I4_1/amd	coplanar	I4_1/amd	M C Σ- Σ+	s/-	A1g ⊕ B1g	0
+0.892	0.01	Fddd	collinear	Fddd	M C Σ-	s/-	Ag	0
+0.893	0.01	Fddd	collinear	Fddd	M C Σ-	s/-	Ag	0
+0.894	0.01	Fddd	coplanar	Fddd	M C Σ- Σ+	s/-	Ag ⊕ B3g	0
+0.895	0.01	I4_1/amd	collinear	I4_1/amd	M C Σ-	s/-	A1g	0
+0.896	0.01	Cmcm	collinear	Cmcm	C Σ-	d/-	B3g	0
+0.897	0.01	I4/mmm	collinear	I4/mmm	M C Σ-	s/-	A1g	0
+0.898	0.01	P2_13	non-coplanar	P2_13	C Σ- Σ+ α- α+	d/p	T	0
+0.899	0.01	P2_13	non-coplanar	P2_13	C Σ- Σ+ α- α+	d/p	T	0
+0.900	0.01	P2_13	non-coplanar	P2_13	C Σ- Σ+ α- α+	d/p	T	0
+0.901	0.01	I4/mmm	coplanar	I4/mmm	M C Σ-	s/f	A1g ⊕ B2u	0
+0.902	0.01	I4/mmm	collinear	I4/mmm	M C Σ-	s/-	A1g	0
+0.903	0.01	Cmce	coplanar	Cmce	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.904	0.01	Cmce	collinear	Cmce	C Σ-	d/-	B3g	0
+0.905	0.01	Cmce	coplanar	Cmce	Σ+ α-	-/-	Au ⊕ B1u	0
+0.906	0.01	Cmce	coplanar	Cmce	Σ+ α-	-/-	Au ⊕ B1u	0
+0.907	0.01	Cmce	coplanar	Cmce	Σ+ α-	-/-	Au ⊕ B1u	0
+0.908	0.01	Cmce	coplanar	Cmce	Σ+ α-	-/-	Au ⊕ B1u	0
+0.909	0.01	Cmce	collinear	Cmce	α-	-/-	B1u	0
+0.910	0.01	Cmcm	collinear	Cmcm	α-	-/-	B2u	0
+0.911	0.01	Pbam	collinear	Pbam	M C Σ-	s/-	Ag	0
+0.912	0.01	Pbam	coplanar	Pbam	C Σ- Σ+	d/-	2B1g	0
+0.913	0.01	Pbam	coplanar	Pbam	M C Σ- Σ+	s/-	2Ag	0
+0.914	0.01	Pbam	collinear	Pbam	M C Σ-	s/-	Ag	0
+0.915	0.01	Pbam	coplanar	Pbam	M C Σ- Σ+	s/-	2Ag	0
+0.916	0.01	Fd-3m	non-coplanar	Fd-3m	C Σ- Σ+	d/-	T2g	0
+0.917	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.918	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.919	0.01	I4/mmm	collinear	I4/mmm	none	-/-	B2u	0
+0.920	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.921	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.922	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.923	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.924	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.925	0.01	Im-3	non-coplanar	R-3	M C Σ- Σ+ σ-	s/-	Ag ⊕ Eg	0
+0.926	0.01	Cmce	coplanar	Cmce	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.927	0.01	Cmce	collinear	Cmce	C Σ-	d/-	B3g	0
+0.928	0.01	Cmce	coplanar	Cmce	Σ+ α-	-/-	Au ⊕ B1u	0
+0.929	0.01	Cmce	coplanar	Cmce	Σ+ α-	-/-	Au ⊕ B1u	0
+0.930	0.01	Cmce	coplanar	Cmce	Σ+ α-	-/-	Au ⊕ B1u	0
+0.931	0.01	Cmce	coplanar	Cmce	Σ+ α-	-/-	Au ⊕ B1u	0
+0.932	0.01	Cmce	collinear	Cmce	α-	-/-	B1u	0
+0.933	0.01	P2_1/c	collinear	P2_1/c	α-	-/-	Bu	0
+0.934	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.935	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.936	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.937	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.938	0.01	P6/mmm	collinear	P6/mmm	M C Σ-	s/-	A1g	0
+0.939	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.940	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.941	0.01	Ia-3	non-coplanar	Ia-3	C Σ- Σ+	d/-	Tg	0
+0.942	0.01	P4_12_12	non-coplanar	P4_12_12	C Σ- Σ+ α- α+	d/p	B2 ⊕ E	0
+0.943	0.01	P4_12_12	non-coplanar	P4_12_12	M C Σ- Σ+ σ- α- α+	s/p	A1 ⊕ E	0
+0.944	0.01	Fd-3m	non-coplanar	R-3m	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.945	0.01	Fd-3m	non-coplanar	Fd-3m	C Σ- Σ+	d/-	T2g	0
+0.946	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.947	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.948	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+0.949	0.01	Ia-3	non-coplanar	Ia-3	C Σ- Σ+	d/-	Tg	0
+0.950	0.01	Pnma	non-coplanar	Pnma	C Σ- Σ+	d/-	B1g ⊕ B3g ⊕ B2g	0
+0.951	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B3g	0
+0.952	0.01	Pmmn	coplanar	Pmmn	M C Σ- Σ+	s/-	Ag ⊕ B3g	0
+0.953	0.01	Fm-3m	collinear	Fm-3m	M Σ-	s/-	A1g	0
+0.954	0.01	Fd-3m	non-coplanar	Fd-3m	C Σ- Σ+	d/-	T2g	0
+0.955	0.01	Pbca	collinear	Pbca	C Σ-	d/-	B1g	0
+0.956	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.957	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.958	0.01	P-31c	non-coplanar	P-31c	M C Σ- Σ+ σ-	s/-	2A1g ⊕ A2g	0
+0.959	0.01	P4_2/mnm	collinear	P4_2/mnm	α-	-/-	A2u	0
+0.960	0.01	P4_2/mnm	collinear	P4_2/mnm	α-	-/-	A2u	0
+0.961	0.01	P2_1/c	collinear	P2_1/c	α-	-/-	Au	0
+0.962	0.01	P2_1/c	collinear	P2_1/c	α-	-/-	Au	0
+0.963	0.01	P2_1/c	collinear	P2_1/c	α-	-/-	Au	0
+0.964	0.01	P2_1/c	collinear	P2_1/c	α-	-/-	Au	0
+0.965	0.01	Pm	collinear	P1	none	-/-	U1	(1/2,0,1/2)
+0.966	0.01	P4_2/mnm	collinear	P4_2/mnm	none	-/-	B1u	0
+0.967	0.01	I4_1cd	collinear	I4_1cd	C Σ-	d/-	B1	0
+0.968	0.01	Pnma	collinear	Pnma	M C Σ-	s/-	Ag	0
+0.969	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.970	0.01	I4/mmm	collinear	I4/mmm	M C Σ-	s/-	A1g	0
+0.971	0.01	Fm-3m	collinear	Fm-3m	M Σ-	s/-	A1g	0
+0.972	0.01	P-62m	collinear	P-62m	M C Σ-	s/-	A1'	0
+0.973	0.01	P-62m	collinear	P-62m	M C Σ-	s/-	A1'	0
+0.974	0.01	P-62m	collinear	P-62m	M C Σ-	s/-	A1'	0
+0.975	0.01	P-62m	collinear	P-62m	M C Σ-	s/-	A1'	0
+0.976	0.01	P-62m	collinear	P-62m	M C Σ-	s/-	A1'	0
+0.977	0.01	P-62m	collinear	P-62m	M C Σ-	s/-	A1'	0
+0.978	0.01	P-62m	collinear	P-62m	M C Σ-	s/-	A1'	0
+0.979	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.980	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.981	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.982	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.983	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.984	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.985	0.01	Imma	collinear	Imma	M C Σ-	s/-	Ag	0
+0.986	0.01	Cmcm	collinear	Cmcm	C Σ-	d/-	B3g	0
+0.987	0.01	Pmmn	coplanar	Pmmn	Σ+ α-	-/-	B1u ⊕ B2u	0
+0.988	0.01	Pmmn	coplanar	Pmmn	Σ+ α-	-/-	B1u ⊕ B2u	0
+0.989	0.005	I4_1/amd	collinear	Imma	M C Σ-	s/-	Ag	0
+0.990	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B3g ⊕ B2g	0
+0.991	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.992	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B3g ⊕ B2g	0
+0.993	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B3g	0
+0.994	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B3g ⊕ B2g	0
+0.995	0.01	Cmcm	collinear	Cmcm	C Σ-	d/-	B3g	0
+0.996	0.01	Cmcm	collinear	Cmcm	C Σ-	d/-	B3g	0
+0.997	0.01	Cmcm	coplanar	Cmcm	M C Σ- Σ+	s/-	Ag ⊕ B3g	0
+0.998	0.01	Cmcm	non-coplanar	Cmc2_1	M C Σ- Σ+ α- α+	s/p	A1 ⊕ 2B2	0
+0.999	0.01	Cmcm	collinear	Cmc2_1	C Σ- α-	d/-	B2	0
+0.1000	0.01	Cmcm	coplanar	Cmc2_1	M C Σ- Σ+ α- α+	s/p	A1 ⊕ B2	0
+0.1001	0.01	P6_3/m	collinear	P6_3/m	α-	-/-	Au	0
+0.1002	0.01	P6_3/mmc	non-coplanar	P6_3/mmc	M C Σ- Σ+ σ-	s/-	A1g ⊕ E1g	0
+0.1003	0.01	Cmcm	non-coplanar	Cmcm	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B3g	0
+0.1004	0.01	Pnma	coplanar	Pnma	Σ+ α-	-/-	B1u ⊕ B3u	0
+0.1005	0.01	P2_13	non-coplanar	P2_13	C Σ- Σ+ α- α+	d/p	T	0
+0.1006	0.01	P2_13	non-coplanar	P2_13	C Σ- Σ+ α- α+	d/p	T	0
+0.1007	0.01	P6_3/mmc	collinear	P6_3/mmc	none	g/-	B2g	0
+0.1008	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.1009	0.01	Pna2_1	coplanar	Pna2_1	M C Σ- Σ+ α- α+	s/p	A1 ⊕ B1	0
+0.1010	0.01	P2_1/c	coplanar	P2_1/c	Σ+ α-	-/-	Au ⊕ Bu	0
+0.1011	0.01	I4_1/amd	coplanar	Imma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.1012	0.01	I4_1/amd	collinear	I4_1/amd	M C Σ-	s/-	A1g	0
+0.1013	0.01	P2_1/c	collinear	P2_1/c	C Σ-	d/-	Bg	0
+0.1014	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+0.1015	0.01	R-3	collinear	R-3	α-	-/-	Au	0
+0.1016	0.01	C2/c	non-coplanar	C2/c	Σ+ α-	-/-	2Au ⊕ Bu	0
+0.1017	0.01	Cmcm	collinear	Cmcm	α-	-/-	B2u	0
+0.1018	0.01	C222_1	collinear	C222_1	C Σ- α-	d/-	B1	0
+0.1019	0.01	C222_1	collinear	C222_1	C Σ- α-	d/-	B1	0
+0.1020	0.01	P4/nmm	collinear	P4/nmm	α-	-/-	A2u	0
+0.1021	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.1022	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.1023	0.01	P4_2/mnm	collinear	P4_2/mnm	none	-/-	B1u	0
+0.1024	0.01	I4/m	coplanar	I4/m	M C Σ-	s/f	Ag ⊕ Bu	0
+0.1025	0.01	Fd-3m	coplanar	I4_1/amd	C Σ- Σ+	d/-	Eg	0
+0.1026	0.01	P-31c	non-coplanar	P-31c	M C Σ- Σ+ σ-	s/-	2A1g ⊕ A2g	0
+0.1027	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.1028	0.01	I-43m	non-coplanar	I-42m	M C Σ- Σ+ σ- α- α+	s/p	A1 ⊕ E	0
+0.1029	0.01	I4_1/amd	collinear	I4_1/amd	M C Σ-	s/-	A1g	0
+0.1030	0.01	I4_1/amd	collinear	I4_1/amd	none	-/-	B2u	0
+0.1031	0.01	P6/mmm	collinear	P6/mmm	M C Σ-	s/-	A1g	0
+0.1032	0.01	C2/c	non-coplanar	C2/c	Σ+ α-	-/-	2Au ⊕ Bu	0
+0.1033	0.01	C2/c	non-coplanar	C2/c	Σ+ α-	-/-	2Au ⊕ Bu	0
+0.1034	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+0.1035	0.01	I4_1cd	collinear	I4_1cd	C Σ-	d/-	B2	0
+0.1036	0.01	P6_3/mmc	collinear	P6_3/mmc	none	g/-	B2g	0
+0.1037	0.01	P4/mbm	collinear	P4/mbm	M C Σ-	s/-	A1g	0
+0.1038	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.1039	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.1040	0.01	P6_3mc	collinear	P6_3mc	M C Σ- α-	s/-	A1	0
+0.1041	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.1042	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.1043	0.01	R-3c	coplanar	R-3c	M C Σ- Σ+	s/-	A1g ⊕ A2g	0
+0.1044	0.01	P-3m1	collinear	P-3m1	M C Σ-	s/-	A1g	0
+0.1045	0.01	Pbca	coplanar	Pbca	C Σ- Σ+	d/-	B1g ⊕ B2g	0
+0.1046	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.1047	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.1048	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.1049	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+0.1050	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	2Ag ⊕ Bg	0
+0.1051	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.1052	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.1053	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.1054	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.1055	0.01	Pnma	collinear	Pnma	M C Σ-	s/-	Ag	0
+0.1056	0.01	Pnma	collinear	Pnma	M C Σ-	s/-	Ag	0
+0.1057	0.01	Pm-3m	coplanar	Pm-3m	C Σ-	d/-	Eg	0
+0.1058	0.01	P4/mmm	collinear	P4/mmm	M C Σ-	s/-	A1g	0
+0.1059	0.01	Pmc2_1	collinear	Pmc2_1	C Σ- α-	d/-	B1	0
+0.1060	0.01	Pca2_1	coplanar	Pca2_1	M C Σ- Σ+ α- α+	s/p	A1 ⊕ B2	0
+0.1061	0.01	P3_1	non-coplanar	P3_1	M C Σ- Σ+ σ- α- α+	s/p	A ⊕ E	0
+0.1062	0.01	R3c	non-coplanar	R3c	M C Σ- Σ+ α- α+	s/p	A1 ⊕ 2A2	0
+0.1063	0.01	R3c	non-coplanar	R3c	M C Σ- Σ+ α- α+	s/p	A1 ⊕ 2A2	0
+0.1064	0.01	R-3c	collinear	R-3c	α-	-/-	A2u	0
+0.1065	0.01	Pna2_1	collinear	Pna2_1	C Σ- α-	d/-	B2	0
+0.1066	0.01	Pna2_1	collinear	Pna2_1	C Σ- α-	d/-	B2	0
+0.1067	0.002	Pc	non-coplanar	Pc	M C Σ- Σ+ σ- α- α+	s/p	2A' ⊕ A''	0
+0.1068	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B3g	0
+0.1069	0.01	Pmmn	coplanar	Pmmn	M C Σ- Σ+	s/-	Ag ⊕ B1g	0
+0.1070	0.01	Pmmn	collinear	Pmmn	M C Σ-	s/-	Ag	0
+0.1071	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B2g	0
+0.1072	0.01	Pnma	non-coplanar	Pnma	C Σ- Σ+	d/-	B1g ⊕ B3g ⊕ B2g	0
+0.1073	0.01	I-4m2	collinear	I-4m2	M C Σ-	s/-	A1	0
+0.1074	0.01	I-4m2	collinear	I-4m2	M C Σ-	s/-	A1	0
+0.1075	0.01	P2_13	non-coplanar	P2_13	C Σ- Σ+ α- α+	d/p	T	0
+0.1076	0.01	Pbcn	coplanar	Pbcn	Σ+ α-	-/-	B1u ⊕ B2u	0
+0.1077	0.01	P2_1/c	non-coplanar	P2_1/c	Σ+ α-	-/-	2Au ⊕ Bu	0
+0.1078	0.01	P-3	collinear	P-3	α-	-/-	Au	0
+0.1079	0.01	C2/c	collinear	C2/c	α-	-/-	Au	0
+0.1080	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B2g	0
+0.1081	0.01	I4/mmm	collinear	I4/mmm	α-	-/-	A2u	0
+0.1082	0.01	Pna2_1	collinear	Pna2_1	C Σ- α-	d/-	B1	0
+0.1083	0.01	R-3c	collinear	R-3c	α-	-/-	A2u	0
+0.1084	0.01	Ima2	collinear	Ima2	M C Σ- α-	s/-	A1	0
+0.1085	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.1086	0.01	Fd-3m	non-coplanar	I4_1/amd	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.1087	0.01	Pnma	non-coplanar	Pnma	Σ+ α-	-/-	Au ⊕ B3u ⊕ B2u	0
+0.1088	0.01	P6_3/mmc	collinear	P6_3/mmc	none	g/-	B2g	0
+0.1089	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.1090	0.01	P4_2/mbc	collinear	P4_2/mbc	C Σ-	d/-	B1g	0
+0.1091	0.01	I4/mmm	collinear	I4/mmm	C Σ-	d/-	B1g	0
+0.1092	0.01	I4/mmm	collinear	I4/mmm	C Σ-	d/-	B1g	0
+0.1093	0.01	I4/mmm	collinear	I4/mmm	C Σ-	d/-	B1g	0
+0.1094	0.01	Pnma	collinear	Pnma	M C Σ-	s/-	Ag	0
+0.1095	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B3g	0
+0.1096	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B3g	0
+0.1097	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.1098	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.1099	0.01	Cmcm	coplanar	Cmcm	M C Σ- α- α+	s/p	Ag ⊕ B2u	0
+0.1100	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.1101	0.01	P4/nmm	collinear	P4/nmm	none	-/-	B2u	0
+0.1102	0.01	Pnma	collinear	Pnma	α-	-/-	B1u	0
+0.1103	0.01	Pnma	collinear	Pnma	α-	-/-	B1u	0
+0.1104	0.01	Pnma	collinear	Pnma	C Σ-	d/-	B3g	0
+0.1105	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.1106	0.01	Pnma	non-coplanar	Pnma	C Σ- Σ+	d/-	B1g ⊕ B3g ⊕ B2g	0
+0.1107	0.01	Cmmm	collinear	Cmmm	M C Σ-	s/-	Ag	0
+0.1108	0.01	P2_1/c	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	2Ag ⊕ Bg	0
+0.1109	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	2Ag	0
+0.1110	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.1111	0.01	P4_2/mbc	collinear	P4_2/mbc	none	-/-	B2u	0
+0.1112	0.01	P6_3/mmc	collinear	P6_3/mmc	none	g/-	B2g	0
+0.1113	0.01	P-3m1	non-coplanar	P-3m1	M C Σ- Σ+ σ-	s/-	A1g ⊕ Eg	0
+0.1114	0.01	I4_1md	coplanar	I4_1md	M C Σ- Σ+ α-	s/f	A1 ⊕ B1	0
+0.1115	0.01	P6_3/mmc	collinear	P6_3/mmc	none	g/-	B2g	0
+0.1116	0.01	P6_3/mmc	collinear	P6_3/mmc	none	g/-	B2g	0
+0.1117	0.01	P6_3/mmc	collinear	P6_3/mmc	none	g/-	B2g	0
+0.1118	0.01	Cmcm	collinear	Cmcm	C Σ-	d/-	B3g	0
+0.1119	0.01	Cmc2_1	collinear	Cmc2_1	M C Σ- α-	s/-	A1	0
+0.1120	0.01	Fm-3m	non-coplanar	Fm-3m	M C Σ- Σ+	s/-	A1g ⊕ Eg	0
+0.1121	0.01	Fm-3m	collinear	I4/mmm	M C Σ-	s/-	A1g	0
+0.1122	0.01	Fm-3m	coplanar	I4/mmm	M C Σ- Σ+	s/-	A1g ⊕ B2g	0
+0.1123	0.01	Cmmm	collinear	Cmmm	M C Σ-	s/-	Ag	0
+0.1124	0.01	P4/mbm	collinear	Pbam	α-	-/-	B2u	0
+0.1125	0.01	P4/mbm	collinear	Amm2	M C Σ- α-	s/-	A1	0
+0.1126	0.01	P4/mbm	coplanar	Pbam	Σ+ α-	-/-	B3u ⊕ B2u	0
+0.1127	0.01	P4/mbm	collinear	P4/mbm	C Σ-	d/-	B2g	0
+0.1128	0.01	P2_1/c	coplanar	P2_1/c	Σ+ α-	-/-	Au ⊕ Bu	0
+0.1129	0.01	P2_12_12	non-coplanar	P2_12_12	M C Σ- Σ+ σ- α- α+	s/p	A ⊕ B1 ⊕ B2	0
+0.1130	0.01	R-3	collinear	R-3	α-	-/-	Au	0
+0.1131	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.1132	0.01	P6_3/mmc	coplanar	P6_3/mmc	M C Σ-	s/-	A1g ⊕ B2g	0
+0.1133	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.1134	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.1135	0.01	Pnma	non-coplanar	P2_1/c	M C Σ- Σ+ σ-	s/-	2Ag ⊕ Bg	0
+0.1136	0.01	C2/m	collinear	C2/m	α-	-/-	Bu	0
+0.1137	0.01	P6_3/mmc	collinear	P6_3/mmc	none	g/-	B2g	0
+0.1138	0.01	P2_12_12	coplanar	P2_12_12	M C Σ- Σ+ α- α+	s/p	A ⊕ B1	0
+0.1139	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.1140	0.01	R-3c	collinear	R-3c	M C Σ-	s/-	A1g	0
+0.1141	0.01	R-3c	collinear	R3c	Σ-	g/-	A2	0
+0.1142	0.01	Pbcn	collinear	Pbcn	C Σ-	d/-	B3g	0
+0.1143	0.01	C2/c	non-coplanar	C2/c	Σ+ α-	-/-	Au ⊕ 2Bu	0
+0.1144	0.01	P-1	non-coplanar	P-1	Σ+ α-	-/-	3Au	0
+0.1145	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.1146	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.1147	0.01	Pnma	collinear	Pnma	α-	-/-	B1u	0
+0.1148	0.01	P2_1/c	collinear	P2_1/c	M C Σ-	s/-	Ag	0
+0.1149	0.01	P2_1/c	coplanar	P2_1/c	M C Σ- Σ+	s/-	Ag ⊕ Bg	0
+0.1150	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.1151	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.1152	0.01	Pca2_1	coplanar	Pca2_1	M C Σ- Σ+ α- α+	s/p	A1 ⊕ B1	0
+0.1153	0.01	Pca2_1	coplanar	Pca2_1	C Σ- Σ+ α- α+	d/p	A2 ⊕ B1	0
+0.1154	0.01	F-43m	collinear	F-43m	M Σ-	s/-	A1	0
+0.1155	0.01	P6_3/mmc	collinear	P6_3/mmc	none	g/-	B2g	0
+0.1156	0.01	P2_12_12	non-coplanar	P2_12_12	M C Σ- Σ+ σ- α- α+	s/p	A ⊕ B1 ⊕ B2	0
+0.1157	0.01	Im-3m	collinear	Im-3m	M Σ-	s/-	A1g	0
+0.1158	0.01	Im-3m	collinear	Im-3m	M Σ-	s/-	A1g	0
+0.1159	0.01	Pm-3m	collinear	Pm-3m	M Σ-	s/-	A1g	0
+0.1160	0.01	Pm-3m	collinear	Pm-3m	M Σ-	s/-	A1g	0
+0.1161	0.01	I4/mcm	coplanar	I4/mcm	M C Σ- Σ+	s/-	A1g ⊕ B2g	0
+0.1162	0.01	I4/mcm	coplanar	I4/mcm	M C Σ- Σ+	s/-	A1g ⊕ B2g	0
+0.1163	0.01	I4/mcm	coplanar	I4/mcm	M C Σ- Σ+	s/-	A1g ⊕ B2g	0
+0.1164	0.01	I4/mcm	coplanar	I4/mcm	M C Σ- Σ+	s/-	A1g ⊕ B2g	0
+0.1165	0.01	P4_32_12	collinear	P4_32_12	M C Σ-	s/-	A1	0
+0.1166	0.01	P4_32_12	collinear	P4_32_12	M C Σ-	s/-	A1	0
+0.1167	0.01	Pnma	collinear	Pnma	α-	-/-	B3u	0
+0.1168	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.1169	0.01	Pnma	coplanar	Pnma	C Σ- Σ+	d/-	B3g ⊕ B2g	0
+0.1170	0.01	Pnma	coplanar	Pnma	M C Σ- Σ+	s/-	Ag ⊕ B3g	0
+0.1171	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B3g ⊕ B2g	0
+0.1172	0.01	Pnma	non-coplanar	Pnma	C Σ- Σ+	d/-	B1g ⊕ B3g ⊕ B2g	0
+0.1173	0.01	P-42_1m	coplanar	P-42_1m	C Σ- Σ+ α-	d/h	B2 ⊕ A2	0
+0.1174	0.01	P6_3/mmc	collinear	P6_3/mmc	none	g/-	B2g	0
+0.1175	0.01	P6_3/mmc	non-coplanar	Amm2	Σ+ α+	-/p	Y1 ⊕ 2Y3	(0,0,1)
+0.1176	0.01	R-3c	collinear	R-3c	Σ-	g/-	A2g	0
+0.1177	0.01	C2/c	collinear	C2/c	α-	-/-	Bu	0
+0.1178	0.01	P2_1/c	non-coplanar	Pc	M C Σ- Σ+ σ- α- α+	s/p	A' ⊕ 2A''	0
+0.1179	0.01	P2_1/c	coplanar	P2_1/c	C Σ- Σ+	d/-	2Bg	0
+0.1180	0.01	Pa-3	non-coplanar	Pa-3	C Σ- Σ+	d/-	Tg	0
+0.1181	0.01	P6_3/mmc	coplanar	P6_3/mmc	C Σ- Σ+	d/-	E2g	0
+0.1182	0.01	P2_1/m	coplanar	P2_1/m	M C Σ- Σ+	s/-	2Ag	0
+0.1183	0.01	Pmc2_1	collinear	Pmc2_1	C Σ- α-	d/-	B1	0
+0.1184	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.1185	0.01	P6_3/mmc	collinear	P6_3/mmc	M C Σ-	s/-	A1g	0
+0.1186	0.01	P6_3/mmc	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.1187	0.01	P6_3/mmc	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.1188	0.01	P6_3/mmc	collinear	P6_3/mmc	none	-/-	B1u	0
+0.1189	0.01	R-3m	collinear	R-3m	M C Σ-	s/-	A1g	0
+0.1190	0.01	Cmcm	coplanar	Cmcm	M C Σ- Σ+	s/-	Ag ⊕ B3g	0
+0.1191	0.01	Cmcm	non-coplanar	Cmcm	M C Σ- Σ+ σ-	s/-	2Ag ⊕ B3g	0
+0.1192	0.01	Pbcn	collinear	Pbcn	M C Σ-	s/-	Ag	0
+0.1193	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.1194	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.1195	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.1196	0.01	Fd-3m	collinear	Fd-3m	M Σ-	s/-	A1g	0
+0.1197	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+0.1198	0.01	Cmcm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+1.0.1	0.01	C2/m	collinear	C2/m	α-	-/-	Au	0
+1.0.2	0.01	I4/mmm	collinear	Immm	M C Σ-	s/-	Ag	0
+1.0.3	0.01	P6_3/mmc	coplanar	P6_3/mcm	none	g/f	B1g ⊕ A1u	0
+1.0.4	0.01	P6_3/mmc	coplanar	P6_3/mcm	none	g/f	B1g ⊕ A1u	0
+1.0.5	0.01	R-3c	collinear	P-3c1	M C Σ-	s/-	A1g	0
+1.0.6	0.01	C2/m	collinear	C2/m	M C Σ-	s/-	Ag	0
+1.0.7	0.01	R-3m	collinear	C2/m	M C Σ-	s/-	Ag	0
+1.0.8	0.01	P-3m1	coplanar	P-3m1	none	-/f	K1	K
+1.0.9	0.01	P6_3/mmc	collinear	P6_3/mcm	none	g/-	B1g	0
+1.0.10	0.01	R-3c	collinear	P-3c1	M C Σ-	s/-	A1g	0
+1.0.11	0.01	I4mm	collinear	I4mm	M C Σ- α-	s/-	A1	0
+1.0.12	0.01	I4/mmm	collinear	Immm	M C Σ-	s/-	Ag	0
+1.0.13	0.01	P-3m1	collinear	C2/m	M C Σ-	s/-	Ag	0
+1.0.14	0.01	P6_3/mmc	coplanar	P6_3/mmc	none	-/f	K1	K
+1.0.15	0.01	R-3c	non-coplanar	R32	Σ- Σ+ α- α+	g/p	A2 ⊕ Λ1	0, (0,0,1), (0,0,-1)
+1.0.16	0.01	R-3c	collinear	P-3c1	Σ-	g/-	A2g	0
+1.0.17	0.01	P6_3mc	non-coplanar	P31m	M C Σ- Σ+ σ- α- α+	s/p	A1 ⊕ E	0
+1.0.18	0.01	P6_3/mmc	collinear	P6_3/mcm	M C Σ-	s/-	A1g	0
+1.0.19	0.01	P6_3/mmc	collinear	P6_3/mcm	M C Σ-	s/-	A1g	0
+1.0.20	0.01	P6_3/mmc	collinear	P6_3/mcm	M C Σ-	s/-	A1g	0
+1.0.21	0.01	P6_3/m	collinear	P6_3/m	none	-/-	Bu	0
+1.0.22	0.01	P6_3/m	coplanar	P6_3/m	M C Σ-	s/f	Ag ⊕ Bu	0
+1.0.23	0.01	P6_3/mmc	non-coplanar	Cmcm	M C Σ- Σ+ σ-	s/-	2Ag ⊕ B1g	0
+1.0.24	0.01	P6_3/mmc	coplanar	P6_3/mmc	none	-/f	K4	K
+1.0.25	0.01	Pna2_1	coplanar	Pna2_1	M C Σ- Σ+ α- α+	s/p	A1 ⊕ B2	0
+1.0.26	0.01	P6_3/mmc	collinear	P6_3/mcm	none	g/-	B1g	0
+1.0.27	0.01	P-31c	coplanar	P-3c1	C Σ- Σ+	d/-	Eg	0
+1.0.28	0.01	R3m	collinear	P3m1	M C Σ- α-	s/-	A1	0
+1.0.29	0.01	I4mm	collinear	I4mm	M C Σ- α-	s/-	A1	0
+1.0.30	0.01	Pnma	coplanar	Pnma	C Σ- α- α+	d/p	B1g ⊕ B2u	0
+1.0.31	0.01	P6_3/mmc	coplanar	P6_3/mmc	α+	g/p	B2g ⊕ B1u	0
+1.0.32	0.01	P6_3/mmc	coplanar	P6_3/mmc	α+	-/p	Δ1	(0,0,1/3), (0,0,-1/3)
+1.0.33	0.01	P6_3/m	coplanar	P6_3/m	C Σ- Σ+	d/-	E1g	0
+1.0.34	0.01	P6_3/mmc	coplanar	P6_3/mcm	none	g/f	B1g ⊕ A1u	0
+1.0.35	0.01	P6_3/mmc	coplanar	P6_3/mmc	none	-/f	K2	K
+1.0.36	0.01	P6_3/mmc	coplanar	P6_3/mcm	none	g/f	B1g ⊕ A1u	0
+1.0.37	0.01	P6_3/mmc	coplanar	P6_3/mcm	none	g/f	B1g ⊕ A1u	0
+1.0.38	0.01	P6_3/mmc	collinear	P6_3/mcm	none	g/-	B1g	0
+1.0.39	0.01	P6_3/mmc	collinear	P6_3/mcm	none	g/-	B1g	0
+1.0.40	0.01	P6_3/mmc	coplanar	P6_3/mmc	none	-/f	K1	K
+1.0.41	0.01	P6_3/mmc	coplanar	P6_3/mmc	none	-/f	K2	K
+1.0.42	0.01	P6_3/mmc	coplanar	P6_3/mmc	none	-/f	K2	K
+1.0.43	0.01	I4/mmm	collinear	I4/mmm	M C Σ-	s/-	A1g	0
+1.0.44	0.01	P6_3/mmc	coplanar	P6_3/mmc	none	-/f	K2	K
+1.0.45	0.01	P6_3/mmc	coplanar	P6_3/mmc	none	-/f	K2	K
+1.0.46	0.01	C2/c	coplanar	C2/c	α+	-/p	B2	(2/3,0,0), (-2/3,0,0)
+1.0.47	0.01	Pa-3	collinear	Pbca	C Σ-	d/-	B1g	0
+1.0.48	0.01	Pa-3	collinear	Pca2_1	C Σ-	d/-	A2	0
+1.0.49	0.01	P6_3	coplanar	P6_3	C Σ- Σ+ α- α+	d/p	E1	0
+1.0.50	0.01	C2/c	coplanar	C2/c	M C Σ- Σ+	s/-	2Ag	0
+1.0.51	0.01	P-31c	coplanar	R-3c	Σ+ α-	-/-	Eu	0
+1.0.52	0.01	P6/m	non-coplanar	P-6	C Σ- Σ+ α-	d/f	A'' ⊕ E'	0
+1.0.53	0.01	Cmmm	collinear	Cmmm	M C Σ-	s/-	Ag	0
+1.0.54	0.01	Cmmm	collinear	Cmmm	M C Σ-	s/-	Ag	0
+1.0.55	0.01	C2/c	non-coplanar	C2/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+1.0.56	0.01	C2/c	non-coplanar	C2/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2Bg	0
+1.0.57	0.01	I4_1md	collinear	Fdd2	M C Σ- α-	s/-	A1	0
+1.0.58	0.01	P-31c	coplanar	P-3c1	C Σ- Σ+	d/-	Eg	0
+1.0.59	0.01	P-31c	coplanar	R3c	C Σ- Σ+ α-	d/f	E	0
+1.0.60	0.01	Pbam	coplanar	Pbam	Σ+ α-	-/-	B3u ⊕ B2u	0
+1.0.61	0.01	P6_3/mmc	non-coplanar	P-62m	M C Σ- Σ+ σ-	s/f	A1' ⊕ E''	0
+1.0.62	0.01	P6_3/mmc	non-coplanar	P-62m	M C Σ- Σ+ σ-	s/f	A1' ⊕ E''	0
+1.0.63	0.01	P6_3/mmc	non-coplanar	P-62m	M C Σ- Σ+ σ-	s/f	A1' ⊕ E''	0
+1.0.64	0.01	P6_3/mmc	coplanar	P6_3/mmc	none	-/f	K1	K
+1.1	0.01	Pbcm	collinear	Pbcm	none	-/-	X4+	X
+1.2	0.01	C2/c	coplanar	C2/c	Σ+	-/-	Y1+ ⊕ Y2+	(1,0,0)
+1.3	0.01	I4_1/acd	collinear	Ibca	none	-/-	X1+	(0,0,1)
+1.4	0.01	P4/mmm	collinear	P4/mmm	none	-/-	M3-	M
+1.5	0.01	P4/mmm	collinear	P4/mmm	none	-/-	A1+	A
+1.6	0.01	Fm-3m	collinear	R-3m	none	-/-	T1+	T
+1.7	0.01	R32	collinear	R32	none	-/-	T1	T
+1.8	0.01	Cmcm	collinear	Cmcm	none	-/-	Y4-	(0,1,0)
+1.9	0.01	P4/nmm	collinear	Cmme	none	-/-	Y3+	(1,0,0)
+1.10	0.01	C2/m	collinear	C2/m	none	-/-	M1-	(0,1,1/2)
+1.11	0.01	P4_2/mbc	coplanar	P4_2/m	Σ+	-/-	M3-M4-	M
+1.12	0.01	I4/m	collinear	I4/m	none	-/-	M1+	(0,0,1)
+1.13	0.01	P-3m1	coplanar	P-3m1	none	-/f	H2	H
+1.14	0.01	Immm	coplanar	C2/m	Σ+	-/-	2M1+	(1,0,-1/2)
+1.15	0.01	Immm	coplanar	C2/m	Σ+	-/-	2M1+	(1,0,-1/2)
+1.16	0.01	Fmmm	collinear	Fmmm	none	-/-	T3+	(1,0,0)
+1.17	0.01	C2/m	collinear	C2/m	none	-/-	M2-	(1,0,-1/2)
+1.18	0.01	Pa-3	collinear	Pca2_1	none	-/-	Y2	Y
+1.19	0.01	Pbam	coplanar	Pmc2_1	Σ+ α+	-/p	Y1 ⊕ Y3	Y
+1.20	0.01	Pnma	collinear	Pmn2_1	none	-/-	Y4	Y
+1.21	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.22	0.01	I4/mmm	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.23	0.01	Cmce	collinear	Cmce	none	-/-	Y3+	(0,1,0)
+1.24	0.01	I4_1/amd	collinear	I4_122	none	-/-	M2	(0,0,1)
+1.25	0.01	R-3m	coplanar	R-3m	Σ+	-/-	T3-	T
+1.26	0.01	Cmcm	collinear	P2_1/m	none	-/-	B2+	(0,0,1/2)
+1.27	0.01	P2_1/m	collinear	P2_1/m	none	-/-	A2-	(1/2,0,-1/2)
+1.28	0.01	Fm-3m	collinear	Pmmn	none	-/-	Z2-	Z
+1.29	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.30	0.01	I4_1/acd	collinear	Ibca	none	-/-	X4-	(0,1,0)
+1.31	0.01	Fm-3m	collinear	R-3m	none	-/-	T1+	T
+1.32	0.01	P2_1/c	collinear	P2_1	none	-/-	B1	(0,0,1/2)
+1.33	0.01	P6_3mc	collinear	Cmc2_1	none	-/-	Y1	(0,1,0)
+1.34	0.01	P6_3mc	coplanar	Cmc2_1	Σ+ α+	-/p	Y1 ⊕ Y3	(0,1,0)
+1.35	0.01	I4_1/a	collinear	C2/c	none	-/-	Y1-	(0,1,0)
+1.36	0.01	Immm	coplanar	C2/m	Σ+	-/-	2M1+	(1,0,-1/2)
+1.37	0.01	P2/c	collinear	P2/c	none	-/-	C2+	(1/2,1/2,0)
+1.38	0.01	P2_1/c	coplanar	P-1	Σ+	-/-	2V1+	(1/2,1/2,0)
+1.39	0.01	P2_1/c	coplanar	P2_1/c	Σ+	-/-	Y1+ ⊕ Y2+	(1/2,0,0)
+1.40	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.41	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.42	0.01	Cmce	collinear	Cmce	none	-/-	Y3+	(0,1,0)
+1.43	0.01	Pnma	collinear	Pmc2_1	none	-/-	S1	S
+1.44	0.01	Pnma	coplanar	Pmc2_1	Σ+	-/f	S1 ⊕ S2	S
+1.45	0.01	Pnma	collinear	Pmc2_1	none	-/-	S1	S
+1.46	0.01	I4/m	collinear	P4/n	none	-/-	Z1+	Z
+1.47	0.01	I4/m	collinear	I4/m	none	-/-	M1+	(0,0,1)
+1.48	0.01	P2_1/c	coplanar	P2_1	Σ+ α+	-/p	2A1	(1/2,0,-1/2)
+1.49	0.01	C2/m	collinear	C2/m	none	-/-	A1+	(0,0,1/2)
+1.50	0.01	P6_322	collinear	C222_1	none	-/-	Y4	(0,1,0)
+1.51	0.01	Pnma	coplanar	P2_1/c	α+	-/p	Y2+ ⊕ Y2-	(1/2,0,0)
+1.52	0.01	Fmmm	collinear	Fmmm	none	-/-	T3+	(1,0,0)
+1.53	0.01	Immm	coplanar	C2/m	Σ+	-/-	2M1+	(1,0,-1/2)
+1.54	0.01	Pbam	coplanar	Pmc2_1	Σ+ α+	-/p	Y1 ⊕ Y3	Y
+1.55	0.01	P2_1/c	collinear	Pc	none	-/-	Z2	(0,1/2,0)
+1.56	0.01	Fd-3m	coplanar	R-3m	Σ+	-/-	T3+	T
+1.57	0.01	P-1	collinear	P-1	none	-/-	R1+	(1/2,-1/2,1/2)
+1.58	0.01	I4/mmm	collinear	Cm	none	-/-	M1	(1,0,-1/2)
+1.59	0.01	I4/m	collinear	I4/m	none	-/-	M2+	(1,0,0)
+1.60	0.01	R-3c	collinear	C2/c	none	-/-	Y1-	(0,1,0)
+1.61	0.01	P2/c	collinear	P2/c	none	-/-	C2-	(1/2,1/2,0)
+1.62	0.01	C2/c	collinear	P2_1/c	none	-/-	Y2-	(1/2,0,0)
+1.63	0.01	P2_1/c	collinear	P2_1/c	none	-/-	Y2-	(1/2,0,0)
+1.64	0.01	Cmc2_1	collinear	P2_1	none	-/-	A1	(1/2,0,-1/2)
+1.65	0.01	P4/mmm	collinear	P4/mmm	none	-/-	A1+	A
+1.66	0.01	P2_1/c	collinear	P-1	none	-/-	X1-	(1/2,0,0)
+1.67	0.01	P-62m	coplanar	Pmm2	Σ+ α+	-/p	U2 ⊕ U4	U
+1.68	0.01	P2_1	coplanar	P1	Σ+ α+	-/p	2U1	(1/2,0,-1/2)
+1.69	0.01	I4/mmm	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.70	0.01	C2/m	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.71	0.01	I4_1cd	collinear	Iba2	none	-/-	X4	(1,0,0)
+1.72	0.01	C2/m	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.73	0.01	P2_1/c	non-coplanar	P2_1/c	Σ+	-/-	2Y1+ ⊕ Y2+	(1/2,0,0)
+1.74	0.01	Pbam	coplanar	Pmc2_1	Σ+ α+	-/p	S2 ⊕ S4	S
+1.75	0.01	Pbam	non-coplanar	Pm	Σ+ α+	-/p	C1 ⊕ 2C2	(1/2,1/2,0)
+1.76	0.01	Pbam	coplanar	Pmc2_1	Σ+ α+	-/p	Y1 ⊕ Y3	Y
+1.77	0.01	I4_1/acd	coplanar	Ibca	Σ+	-/-	X1+ ⊕ X2+	(0,0,1)
+1.78	0.01	P2_1/c	collinear	P2_1/c	none	-/-	Y2+	(1/2,0,0)
+1.79	0.01	Pna2_1	collinear	Pc	none	-/-	C1	(1/2,1/2,0)
+1.80	0.01	P4/mmm	collinear	P4/mmm	none	-/-	A3-	A
+1.81	0.01	Pm-3m	collinear	P4/mmm	none	-/-	M1+	M
+1.82	0.01	P4/mmm	collinear	P4/mmm	none	-/-	A3-	A
+1.83	0.01	P2_1/c	coplanar	P2_1/c	Σ+	-/-	2Y1-	(1/2,0,0)
+1.84	0.01	Pm-3m	collinear	Pm-3m	none	-/-	R1+	R
+1.85	0.01	I-42m	non-coplanar	I-42m	Σ+ α+	-/p	M1 ⊕ M5	(1,0,0)
+1.86	0.01	Pmn2_1	collinear	Pmn2_1	none	-/-	Y1	Y
+1.87	0.01	P4/mmm	collinear	P4/mmm	none	-/-	A3-	A
+1.88	0.01	Cmcm	coplanar	Cmcm	Σ+	-/-	Y1+ ⊕ Y2+	(1,0,0)
+1.89	0.01	P3_121	non-coplanar	P3_121	Σ+ α+	-/p	A2 ⊕ A3	A
+1.90	0.01	P3_121	collinear	P3_121	none	-/-	A1	A
+1.91	0.01	P3_121	collinear	P3_121	none	-/-	A2	A
+1.92	0.01	P3_121	non-coplanar	P3_121	Σ+ α+	-/p	A2 ⊕ A3	A
+1.93	0.01	P3_121	coplanar	P3_121	Σ+	-/f	2A2	A
+1.94	0.01	P6_3/mmc	collinear	Cmcm	none	-/-	Y1+	(0,1,0)
+1.95	0.01	Pnma	coplanar	P2_1/c	Σ+	-/-	Y1+ ⊕ Y2+	(1/2,0,0)
+1.96	0.01	Pnma	coplanar	P2_1/c	Σ+	-/-	Y1+ ⊕ Y2+	(1/2,0,0)
+1.97	0.01	C2/m	collinear	C2/m	none	-/-	A1-	(0,0,1/2)
+1.98	0.01	Cmmm	coplanar	Pmm2	Σ+ α+	-/p	Z1 ⊕ Z3	Z
+1.99	0.01	Pcca	coplanar	Pcca	Σ+	-/-	Y1- ⊕ Y4-	Y
+1.100	0.01	I-42m	collinear	C2	none	-/-	M1	(1,0,-1/2)
+1.101	0.01	Pnma	collinear	Pmn2_1	none	-/-	Y4	Y
+1.102	0.01	P4/mbm	non-coplanar	P4/mbm	Σ+	-/-	Z1+ ⊕ Z5+	Z
+1.103	0.01	P4/mbm	collinear	P4/mbm	none	-/-	Z2-	Z
+1.104	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.105	0.01	Cmce	coplanar	Cmce	Σ+	-/-	Y1+ ⊕ Y3+	(1,0,0)
+1.106	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.107	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.108	0.01	Pbam	coplanar	Pm	Σ+ α+	-/p	2C1	(1/2,1/2,0)
+1.109	0.01	Pbam	coplanar	Pm	Σ+ α+	-/p	2C1	(1/2,1/2,0)
+1.110	0.01	P6/mmm	collinear	P6/mmm	none	-/-	A1+	A
+1.111	0.01	F-43m	collinear	R3m	none	-/-	T1	T
+1.112	0.01	P4_2/mnm	collinear	P2_1/m	none	-/-	A1+	(1/2,0,1/2)
+1.113	0.01	P4_2/mnm	collinear	P2_1/c	none	-/-	Y2+	(1/2,0,0)
+1.114	0.01	R-3c	coplanar	C2/c	Σ+	-/-	Y1- ⊕ Y2-	(0,1,0)
+1.115	0.01	P6_3/mmc	non-coplanar	C2/m	Σ+	-/-	2M1+ ⊕ M2+	(1,0,1/2)
+1.116	0.01	Pnma	coplanar	P2_1/m	Σ+	-/-	2A2+	(1/2,0,1/2)
+1.117	0.01	Pnma	coplanar	P2_1/m	Σ+	-/-	2A1+	(1/2,0,1/2)
+1.118	0.01	P2_1/c	coplanar	P2_1/c	Σ+	-/-	Y1- ⊕ Y2-	(1/2,0,0)
+1.119	0.01	Im-3	coplanar	Im-3	Σ+	-/-	H2+H3+	H
+1.120	0.01	Pnma	collinear	Pc	none	-/-	C2	(1/2,1/2,0)
+1.121	0.01	C2/c	collinear	C2/c	none	-/-	Y2+	(0,1,0)
+1.122	0.01	Pmmn	coplanar	Pmmn	Σ+	-/-	Z1+ ⊕ Z3+	Z
+1.123	0.01	Pmmn	coplanar	Pmmn	Σ+	-/-	Z1+ ⊕ Z3+	Z
+1.124	0.01	P2_1	coplanar	P2_1	Σ+ α+	-/p	Y1 ⊕ Y2	(1/2,0,0)
+1.125	0.01	Cmme	collinear	Cmme	none	-/-	T2-	(0,1,1/2)
+1.126	0.01	C2/c	coplanar	C2/c	Σ+	-/-	Y1+ ⊕ Y2+	(0,1,0)
+1.127	0.01	P2_1/c	coplanar	P2_1/c	Σ+	-/-	Y1- ⊕ Y2-	(1/2,0,0)
+1.128	0.01	P2_1/c	coplanar	P2_1/c	Σ+	-/-	Y1- ⊕ Y2-	(1/2,0,0)
+1.129	0.01	R-3m	coplanar	R-3m	Σ+	-/-	T3+	T
+1.130	0.01	P4/nmm	collinear	Pmmn	none	-/-	Z2-	Z
+1.131	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z1+	Z
+1.132	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z1+	Z
+1.133	0.01	P2_1/c	coplanar	P2_1/c	Σ+	-/-	Y1+ ⊕ Y2+	(1/2,0,0)
+1.134	0.01	C2/m	collinear	C2/m	none	-/-	Y1-	(0,1,0)
+1.135	0.01	P-1	non-coplanar	P-1	Σ+	-/-	3X1-	(1/2,0,0)
+1.136	0.01	Cm	collinear	Cm	none	-/-	M1	(1,0,-1/2)
+1.137	0.01	P2_1/c	collinear	P-1	none	-/-	V1-	(1/2,1/2,0)
+1.138	0.01	I-4m2	non-coplanar	F222	Σ+ α+	-/p	T1 ⊕ T2 ⊕ T3	(1,0,0)
+1.139	0.01	P4/mmm	collinear	Pmmm	none	-/-	X2-	X
+1.140	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.141	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.142	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y2-	(0,1,0)
+1.143	0.01	Pm-3m	collinear	P4/mmm	none	-/-	Z4-	Z
+1.144	0.01	C2/c	collinear	C2/c	none	-/-	Y1+	(0,1,0)
+1.145	0.01	Fm-3m	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.146	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z2+	Z
+1.147	0.01	P2_1/c	coplanar	P2_1/c	Σ+	-/-	Y1+ ⊕ Y2+	(1/2,0,0)
+1.148	0.01	Cmcm	collinear	Cmcm	none	-/-	Y4-	(0,1,0)
+1.149	0.01	Pbam	non-coplanar	Pbam	Σ+	-/-	Z2+ ⊕ Z3+ ⊕ Z4+	Z
+1.150	0.01	Pm-3m	collinear	P4/mmm	none	-/-	M4+	M
+1.151	0.01	Fm-3m	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.152	0.01	Pm-3m	non-coplanar	P4/mmm	Σ+ α+	-/p	M4+ ⊕ M5-	M
+1.153	0.01	Pm-3m	collinear	R-3m	none	-/-	T1+	T
+1.154	0.01	C2/c	collinear	C2/c	none	-/-	Y1+	(1,0,0)
+1.155	0.01	P-1	collinear	P-1	none	-/-	V1+	(1/2,-1/2,0)
+1.156	0.01	Im-3	collinear	I23	none	-/-	H1	H
+1.157	0.01	P4/n	collinear	P4/n	none	-/-	Z1-	Z
+1.158	0.01	Im-3	collinear	Im-3	none	-/-	H1+	H
+1.159	0.01	P-1	collinear	P-1	none	-/-	U1-	(1/2,0,-1/2)
+1.160	0.01	Fm-3m	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.161	0.01	R32	non-coplanar	R32	Σ+ α+	-/p	T1 ⊕ T3	T
+1.162	0.01	Pm-3m	collinear	P4/mmm	none	-/-	Z1+	Z
+1.163	0.01	P-62m	coplanar	P-6	Σ+	-/f	A4A6	A
+1.164	0.01	C2/c	coplanar	P-1	Σ+	-/-	2X1-	(1/2,0,0)
+1.165	0.01	R3	collinear	R3	none	-/-	T1	T
+1.166	0.01	P2_1/c	collinear	P-1	none	-/-	V1+	(1/2,1/2,0)
+1.167	0.01	Pa-3	non-coplanar	P-1	Σ+	-/-	3R1+	(1/2,1/2,1/2)
+1.168	0.01	I4/m	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.169	0.01	C2/c	collinear	C2/c	none	-/-	Y1+	(1,0,0)
+1.170	0.01	Pbam	coplanar	Pm	Σ+ α+	-/p	2C1	(1/2,1/2,0)
+1.171	0.01	C2/m	collinear	C2/m	none	-/-	A2-	(0,0,1/2)
+1.172	0.01	P4_2/mnm	collinear	Pma2	none	-/-	T1	T
+1.173	0.01	Pnma	coplanar	Pmc2_1	Σ+ α+	-/p	Y2 ⊕ Y4	Y
+1.174	0.01	Pnma	coplanar	Pmc2_1	Σ+ α+	-/p	Y2 ⊕ Y4	Y
+1.175	0.01	Pnma	coplanar	Pmn2_1	Σ+ α+	-/p	Y2 ⊕ Y4	Y
+1.176	0.01	I4/mmm	collinear	Cmme	none	-/-	T3+	(0,1,1/2)
+1.177	0.01	I4/m	collinear	P-1	none	-/-	Y1-	(0,1/2,0)
+1.178	0.01	C2/m	collinear	P-1	none	-/-	V1+	(1/2,-1/2,0)
+1.179	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z3-	Z
+1.180	0.01	C2/m	collinear	P-1	none	-/-	X1-	(1/2,0,0)
+1.181	0.01	P2_1/m	collinear	P2_1/m	none	-/-	Y2-	(1/2,0,0)
+1.182	0.01	P-1	collinear	P-1	none	-/-	V1+	(1/2,1/2,0)
+1.183	0.01	C2/m	collinear	C2/m	none	-/-	M1-	(0,1,1/2)
+1.184	0.01	P6_322	collinear	C222_1	none	-/-	Y4	(0,1,0)
+1.185	0.01	I4_1/amd	coplanar	I-4m2	Σ+	-/f	P3	(1/2,1/2,1/2), (1/2,1/2,-1/2)
+1.186	0.01	P-31m	collinear	P-31m	none	-/-	A2+	A
+1.187	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.188	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.189	0.01	Fm-3m	collinear	R-3m	none	-/-	T1+	T
+1.190	0.01	R-3	collinear	R-3	none	-/-	T1-	T
+1.191	0.01	R-3	collinear	R-3	none	-/-	T1-	T
+1.192	0.01	Pbam	collinear	Pmc2_1	none	-/-	Y1	Y
+1.193	0.01	P2_1/c	collinear	P-1	none	-/-	U1-	(1/2,0,1/2)
+1.194	0.01	P2/c	collinear	P2/c	none	-/-	Y2-	(1/2,0,0)
+1.195	0.01	Cmmm	collinear	Pmma	none	-/-	T4-	T
+1.196	0.01	Pbcn	coplanar	P2_1/c	Σ+	-/-	Y1+ ⊕ Y2+	(1/2,0,0)
+1.197	0.01	P-3m1	coplanar	C2/m	Σ+	-/-	M1+ ⊕ M2+	(1,0,1/2)
+1.198	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M2+	(0,0,1)
+1.199	0.01	P2_1/c	collinear	P2_1/c	none	-/-	Y2+	(1/2,0,0)
+1.200	0.01	P4/mbm	collinear	P4/mbm	none	-/-	Z2-	Z
+1.201	0.01	P4_2/mnm	non-coplanar	P2_1/c	Σ+	-/-	2Y1+ ⊕ Y2+	(1/2,0,0)
+1.202	0.01	C2/m	coplanar	C2/m	Σ+	-/-	M1- ⊕ M2-	(1,0,-1/2)
+1.203	0.01	Pnma	coplanar	Pnma	Σ+	-/-	U1+U4+	U
+1.204	0.01	Pnma	coplanar	P2_1/m	Σ+	-/-	2A1+	(1/2,0,1/2)
+1.205	0.01	C2/m	collinear	C2/m	none	-/-	A2-	(0,0,1/2)
+1.206	0.01	C2/m	collinear	C2/m	none	-/-	A2-	(0,0,1/2)
+1.207	0.01	P4/mbm	non-coplanar	P4/mbm	Σ+	-/-	Z2- ⊕ Z5-	Z
+1.208	0.01	Fm-3m	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.209	0.01	P-3m1	collinear	C2/m	none	-/-	A2-	(0,0,1/2)
+1.210	0.01	R-3	collinear	P-1	none	-/-	X1+	(1/2,0,0)
+1.211	0.01	P-3m1	collinear	C2/m	none	-/-	M2-	(1,0,1/2)
+1.212	0.01	P-3m1	collinear	C2/m	none	-/-	M2-	(1,0,1/2)
+1.213	0.01	P-3m1	collinear	C2/m	none	-/-	Y2-	(1,0,0)
+1.214	0.01	P-3m1	collinear	P-3m1	none	-/-	A2-	A
+1.215	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z1+	Z
+1.216	0.01	Immm	coplanar	C2/m	Σ+	-/-	2M1+	(1,0,-1/2)
+1.217	0.01	Immm	coplanar	C2/m	Σ+	-/-	2M1+	(1,0,-1/2)
+1.218	0.01	Immm	coplanar	C2/m	Σ+	-/-	2M1+	(1,0,-1/2)
+1.219	0.01	P2_1/c	collinear	P2_1/c	none	-/-	Y2+	(1/2,0,0)
+1.220	0.01	P4/mmm	collinear	P4/mmm	none	-/-	A1+	A
+1.221	0.01	Pmmm	collinear	Pmmm	none	-/-	R1+	R
+1.222	0.01	P4/mmm	collinear	Pmmm	none	-/-	X2-	X
+1.223	0.01	P4/mmm	collinear	Pmmm	none	-/-	U2-	U
+1.224	0.01	Pbcn	coplanar	P2_12_12	Σ+ α+	-/p	Z1 ⊕ Z2	Z
+1.225	0.01	P6/mmm	collinear	P6/mmm	none	-/-	A1+	A
+1.226	0.01	P4/nbm	coplanar	P4/nbm	Σ+	-/-	Z2- ⊕ Z3-	Z
+1.227	0.01	Ima2	coplanar	Ima2	Σ+ α+	-/p	2X1	(1,0,0)
+1.228	0.01	C2/m	collinear	C2/m	none	-/-	Y2+	(0,1,0)
+1.229	0.01	C2/m	collinear	P-1	none	-/-	U1-	(1/2,0,1/2)
+1.230	0.01	C2/m	collinear	C2/m	none	-/-	Y1-	(0,1,0)
+1.231	0.01	C2/m	coplanar	C2	Σ+ α+	-/p	2Y1	(0,1,0)
+1.232	0.01	F-43m	collinear	R3m	none	-/-	T1	T
+1.233	0.01	F-43m	collinear	R3m	none	-/-	T1	T
+1.234	0.01	R-3	coplanar	P-1	Σ+	-/-	2T1+	(0,1/2,-1/2)
+1.235	0.01	P42_12	non-coplanar	P42_12	Σ+ α+	-/p	Z2 ⊕ Z5	Z
+1.236	0.01	P4/nbm	collinear	P4/nbm	none	-/-	Z3-	Z
+1.237	0.01	P-3m1	coplanar	P-3m1	none	-/f	H1	H
+1.238	0.01	P-3m1	coplanar	P-3m1	none	-/f	H1	H
+1.239	0.01	P-3m1	collinear	C2/m	none	-/-	A1+	(0,0,1/2)
+1.240	0.01	P-3m1	collinear	P-1	none	-/-	X1-	(1/2,0,0)
+1.241	0.01	R-3m	collinear	R-3m	none	-/-	T1+	T
+1.242	0.01	P-3m1	collinear	P-3m1	none	-/-	A1+	A
+1.243	0.01	C2/m	collinear	P-1	none	-/-	R1+	(1/2,1/2,-1/2)
+1.244	0.01	R-3	collinear	R-3	none	-/-	T1+	T
+1.245	0.01	P-3m1	collinear	P-3m1	none	-/-	A1+	A
+1.246	0.01	R-3m	collinear	R-3m	none	-/-	T1+	T
+1.247	0.01	R-3m	collinear	R-3m	none	-/-	T1+	T
+1.248	0.01	R-3m	collinear	R-3m	none	-/-	T1+	T
+1.249	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.250	0.01	Pm-3m	collinear	Pm-3m	none	-/-	R1+	R
+1.251	0.01	I4/mmm	collinear	P4/mmm	none	-/-	Z3-	Z
+1.252	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.253	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.254	0.01	P4/mmm	collinear	P4/mmm	none	-/-	A1+	A
+1.255	0.01	P4/mmm	collinear	P4/mmm	none	-/-	Z1+	Z
+1.256	0.01	R-3	collinear	R-3	none	-/-	T1+	T
+1.257	0.01	R-3	collinear	P-1	none	-/-	R1+	(1/2,1/2,1/2)
+1.258	0.01	C2/c	collinear	C2/c	none	-/-	Y2+	(1,0,0)
+1.259	0.01	C2/c	collinear	C2/c	none	-/-	Y2+	(1,0,0)
+1.260	0.01	C2/c	collinear	P-1	none	-/-	X1-	(1/2,0,0)
+1.261	0.01	P4/mmm	collinear	P4/mmm	none	-/-	Z1+	Z
+1.262	0.01	P4/mmm	collinear	P4/mmm	none	-/-	Z1+	Z
+1.263	0.01	Cmc2_1	collinear	Cmc2_1	none	-/-	Y1	(1,0,0)
+1.264	0.01	C2/m	collinear	C2/m	none	-/-	Y1-	(0,1,0)
+1.265	0.01	F-43m	collinear	R3m	none	-/-	T1	T
+1.266	0.01	R32	coplanar	R32	Σ+	-/f	2T1	T
+1.267	0.01	Cmcm	non-coplanar	Amm2	Σ+ α+	-/p	Z1 ⊕ Z2 ⊕ Z4	(1/2,0,0)
+1.268	0.01	C2/m	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.269	0.01	C2/m	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.270	0.01	C2/m	collinear	C2/m	none	-/-	M2-	(1,0,-1/2)
+1.271	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z1+	Z
+1.272	0.01	P4/nmm	coplanar	P2_1/m	α+	-/p	Y1+ ⊕ Y2-	(1/2,0,0)
+1.273	0.01	Fmmm	collinear	Fmmm	none	-/-	T3-	(1,0,0)
+1.274	0.01	Pna2_1	non-coplanar	Pc	Σ+ α+	-/p	2C1 ⊕ C2	(1/2,1/2,0)
+1.275	0.01	P-6m2	collinear	P-6m2	none	-/-	A3	A
+1.276	0.01	P2_1/c	collinear	P2_1/c	none	-/-	Y2+	(1/2,0,0)
+1.277	0.01	F-43m	collinear	F-43m	M Σ-	s/-	A1	0
+1.278	0.01	P-1	collinear	P-1	none	-/-	R1+	(1/2,1/2,1/2)
+1.279	0.01	Pna2_1	non-coplanar	P2_1	Σ+ α+	-/p	2Y1 ⊕ Y2	(1/2,0,0)
+1.280	0.01	Pna2_1	coplanar	Pc	Σ+ α+	-/p	Y1 ⊕ Y2	(1/2,0,0)
+1.281	0.01	P4mm	collinear	P4mm	none	-/-	A3	A
+1.282	0.01	P4/mmm	collinear	P4/mmm	none	-/-	A4+	A
+1.283	0.01	P4/mmm	collinear	P4/mmm	none	-/-	A4+	A
+1.284	0.01	P4/mmm	collinear	P4/mmm	none	-/-	A2-	A
+1.285	0.01	P4/mmm	collinear	P4/mmm	none	-/-	A4+	A
+1.286	0.01	P-1	collinear	P-1	none	-/-	V1-	(1/2,-1/2,0)
+1.287	0.01	C2/c	collinear	C2/c	none	-/-	Y1-	(1,0,0)
+1.288	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.289	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.290	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.291	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.292	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.293	0.01	I4/mmm	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.294	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.295	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.296	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.297	0.01	P2_1/c	collinear	P2_1/c	none	-/-	Y2+	(1/2,0,0)
+1.298	0.01	Pbca	collinear	Pca2_1	none	-/-	Y1	Y
+1.299	0.01	Pbam	non-coplanar	Pmc2_1	Σ+ α+	-/p	Y1 ⊕ Y2 ⊕ Y3	Y
+1.300	0.01	Pbam	non-coplanar	Pmc2_1	Σ+ α+	-/p	Y1 ⊕ Y2 ⊕ Y3	Y
+1.301	0.01	P2_1/c	coplanar	P2_1/c	Σ+	-/-	Y1- ⊕ Y2-	(1/2,0,0)
+1.302	0.01	P2_1/c	coplanar	P2_1/c	Σ+	-/-	Y1+ ⊕ Y2+	(1/2,0,0)
+1.303	0.01	P6_3/mmc	non-coplanar	C2/m	Σ+	-/-	2M1+ ⊕ M2+	(1,0,1/2)
+1.304	0.01	R-3	collinear	P-1	none	-/-	U1-	(1/2,0,1/2)
+1.305	0.01	Cmcm	collinear	Cmcm	none	-/-	Y2+	(1,0,0)
+1.306	0.01	C2/c	coplanar	C2/c	Σ+	-/-	Y1+ ⊕ Y2+	(1,0,0)
+1.307	0.01	P6_3/mcm	non-coplanar	Amm2	Σ+ α+	-/p	3Y4	(0,1,0)
+1.308	0.01	R-3m	collinear	R-3m	none	-/-	T1+	T
+1.309	0.01	R-3m	collinear	R-3m	none	-/-	T1+	T
+1.310	0.01	P-3m1	collinear	P-3m1	none	-/-	A2-	A
+1.311	0.01	C2/m	collinear	P-1	none	-/-	T1-	(0,1/2,1/2)
+1.312	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.313	0.01	P4/nbm	collinear	P4/nbm	none	-/-	Z3-	Z
+1.314	0.01	C2/c	collinear	C2/c	none	-/-	Y1+	(1,0,0)
+1.315	0.01	P2/c	collinear	P2/c	none	-/-	Y2-	(1/2,0,0)
+1.316	0.01	I4/mmm	collinear	P4/mmm	none	-/-	Z3-	Z
+1.317	0.01	I4/mmm	coplanar	P4/mmm	Σ+	-/-	2Z3-	Z
+1.318	0.01	I4/mmm	collinear	Cmme	none	-/-	Z1+	(0,0,1/2)
+1.319	0.01	I4/mmm	collinear	Cmmm	none	-/-	Z1+	(0,0,1/2)
+1.320	0.01	P2_1/c	collinear	P-1	none	-/-	U1-	(1/2,0,1/2)
+1.321	0.01	I4/m	collinear	P-1	none	-/-	Z1-	(0,0,1/2)
+1.322	0.01	I4/m	collinear	P-1	none	-/-	Y1+	(0,1/2,0)
+1.323	0.01	C2/c	coplanar	C2/c	Σ+	-/-	2Y1+	(1,0,0)
+1.324	0.01	Pbam	coplanar	Pmc2_1	Σ+ α+	-/p	Y1 ⊕ Y3	Y
+1.325	0.01	Pbam	collinear	Pm	none	-/-	Y1	(1/2,0,0)
+1.326	0.01	Pbam	non-coplanar	Pbam	Σ+	-/-	Z1+ ⊕ Z2+ ⊕ Z4+	Z
+1.327	0.01	Pbam	non-coplanar	Pbam	Σ+	-/-	Z2+ ⊕ Z3+ ⊕ Z4+	Z
+1.328	0.01	P2_1/c	coplanar	P2_1	Σ+ α+	-/p	2B1	(0,0,1/2)
+1.329	0.01	P2_1/c	coplanar	P2_1	Σ+ α+	-/p	2B1	(0,0,1/2)
+1.330	0.01	P2_1/c	collinear	P2_1	none	-/-	B1	(0,0,1/2)
+1.331	0.01	P2_1/c	collinear	P2_1/c	none	-/-	Y1-	(1/2,0,0)
+1.332	0.01	C2/c	collinear	C2/c	none	-/-	Y1-	(1,0,0)
+1.333	0.01	P4/mbm	coplanar	P4/mbm	Σ+	-/-	Z5+	Z
+1.334	0.01	P4/mbm	collinear	Pbam	none	-/-	Z4+	Z
+1.335	0.01	P4/mbm	collinear	Pmm2	none	-/-	Z1	Z
+1.336	0.01	P4/mbm	coplanar	P4/mbm	Σ+	-/-	Z2- ⊕ Z3-	Z
+1.337	0.01	P4/mbm	collinear	P4/mbm	none	-/-	Z3-	Z
+1.338	0.01	P4/mbm	coplanar	P4/mbm	Σ+	-/-	Z5+	Z
+1.339	0.01	C2/m	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.340	0.01	Pnma	coplanar	Pmn2_1	Σ+	-/f	Y3 ⊕ Y4	Y
+1.341	0.01	Pnma	collinear	Pmn2_1	none	-/-	Y4	Y
+1.342	0.01	P2_1/c	non-coplanar	P2_1/c	Σ+	-/-	2Y1+ ⊕ Y2+	(1/2,0,0)
+1.343	0.01	R-3m	coplanar	R-3m	Σ+	-/-	2T1+	T
+1.344	0.01	R-3m	collinear	R-3m	none	-/-	T1+	T
+1.345	0.01	P2_1/c	coplanar	P2_1/c	Σ+	-/-	Y1+ ⊕ Y2+	(1/2,0,0)
+1.346	0.01	C2/c	collinear	C2/c	none	-/-	Y1-	(1,0,0)
+1.347	0.01	R-3m	collinear	P2/c	none	-/-	C1+	(1/2,1/2,0)
+1.348	0.01	R-3m	collinear	C2/m	none	-/-	A1+	(0,0,1/2)
+1.349	0.01	P6_322	collinear	C222_1	none	-/-	Y1	(0,1,0)
+1.350	0.01	Immm	coplanar	C2/m	Σ+	-/-	2M1+	(1,0,-1/2)
+1.351	0.01	P2_1/m	collinear	P2_1/m	none	-/-	Y1+	(1/2,0,0)
+1.352	0.01	P2_1/m	coplanar	P2_1/m	Σ+	-/-	2Y1+	(1/2,0,0)
+1.353	0.01	Pnma	collinear	Pmc2_1	none	-/-	S1	S
+1.354	0.01	Pnma	collinear	Pmc2_1	none	-/-	S1	S
+1.355	0.01	P2_1/m	collinear	P2_1/m	none	-/-	Y2-	(1/2,0,0)
+1.356	0.01	Cmcm	collinear	Cmcm	none	-/-	Y2-	(0,1,0)
+1.357	0.01	Cmcm	coplanar	Cmcm	Σ+	-/-	Y2- ⊕ Y4-	(0,1,0)
+1.358	0.01	P6/mmm	collinear	P6/mmm	none	-/-	A1+	A
+1.359	0.01	Cmcm	coplanar	Cmcm	Σ+	-/-	Y2- ⊕ Y4-	(0,1,0)
+1.360	0.01	P6/mmm	collinear	P6/mmm	none	-/-	A1+	A
+1.361	0.01	Cmcm	collinear	C2/m	none	-/-	A2-	(0,0,1/2)
+1.362	0.01	Cmcm	coplanar	Cmcm	Σ+	-/-	Y2- ⊕ Y4-	(0,1,0)
+1.363	0.01	I4/mmm	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.364	0.01	I4/mmm	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.365	0.01	I4/mmm	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.366	0.01	I4/mmm	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.367	0.01	P-3m1	collinear	C2/m	none	-/-	M1+	(1,0,1/2)
+1.368	0.01	Ibam	collinear	Ibam	none	-/-	X1+	(0,1,0)
+1.369	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.370	0.01	Immm	collinear	Immm	none	-/-	X1+	(0,0,1)
+1.371	0.01	Cmce	collinear	Cmce	none	-/-	Y3+	(0,1,0)
+1.372	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.373	0.01	C2/m	collinear	P-1	none	-/-	Y1-	(0,1/2,0)
+1.374	0.01	Pnma	collinear	Pm	none	-/-	A1	(1/2,0,1/2)
+1.375	0.01	P-1	collinear	P-1	none	-/-	Z1-	(0,0,1/2)
+1.376	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.377	0.01	P-1	collinear	P-1	none	-/-	Z1-	(0,0,1/2)
+1.378	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.379	0.01	Pnma	collinear	P2_1/c	none	-/-	Y1+	(1/2,0,0)
+1.380	0.01	P4/nmm	coplanar	P4/nmm	none	-/f	M3	M
+1.381	0.01	P4/nmm	coplanar	P4/nmm	none	-/f	M3	M
+1.382	0.01	P4/nmm	coplanar	P4/nmm	none	-/f	M3	M
+1.383	0.01	P4/nmm	coplanar	P4/nmm	none	-/f	M3	M
+1.384	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z1+	Z
+1.385	0.01	P4/nmm	coplanar	P4/nmm	none	-/f	M3	M
+1.386	0.01	P4/nmm	coplanar	P4/nmm	none	-/f	A3	A
+1.387	0.01	P4/nmm	coplanar	P4/nmm	none	-/f	M3	M
+1.388	0.01	Cccm	collinear	Cccm	none	-/-	Y3-	(0,1,0)
+1.389	0.01	P4/nmm	collinear	Cmme	none	-/-	Y3+	(1,0,0)
+1.390	0.01	C2/c	collinear	C2/c	none	-/-	Y1-	(1,0,0)
+1.391	0.01	Pbam	collinear	Pbam	none	-/-	Z1-	Z
+1.392	0.01	I4/mmm	collinear	Fmmm	none	-/-	T3+	(1,0,0)
+1.393	0.01	P4/mmm	collinear	P4/mmm	none	-/-	A3-	A
+1.394	0.01	P4/mmm	collinear	P4/mmm	none	-/-	A3-	A
+1.395	0.01	I4/mmm	collinear	Fmmm	none	-/-	T1+	(1,0,0)
+1.396	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.397	0.01	P-3m1	collinear	P-3m1	none	-/-	A1+	A
+1.398	0.01	I4/mmm	collinear	Fmmm	none	-/-	T1+	(1,0,0)
+1.399	0.01	I4/mmm	collinear	Fmmm	none	-/-	T1+	(1,0,0)
+1.400	0.01	I4/mmm	collinear	Fmmm	none	-/-	T1+	(1,0,0)
+1.401	0.01	P6_3/mcm	collinear	Cmcm	none	-/-	Y1+	(1,0,0)
+1.402	0.01	P6_3/mcm	collinear	Cmcm	none	-/-	Y1+	(1,0,0)
+1.403	0.01	Cmce	collinear	Cmce	none	-/-	Y3+	(0,1,0)
+1.404	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.405	0.01	Cmce	collinear	Cmce	none	-/-	Y3+	(0,1,0)
+1.406	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.407	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.408	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.409	0.01	C2/m	collinear	P-1	none	-/-	R1+	(1/2,1/2,1/2)
+1.410	0.01	Imma	collinear	Imma	none	-/-	X1+	(0,1,0)
+1.411	0.01	P-3m1	collinear	P-3m1	none	-/-	A1+	A
+1.412	0.01	Im-3	non-coplanar	Im-3	Σ+	-/-	H4-	H
+1.413	0.01	Cmmm	collinear	Cmmm	none	-/-	Y4-	(0,1,0)
+1.414	0.01	Cmmm	collinear	Cmmm	none	-/-	Y4-	(0,1,0)
+1.415	0.01	P4/mbm	collinear	Pmma	none	-/-	T4-	T
+1.416	0.01	P-3m1	collinear	C2/m	none	-/-	M2-	(1,0,1/2)
+1.417	0.01	P-3m1	collinear	C2/m	none	-/-	M2-	(1,0,1/2)
+1.418	0.01	I4_1/amd	coplanar	I-4m2	Σ+	-/f	P4	(1/2,1/2,1/2), (1/2,1/2,-1/2)
+1.419	0.01	Pm-3m	collinear	P4/mmm	none	-/-	M1+	M
+1.420	0.01	P4/mmm	collinear	P4/mmm	none	-/-	M3-	M
+1.421	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.422	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.423	0.01	Pm-3m	collinear	P4/mmm	none	-/-	Z1+	Z
+1.424	0.01	F-43m	collinear	R3m	none	-/-	T1	T
+1.425	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.426	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z3-	Z
+1.427	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.428	0.01	Fm-3m	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.429	0.01	Pnma	collinear	Pm	none	-/-	E1	(1/2,1/2,1/2)
+1.430	0.01	C2/m	collinear	P2/c	none	-/-	Z1-	(0,1/2,0)
+1.431	0.01	C2/m	coplanar	P-1	Σ+	-/-	2Y1+	(0,1/2,0)
+1.432	0.01	Fm-3m	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.433	0.01	Fm-3m	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.434	0.01	P2_1/m	collinear	P2_1/m	none	-/-	A2-	(1/2,0,-1/2)
+1.435	0.01	P2_1/m	collinear	P2_1/m	none	-/-	A2-	(1/2,0,-1/2)
+1.436	0.01	P2_1/m	collinear	P2_1/m	none	-/-	A2-	(1/2,0,-1/2)
+1.437	0.01	Pmmn	collinear	P2_1/m	none	-/-	A2-	(1/2,0,1/2)
+1.438	0.01	Cmc2_1	collinear	P2_1	none	-/-	A1	(1/2,0,-1/2)
+1.439	0.01	Cmc2_1	collinear	Pca2_1	none	-/-	Y2	Y
+1.440	0.01	C2	collinear	C2	none	-/-	A1	(0,0,1/2)
+1.441	0.01	R-3m	coplanar	R-3m	Σ+	-/-	T3-	T
+1.442	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.443	0.01	Pnma	coplanar	Pmc2_1	Σ+ α+	-/p	Y1 ⊕ Y3	Y
+1.444	0.01	Pnma	coplanar	Pmn2_1	Σ+ α+	-/p	Y1 ⊕ Y3	Y
+1.445	0.01	Pnma	collinear	P2_1/c	none	-/-	Y1+	(1/2,0,0)
+1.446	0.01	Pmma	collinear	Pmma	none	-/-	T2-	T
+1.447	0.01	Cmmm	collinear	Cmmm	none	-/-	Y4-	(0,1,0)
+1.448	0.01	Cmcm	collinear	P2/c	none	-/-	C2+	(1/2,1/2,0)
+1.449	0.01	P-1	collinear	P-1	none	-/-	Y1-	(0,1/2,0)
+1.450	0.01	I4/mcm	collinear	I4/mcm	none	-/-	M3+	(0,0,1)
+1.451	0.01	I4/mcm	collinear	I4/mcm	none	-/-	M3+	(0,0,1)
+1.452	0.01	P6/mmm	collinear	P6/mmm	none	-/-	A1+	A
+1.453	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.454	0.01	Fm-3m	collinear	I4/mmm	none	-/-	M4+	(0,0,1)
+1.455	0.01	Fm-3m	coplanar	Fmmm	Σ+	-/-	2Z1+	(0,0,1)
+1.456	0.01	I4/mmm	coplanar	I4/mmm	none	-/f	P1	(1/2,1/2,1/2), (1/2,1/2,-1/2)
+1.457	0.01	P4/nmm	collinear	Cmme	none	-/-	Y4-	(1,0,0)
+1.458	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.459	0.01	R32	collinear	R32	none	-/-	T1	T
+1.460	0.01	P6_3/mmc	collinear	Cmcm	none	-/-	Y1+	(0,1,0)
+1.461	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M2+	(0,0,1)
+1.462	0.01	P2_1/c	collinear	P2_1/c	none	-/-	Y2+	(1/2,0,0)
+1.463	0.01	Pbam	collinear	Pmc2_1	none	-/-	S1	S
+1.464	0.01	P-3m1	collinear	P-3m1	none	-/-	A1+	A
+1.465	0.01	P-3m1	collinear	P-3m1	none	-/-	A1+	A
+1.466	0.01	P4/mmm	collinear	P4/mmm	none	-/-	M4+	M
+1.467	0.01	P4/mmm	collinear	Pmmm	none	-/-	U1+	U
+1.468	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.469	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.470	0.01	C2/m	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.471	0.01	P-3m1	collinear	P-3m1	none	-/-	A1+	A
+1.472	0.01	P6_3mc	collinear	Cmc2_1	none	-/-	Y3	(0,1,0)
+1.473	0.01	P4/nbm	collinear	P4/nbm	none	-/-	Z1-	Z
+1.474	0.01	P4/nbm	collinear	P4/nbm	none	-/-	Z1-	Z
+1.475	0.01	Cmcm	collinear	Cmcm	none	-/-	Y4-	(0,1,0)
+1.476	0.01	P2_1/c	coplanar	P2_1/c	Σ+	-/-	Y1- ⊕ Y2-	(1/2,0,0)
+1.477	0.01	P2_1/c	coplanar	P2_1/c	Σ+	-/-	Y1- ⊕ Y2-	(1/2,0,0)
+1.478	0.01	Cmcm	collinear	P2_1/m	none	-/-	A2-	(1/2,0,-1/2)
+1.479	0.01	P4/mbm	collinear	P4/mbm	none	-/-	Z2-	Z
+1.480	0.01	P2_1/c	coplanar	P-1	Σ+	-/-	2V1-	(1/2,1/2,0)
+1.481	0.01	Cmcm	collinear	Cmcm	none	-/-	Y4-	(1,0,0)
+1.482	0.01	C2/m	collinear	P-1	none	-/-	X1-	(1/2,0,0)
+1.483	0.01	I4/mmm	collinear	Fmmm	none	-/-	T3+	(1,0,0)
+1.484	0.01	Pmn2_1	coplanar	Pc	Σ+ α+	-/p	C1 ⊕ C2	(1/2,1/2,0)
+1.485	0.01	P2_1/c	collinear	P2_1/c	none	-/-	Y2-	(1/2,0,0)
+1.486	0.01	P4/mmm	collinear	P4/mmm	none	-/-	Z3-	Z
+1.487	0.01	P4/mmm	collinear	P4/mmm	none	-/-	Z3-	Z
+1.488	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.489	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.490	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.491	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.492	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.493	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.494	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.495	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.496	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.497	0.01	P-3m1	collinear	P-3m1	none	-/-	A1+	A
+1.498	0.01	R-3	non-coplanar	R-3	Σ+	-/-	T1+ ⊕ T2+T3+	T
+1.499	0.01	P-3	coplanar	P-3	α+	-/p	H1	H
+1.500	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.501	0.01	Immm	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.502	0.01	C2/m	collinear	C2/m	none	-/-	A1+	(0,0,1/2)
+1.503	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.504	0.01	P6_3mc	collinear	Cmc2_1	none	-/-	Y1	(0,1,0)
+1.505	0.01	P6_3mc	collinear	Cmc2_1	none	-/-	Y1	(0,1,0)
+1.506	0.01	Cmc2_1	collinear	P2_1	none	-/-	Y1	(1/2,0,0)
+1.507	0.01	I4/mmm	collinear	Pmmn	none	-/-	Z1+	Z
+1.508	0.01	Cmmm	collinear	Cmmm	none	-/-	Z1+	(0,0,1/2)
+1.509	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.510	0.01	I4/mmm	collinear	P4/mmm	none	-/-	Z3-	Z
+1.511	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.512	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.513	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.514	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.515	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.516	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.517	0.01	Fm-3c	coplanar	I4/mcm	α+	-/p	M3+ ⊕ M1-	(0,0,1)
+1.518	0.01	Fm-3c	coplanar	I4/mcm	α+	-/p	M3+ ⊕ M1-	(0,0,1)
+1.519	0.01	Cmcm	coplanar	Cmcm	Σ+	-/-	Y1+ ⊕ Y3+	(0,1,0)
+1.520	0.01	Cmcm	collinear	Cmcm	none	-/-	Y1+	(0,1,0)
+1.521	0.01	Cmcm	collinear	Cmcm	none	-/-	Y1+	(0,1,0)
+1.522	0.01	Cmcm	collinear	Cmcm	C Σ-	d/-	B3g	0
+1.523	0.01	Cmcm	collinear	Pbcm	none	-/-	X3+	X
+1.524	0.01	P6_3cm	coplanar	P31m	Σ+	-/f	A3	A
+1.525	0.01	P6_3cm	coplanar	P31m	Σ+	-/f	A3	A
+1.526	0.01	P2_1/c	collinear	P2_1/c	none	-/-	Y2+	(1/2,0,0)
+1.527	0.01	P6_3/mmc	collinear	Cmcm	none	-/-	Y1+	(0,1,0)
+1.528	0.01	Pbam	coplanar	Pbam	Σ+	-/-	R3+R4+	R
+1.529	0.01	R-3m	collinear	R-3m	none	-/-	T1+	T
+1.530	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.531	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.532	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.533	0.01	I4/mmm	coplanar	Pmmm	α+	-/p	Z1+ ⊕ Z2-	Z
+1.534	0.01	I4/mmm	collinear	Pmmm	none	-/-	Z1+	Z
+1.535	0.01	I4/mmm	collinear	P4/nmm	none	-/-	Z1+	Z
+1.536	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.537	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.538	0.01	R-3m	collinear	C2/m	none	-/-	Y1+	(1,0,0)
+1.539	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z4-	Z
+1.540	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z4-	Z
+1.541	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z4-	Z
+1.542	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z4-	Z
+1.543	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z4-	Z
+1.544	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z4-	Z
+1.545	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z4-	Z
+1.546	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z4-	Z
+1.547	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z4-	Z
+1.548	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z4-	Z
+1.549	0.01	P4/mbm	coplanar	P4/mbm	Σ+	-/-	Z5+	Z
+1.550	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z4-	Z
+1.551	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z4-	Z
+1.552	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z4-	Z
+1.553	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z4-	Z
+1.554	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z4-	Z
+1.555	0.01	Immm	collinear	Immm	none	-/-	X1+	(0,0,1)
+1.556	0.01	I4/mcm	collinear	I4/mcm	none	-/-	M1+	(1,0,0)
+1.557	0.01	I4/mcm	collinear	I4/mcm	none	-/-	M1+	(1,0,0)
+1.558	0.01	I4/mcm	collinear	Fmmm	none	-/-	Z2-	(0,0,1)
+1.559	0.01	I4/mcm	collinear	Cmmm	none	-/-	Z2-	(0,0,1/2)
+1.560	0.01	Fd-3m	collinear	R-3m	none	-/-	T1+	T
+1.561	0.01	Fd-3m	collinear	R3m	none	-/-	T1	T
+1.562	0.01	Fd-3m	coplanar	R-3m	α+	-/p	T1+ ⊕ T2-	T
+1.563	0.01	Fd-3m	collinear	R3m	none	-/-	T1	T
+1.564	0.01	Fd-3m	coplanar	R-3m	α+	-/p	T1+ ⊕ T2-	T
+1.565	0.01	P2_1/c	collinear	Pc	none	-/-	Y2	(1/2,0,0)
+1.566	0.01	Fm-3m	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.567	0.01	Fm-3m	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.568	0.01	I4/mmm	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.569	0.01	P-31m	collinear	P-31m	none	-/-	A2+	A
+1.570	0.01	Cmcm	collinear	P2_1/m	none	-/-	B2+	(0,0,1/2)
+1.571	0.01	Cmcm	collinear	P2_1/m	none	-/-	B2+	(0,0,1/2)
+1.572	0.01	Cmcm	collinear	P2_1/m	none	-/-	B2+	(0,0,1/2)
+1.573	0.01	Pnma	collinear	P2_1/m	none	-/-	A1+	(1/2,0,1/2)
+1.574	0.01	F-43m	collinear	I-4m2	none	-/-	M2	(0,0,1)
+1.575	0.01	Pm-3m	collinear	P4/mmm	none	-/-	Z1+	Z
+1.576	0.01	P-3m1	collinear	P-3m1	none	-/-	A2-	A
+1.577	0.01	Pnma	coplanar	P2_1/c	Σ+	-/-	Y1- ⊕ Y2-	(1/2,0,0)
+1.578	0.01	R-3m	collinear	C2/m	none	-/-	M2-	(1,0,-1/2)
+1.579	0.01	R-3	collinear	R-3	none	-/-	T1+	T
+1.580	0.01	R-3	collinear	R-3	none	-/-	T1+	T
+1.581	0.01	R-3	collinear	R-3	none	-/-	T1+	T
+1.582	0.01	Fm-3m	collinear	R-3m	none	-/-	T1+	T
+1.583	0.01	Cmm2	collinear	Pma2	none	-/-	T1	T
+1.584	0.01	Cmme	coplanar	Cmme	Σ+	-/-	Y1+ ⊕ Y3+	(0,1,0)
+1.585	0.01	Cmme	collinear	Cmme	none	-/-	Y1+	(0,1,0)
+1.586	0.01	Cmme	collinear	Aem2	none	-/-	Y2	(0,0,1)
+1.587	0.01	Cmme	coplanar	Cmme	Σ+	-/-	Y1+ ⊕ Y3+	(0,1,0)
+1.588	0.01	Cmme	collinear	Cmme	none	-/-	T2-	(0,1,1/2)
+1.589	0.01	P6_322	collinear	P2_12_12	none	-/-	Z4	Z
+1.590	0.01	Pm-3m	collinear	Pm-3m	none	-/-	R2-	R
+1.591	0.01	Pm-3m	collinear	Pm-3m	none	-/-	R2-	R
+1.592	0.01	P2_1/c	collinear	Pc	none	-/-	Y2	(1/2,0,0)
+1.593	0.01	Cmcm	collinear	Pbcm	none	-/-	X4-	X
+1.594	0.01	Cmcm	collinear	Pbcm	none	-/-	X2+	X
+1.595	0.01	P6_3mc	non-coplanar	P31m	Σ+ α+	-/p	2A1 ⊕ A2	A
+1.596	0.01	P4/nmm	collinear	P2_1/m	none	-/-	Y2-	(1/2,0,0)
+1.597	0.01	P4/nmm	collinear	P2_1/m	none	-/-	A2-	(1/2,0,1/2)
+1.598	0.01	P4/mmm	collinear	P4/mmm	none	-/-	A1+	A
+1.599	0.01	Pbam	coplanar	Pm	Σ+ α+	-/p	2Y1	(1/2,0,0)
+1.600	0.01	P4_2/mbc	coplanar	P4_2/mbc	Σ+	-/-	M2-M3-	M
+1.601	0.01	P4_2/mbc	coplanar	P4_2/mbc	Σ+	-/-	M2-M3-	M
+1.602	0.01	P4_2/mbc	coplanar	P4_2/mbc	Σ+	-/-	M2-M3-	M
+1.603	0.01	P4_2/mbc	coplanar	P4_2/mbc	Σ+	-/-	M2-M3-	M
+1.604	0.01	P4_2/mbc	coplanar	P4_2/m	Σ+	-/-	M3-M4-	M
+1.605	0.01	P4_2/mbc	coplanar	P4_2/m	Σ+	-/-	M3-M4-	M
+1.606	0.01	P4_2/mbc	coplanar	P4_2/m	Σ+	-/-	M3-M4-	M
+1.607	0.01	P4_2/mbc	coplanar	P4_2/m	Σ+	-/-	M3-M4-	M
+1.608	0.01	P4_2/mbc	coplanar	P4_2/m	Σ+	-/-	M3-M4-	M
+1.609	0.01	P4_2/mbc	coplanar	P4_2/m	Σ+	-/-	M3-M4-	M
+1.610	0.01	P4_2/mbc	coplanar	P4_2/m	Σ+	-/-	M3-M4-	M
+1.611	0.01	P4_2/mbc	coplanar	P4_2/m	Σ+	-/-	M3-M4-	M
+1.612	0.01	P4_2/mbc	coplanar	P4_2/m	Σ+	-/-	M3-M4-	M
+1.613	0.01	P4_2/mbc	coplanar	P4_2/m	Σ+	-/-	M3-M4-	M
+1.614	0.01	P4_2/mbc	coplanar	P4_2/m	Σ+	-/-	M3-M4-	M
+1.615	0.01	P4_2/mbc	coplanar	P4_2/m	Σ+	-/-	M3-M4-	M
+1.616	0.01	P4_2/mbc	coplanar	P4_2/m	Σ+	-/-	M3-M4-	M
+1.617	0.01	P-1	collinear	P-1	none	-/-	Z1-	(0,0,1/2)
+1.618	0.01	Fm-3m	collinear	R-3m	none	-/-	T1+	T
+1.619	0.01	Fm-3m	collinear	R-3m	none	-/-	T1+	T
+1.620	0.01	Imma	collinear	Imma	none	-/-	X2-	(0,1,0)
+1.621	0.01	Fm-3c	collinear	I4/mcm	none	-/-	M3+	(0,0,1)
+1.622	0.01	C2/c	coplanar	C2/c	Σ+	-/-	2Y1+	(1,0,0)
+1.623	0.01	P-3m1	collinear	P-3m1	none	-/-	A1+	A
+1.624	0.01	R-3m	collinear	R-3m	none	-/-	T1+	T
+1.625	0.01	Pbam	collinear	Pbam	none	-/-	Z4+	Z
+1.626	0.01	Pbam	collinear	Pmc2_1	none	-/-	S4	S
+1.627	0.01	R-3m	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.628	0.01	Cmcm	collinear	Cmcm	none	-/-	Y4-	(0,1,0)
+1.629	0.01	P6/mmm	collinear	P6/mmm	none	-/-	A1+	A
+1.630	0.01	P6/mmm	collinear	P6/mmm	none	-/-	A1+	A
+1.631	0.01	P6/mmm	collinear	P6/mmm	none	-/-	A1+	A
+1.632	0.01	Immm	collinear	Immm	none	-/-	X4-	(0,0,1)
+1.633	0.01	Immm	collinear	Immm	none	-/-	X4-	(0,0,1)
+1.634	0.01	Cmcm	collinear	Cmcm	none	-/-	Y3-	(0,1,0)
+1.635	0.01	I4/mmm	collinear	P4/nmm	none	-/-	Z3-	Z
+1.636	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.637	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.638	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.639	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.640	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.641	0.01	P-42_1m	collinear	P-42_1m	none	-/-	Z4	Z
+1.642	0.01	C2/m	collinear	C2/m	none	-/-	M1-	(1,0,-1/2)
+1.643	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z3-	Z
+1.644	0.01	R-3m	collinear	R-3m	none	-/-	T1+	T
+1.645	0.01	P6_322	coplanar	C222_1	Σ+ α+	-/p	Y1 ⊕ Y4	(0,1,0)
+1.646	0.01	P6_3/mcm	collinear	Amm2	none	-/-	T2	(1/2,1,0)
+1.647	0.01	P6_3/mcm	coplanar	Cmcm	Σ+	-/-	Y1- ⊕ Y3-	(1,0,0)
+1.648	0.01	P-3m1	collinear	C2/m	none	-/-	M1+	(1,0,1/2)
+1.649	0.01	R-3c	coplanar	C2/c	Σ+	-/-	Y1- ⊕ Y2-	(0,1,0)
+1.650	0.01	Pnma	coplanar	P2_1/c	Σ+	-/-	Y1+ ⊕ Y2+	(1/2,0,0)
+1.651	0.01	Pnma	coplanar	P2_1/c	Σ+	-/-	Y1+ ⊕ Y2+	(1/2,0,0)
+1.652	0.01	P4/mbm	collinear	Pmma	none	-/-	T3+	T
+1.653	0.01	P2/c	collinear	P2/c	none	-/-	Y2-	(1/2,0,0)
+1.654	0.01	Pbcn	collinear	P2/c	none	-/-	Z1-	(0,1/2,0)
+1.655	0.01	Pbcn	collinear	P2_12_12	none	-/-	Z1	Z
+1.656	0.01	Pbcn	collinear	P2_1/c	none	-/-	Y2-	(1/2,0,0)
+1.657	0.01	P2_1/c	coplanar	P2_1	Σ+ α+	-/p	2A1	(1/2,0,-1/2)
+1.658	0.01	R-3m	collinear	C2/m	none	-/-	M1+	(1,0,-1/2)
+1.659	0.01	Iba2	collinear	Iba2	none	-/-	X2	(0,1,0)
+1.660	0.01	P2_1/c	coplanar	P2_1/c	Σ+	-/-	Y1- ⊕ Y2-	(1/2,0,0)
+1.661	0.01	P2_1/c	coplanar	P-1	Σ+	-/-	2V1-	(1/2,1/2,0)
+1.662	0.01	P2_1/c	coplanar	P-1	Σ+	-/-	2V1-	(1/2,1/2,0)
+1.663	0.01	Cmmm	collinear	P2/m	none	-/-	C2+	(1/2,1/2,0)
+1.664	0.01	I4_1/amd	collinear	Imma	none	-/-	X1+	(1,0,0)
+1.665	0.01	P-3m1	coplanar	P-3m1	none	-/f	H2	H
+1.666	0.01	P4/mmm	collinear	Pmmm	none	-/-	U1+	U
+1.667	0.01	P4/mmm	collinear	Pmmm	none	-/-	U1+	U
+1.668	0.01	P4/mmm	collinear	Pmmm	none	-/-	U1+	U
+1.669	0.01	P-3	coplanar	P-3	α+	-/p	P1	(1/3,1/3,1/4), (2/3,-1/3,-1/4)
+1.670	0.01	P4/mmm	collinear	P4/mmm	none	-/-	M1+	M
+1.671	0.01	P4/mmm	collinear	P4/mmm	none	-/-	Z1+	Z
+1.672	0.01	P-3m1	collinear	P-3m1	none	-/-	A1+	A
+1.673	0.01	P-3m1	collinear	P-3m1	none	-/-	A1+	A
+1.674	0.01	P2_1/c	collinear	P-1	none	-/-	V1-	(1/2,1/2,0)
+1.675	0.01	P-1	collinear	P-1	none	-/-	R1-	(1/2,1/2,1/2)
+1.676	0.01	P6_322	collinear	C222_1	none	-/-	Y1	(0,1,0)
+1.677	0.01	P6_322	collinear	P2_12_12	none	-/-	Z4	Z
+1.678	0.01	Pmmn	collinear	Pmmn	none	-/-	Z1+	Z
+1.679	0.01	P2_1/c	collinear	P-1	none	-/-	V1+	(1/2,1/2,0)
+1.680	0.01	P2_1/c	non-coplanar	P-1	Σ+	-/-	3V1+	(1/2,1/2,0)
+1.681	0.01	Pbam	collinear	P2/m	none	-/-	C1+	(1/2,1/2,0)
+1.682	0.01	Pnma	collinear	Pmn2_1	none	-/-	Y1	Y
+1.683	0.01	P4/mmm	collinear	P4/mmm	none	-/-	A1+	A
+1.684	0.01	Pm-3m	collinear	Pm-3m	none	-/-	R1+	R
+1.685	0.01	Fddd	collinear	F222	none	-/-	Z4	(0,0,1)
+1.686	0.01	Cmmm	collinear	P2/m	none	-/-	C1-	(1/2,1/2,0)
+1.687	0.01	Cmmm	collinear	Cmmm	none	-/-	Z2-	(0,0,1/2)
+1.688	0.01	I4_1/amd	coplanar	I2_12_12_1	Σ+ α+	-/p	X1 ⊕ X3	(0,0,1)
+1.689	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.690	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.691	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.692	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.693	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.694	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(0,0,1)
+1.695	0.01	Fd-3m	collinear	R-3m	none	-/-	T1+	T
+1.696	0.01	Cmcm	collinear	Cmcm	none	-/-	Y4-	(0,1,0)
+1.697	0.01	Pbam	collinear	Pmc2_1	none	-/-	Y3	Y
+1.698	0.01	Pnma	coplanar	P2_1/c	Σ+	-/-	Y1- ⊕ Y2-	(1/2,0,0)
+1.699	0.01	F-43m	collinear	P-4m2	none	-/-	A1	A
+1.700	0.01	F-43m	collinear	P-4m2	none	-/-	A1	A
+1.701	0.01	F-43m	collinear	R3m	none	-/-	T1	T
+1.702	0.01	Pmmm	collinear	Pmmm	none	-/-	S2-	S
+1.703	0.01	Pmma	collinear	Pmma	none	-/-	Y4-	Y
+1.704	0.01	Pmma	collinear	Pmma	none	-/-	Y4-	Y
+1.705	0.01	P6_3/mcm	coplanar	Cmcm	Σ+	-/-	Y1- ⊕ Y3-	(1,0,0)
+1.706	0.01	Fm-3m	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.707	0.01	Fm-3m	collinear	R-3m	none	-/-	T1+	T
+1.708	0.01	C2	collinear	C2	none	-/-	A1	(0,0,1/2)
+1.709	0.01	P-62m	coplanar	Amm2	Σ+ α+	-/p	T1 ⊕ T4	(1/2,1,0)
+1.710	0.01	Pm	non-coplanar	Pm	Σ+ α+	-/p	E1 ⊕ 2E2	(1/2,1/2,-1/2)
+1.711	0.01	P-62m	coplanar	P-62m	Σ+	-/f	A5	A
+1.712	0.01	P-62m	coplanar	Amm2	Σ+ α+	-/p	T1 ⊕ T4	(1/2,1,0)
+1.713	0.01	P-62m	coplanar	Amm2	Σ+ α+	-/p	T1 ⊕ T4	(1/2,1,0)
+1.714	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z3-	Z
+1.715	0.01	P2_1/c	collinear	P2_1/c	none	-/-	Y2+	(1/2,0,0)
+1.716	0.01	P2_1/c	coplanar	P2_1/c	Σ+	-/-	Y1- ⊕ Y2-	(1/2,0,0)
+1.717	0.01	P2_1/c	coplanar	P2_1/c	Σ+	-/-	Y1- ⊕ Y2-	(1/2,0,0)
+1.718	0.01	P2_1/c	coplanar	P-1	Σ+	-/-	2T1+	(0,1/2,1/2)
+1.719	0.01	P2_1/c	collinear	P-1	none	-/-	T1-	(0,1/2,1/2)
+1.720	0.01	Ia-3	non-coplanar	Ia-3	Σ+	-/-	H4-	H
+1.721	0.01	F-43m	collinear	R3m	none	-/-	T1	T
+1.722	0.01	P6_3/mmc	collinear	Cmcm	none	-/-	Y1+	(0,1,0)
+1.723	0.01	Pnma	collinear	Pc	none	-/-	C2	(1/2,1/2,0)
+1.724	0.01	R-3m	collinear	C2/m	none	-/-	Y1+	(1,0,0)
+1.725	0.01	P-3m1	coplanar	P-3m1	none	-/f	H2	H
+1.726	0.01	P3_112	collinear	C2	none	-/-	M1	(0,1,1/2)
+1.727	0.01	Immm	collinear	Pmmn	none	-/-	Z1+	Z
+1.728	0.01	C2/m	collinear	C2/m	none	-/-	M2-	(1,0,-1/2)
+1.729	0.01	C2/m	collinear	C2/m	none	-/-	A2-	(0,0,1/2)
+1.730	0.01	Pmn2_1	coplanar	Pc	Σ+ α+	-/p	Y1 ⊕ Y2	(1/2,0,0)
+1.731	0.01	Pmn2_1	coplanar	Pc	Σ+ α+	-/p	C1 ⊕ C2	(1/2,1/2,0)
+1.732	0.01	I-42m	collinear	C2	none	-/-	M1	(1,0,-1/2)
+1.733	0.01	Pmn2_1	coplanar	Pc	Σ+ α+	-/p	Y1 ⊕ Y2	(1/2,0,0)
+1.734	0.01	I-42m	collinear	C2	none	-/-	A1	(0,0,1/2)
+1.735	0.01	Pc	collinear	Pc	none	-/-	C1	(1/2,1/2,0)
+1.736	0.01	P-1	collinear	P-1	none	-/-	U1+	(1/2,0,-1/2)
+1.737	0.01	P-62m	collinear	P-62m	none	-/-	A1	A
+1.738	0.01	P-62m	collinear	Amm2	none	-/-	T3	(1/2,1,0)
+1.739	0.01	C2/m	coplanar	P-1	Σ+	-/-	2R1+	(1/2,1/2,1/2)
+1.740	0.01	Pmmn	collinear	Pmm2	none	-/-	T3	T
+1.741	0.01	R-3	collinear	P-1	none	-/-	U1+	(1/2,0,1/2)
+1.742	0.01	R-3	collinear	P-1	none	-/-	U1-	(1/2,0,1/2)
+1.743	0.01	I4mm	collinear	P4mm	none	-/-	Z1	Z
+1.744	0.01	Pnma	collinear	P2_1/c	none	-/-	Y1+	(1/2,0,0)
+1.745	0.01	Cmce	coplanar	Cmce	Σ+	-/-	Y1+ ⊕ Y4+	(0,1,0)
+1.746	0.01	Fd-3m	collinear	I4_122	none	-/-	M2	(0,0,1)
+1.747	0.01	P-62m	coplanar	P-62m	Σ+	-/f	A6	A
+1.748	0.01	P-62m	coplanar	P-62m	Σ+	-/f	A6	A
+1.749	0.01	P4/nmm	collinear	P2_1/m	none	-/-	Y1+	(1/2,0,0)
+1.750	0.01	P4/nmm	collinear	P2_1/m	none	-/-	A1+	(1/2,0,-1/2)
+1.751	0.01	Im-3	non-coplanar	Pn-3	Σ+	-/-	R4-	R
+1.752	0.01	P2_1/m	coplanar	P2_1/m	Σ+	-/-	Y1+ ⊕ Y2+	(1/2,0,0)
+1.753	0.01	Fm-3m	collinear	R-3m	none	-/-	T1+	T
+1.754	0.01	Cmc2_1	collinear	Cmc2_1	none	-/-	Y2	(0,1,0)
+1.755	0.01	R-3m	collinear	C2/m	none	-/-	M2-	(1,0,-1/2)
+1.756	0.01	Cmcm	collinear	Pbcm	none	-/-	X3+	X
+1.757	0.01	P-42_1m	coplanar	P-42_1m	Σ+	-/f	Z1 ⊕ Z4	Z
+1.758	0.01	R-3	coplanar	R-3	Σ+	-/-	T2+T3+	T
+1.759	0.01	Fd-3m	non-coplanar	P-4n2	Σ+ α+	-/p	A1 ⊕ A5	A
+1.760	0.01	Fd-3m	coplanar	I-4m2	Σ+	-/f	P1	(1/2,1/2,-1/2), (1/2,1/2,1/2)
+1.761	0.01	Fd-3m	collinear	P-4n2	none	-/-	A2	A
+1.762	0.01	Cmcm	collinear	Pbcm	none	-/-	X3+	X
+1.763	0.01	Ama2	coplanar	C2	Σ+ α+	-/p	M1 ⊕ M2	(1,0,1/2)
+1.764	0.01	P4/nmm	coplanar	P2_1/m	α+	-/p	A1+ ⊕ A2-	(1/2,0,-1/2)
+1.765	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z1+	Z
+1.766	0.01	P4/nmm	collinear	P2_1/m	none	-/-	A1+	(1/2,0,-1/2)
+1.767	0.01	Cmmm	collinear	Cmmm	none	-/-	Y1+	(0,1,0)
+1.768	0.01	P6_3mc	coplanar	Cmc2_1	Σ+ α+	-/p	Y1 ⊕ Y3	(0,1,0)
+1.769	0.01	C2/c	coplanar	C2/c	Σ+	-/-	Y1+ ⊕ Y2+	(1,0,0)
+1.770	0.01	Cmmm	collinear	P2/m	none	-/-	C2+	(1/2,1/2,0)
+1.771	0.01	C2/m	collinear	P-1	none	-/-	X1-	(1/2,0,0)
+1.772	0.01	P-42_1m	coplanar	P-42_1m	Σ+	-/f	Z1 ⊕ Z4	Z
+1.773	0.01	C2/m	collinear	P-1	none	-/-	T1+	(0,1/2,1/2)
+1.774	0.01	P4/mbm	coplanar	Cmmm	Σ+	-/-	2T2-	(1,0,1/2)
+1.775	0.01	Im-3	non-coplanar	Im-3	Σ+	-/-	H1+ ⊕ H2+H3+	H
+1.776	0.01	Fm-3m	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.777	0.01	P-3m1	collinear	P-3m1	none	-/-	A1+	A
+1.778	0.01	P4/mmm	collinear	P4/mmm	none	-/-	Z3-	Z
+1.779	0.01	C2/m	collinear	P-1	none	-/-	X1+	(1/2,0,0)
+1.780	0.01	I4/mmm	coplanar	I4/mmm	Σ+	-/-	M5-	(1,0,0)
+1.781	0.01	P2_1/c	non-coplanar	P-1	Σ+	-/-	3U1-	(1/2,0,1/2)
+1.782	0.01	R-3	collinear	R-3	none	-/-	T1+	T
+1.783	0.01	C2/m	collinear	C2/m	none	-/-	A1+	(0,0,1/2)
+1.784	0.01	Cmmm	collinear	Cmmm	none	-/-	Y1+	(0,1,0)
+1.785	0.01	P2_1/c	collinear	P-1	none	-/-	V1+	(1/2,1/2,0)
+1.786	0.01	R-3	collinear	P-1	none	-/-	V1-	(1/2,1/2,0)
+1.787	0.01	R-3	collinear	P-1	none	-/-	V1-	(1/2,1/2,0)
+1.788	0.01	C2/m	collinear	P-1	none	-/-	X1-	(1/2,0,0)
+1.789	0.01	C2/m	collinear	C2/m	none	-/-	Y1-	(0,1,0)
+1.790	0.01	Pbam	coplanar	Pm	Σ+ α+	-/p	2C1	(1/2,1/2,0)
+1.791	0.005	Fmmm	collinear	Fmmm	none	-/-	Y4+	(0,1,0)
+1.792	0.01	P2/c	coplanar	P2/c	Σ+	-/-	C1- ⊕ C2-	(1/2,1/2,0)
+1.793	0.01	Cmc2_1	collinear	Cmc2_1	none	-/-	Y1	(1,0,0)
+1.794	0.01	Cmc2_1	collinear	Cmc2_1	none	-/-	Y1	(1,0,0)
+1.795	0.01	Im-3	collinear	Im-3	none	-/-	H1-	H
+1.796	0.01	Im-3	collinear	Im-3	none	-/-	H1-	H
+1.797	0.01	Im-3	collinear	I23	none	-/-	H1	H
+1.798	0.01	Ia-3	non-coplanar	Ia-3	Σ+	-/-	H4-	H
+1.799	0.01	R-3m	collinear	R-3m	none	-/-	T1+	T
+1.800	0.005	R-3m	collinear	R-3m	none	-/-	T1+	T
+1.801	0.01	C222_1	non-coplanar	C222_1	Σ+ α+	-/p	Y1 ⊕ Y2 ⊕ Y3	(0,1,0)
+1.802	0.01	Pmmn	collinear	Pmmn	none	-/-	Z1+	Z
+1.803	0.01	P-3m1	collinear	P-3m1	none	-/-	A1+	A
+1.804	0.01	C2/c	non-coplanar	C2/c	Σ+	-/-	2Y1- ⊕ Y2-	(1,0,0)
+1.805	0.01	P-1	collinear	P-1	none	-/-	R1+	(1/2,-1/2,1/2)
+1.806	0.01	P-1	collinear	P-1	none	-/-	U1-	(1/2,0,-1/2)
+1.807	0.01	P2/c	collinear	P2/c	none	-/-	Y2-	(1/2,0,0)
+1.808	0.01	P6_3/mmc	collinear	P-6m2	none	-/-	A3	A
+1.809	0.01	P4mm	collinear	P4mm	none	-/-	M3	M
+1.810	0.01	P4mm	collinear	P4mm	none	-/-	M3	M
+1.811	0.01	P4mm	collinear	P4mm	none	-/-	M3	M
+1.812	0.01	Cmcm	collinear	Cmcm	none	-/-	Y3-	(0,1,0)
+1.813	0.01	Cmcm	collinear	Cmcm	none	-/-	Y3-	(0,1,0)
+1.814	0.01	Cmcm	collinear	Cmcm	none	-/-	Y3-	(0,1,0)
+1.815	0.01	C2/m	non-coplanar	P2/c	Σ+	-/-	C1+ ⊕ 2C2+	(1/2,1/2,0)
+1.816	0.01	P2/c	non-coplanar	P2/c	Σ+	-/-	C1+ ⊕ 2C2+	(1/2,1/2,0)
+1.817	0.01	C2/m	non-coplanar	P2/c	Σ+	-/-	C1+ ⊕ 2C2+	(1/2,1/2,0)
+1.818	0.01	C2/m	collinear	C2/m	none	-/-	A2-	(0,0,1/2)
+1.819	0.01	C2/m	collinear	C2/m	none	-/-	A2-	(0,0,1/2)
+1.820	0.01	R-3m	collinear	R3m	none	-/-	T1	T
+1.821	0.01	Ia-3d	coplanar	C2/c	Σ+	-/-	2Y1+	(0,1,0)
+1.822	0.01	Cmm2	coplanar	Cmm2	Σ+	-/f	Z1 ⊕ Z2	(0,0,1/2)
+1.823	0.01	P2_12_12	coplanar	P2_12_12	Σ+ α+	-/p	Z1 ⊕ Z2	Z
+1.824	0.01	I4_1cd	coplanar	Iba2	Σ+ α+	-/p	X2 ⊕ X3	(1,0,0)
+1.825	0.01	Pc	non-coplanar	Pc	Σ+ α+	-/p	C1 ⊕ 2C2	(1/2,1/2,0)
+1.826	0.01	R-3m	collinear	C2/m	none	-/-	M2-	(1,0,-1/2)
+1.827	0.01	P6/mmm	collinear	P6/mmm	none	-/-	A1+	A
+1.828	0.01	Fd-3m	non-coplanar	P-4m2	Σ+ α+	-/p	A3 ⊕ A5	A
+1.829	0.01	Pna2_1	non-coplanar	Pc	Σ+ α+	-/p	C1 ⊕ 2C2	(1/2,1/2,0)
+1.830	0.01	C2/m	collinear	C2/m	none	-/-	M2-	(1,0,-1/2)
+1.831	0.01	P6_3	collinear	P3	none	-/-	A1	A
+1.832	0.01	P6_3	non-coplanar	P3	Σ+ α+	-/p	A1 ⊕ A2A3	A
+1.833	0.01	R3m	non-coplanar	R3m	Σ+ α+	-/p	T1 ⊕ T3	T
+1.834	0.01	Fd-3	non-coplanar	Fd-3	C Σ- Σ+	d/-	Tg	0
+1.835	0.01	I4/mmm	coplanar	Fmmm	Σ+	-/-	T3- ⊕ T4-	(1,0,0)
+1.836	0.01	P-3m1	collinear	C2/m	none	-/-	Y1+	(1,0,0)
+1.837	0.01	Cmce	coplanar	Cmce	Σ+	-/-	Y1+ ⊕ Y3+	(0,1,0)
+1.838	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M3-	(1,0,0)
+1.839	0.01	P4/nmm	coplanar	P4/nmm	none	-/h	A1	A
+1.840	0.01	Pbam	coplanar	Pbam	Σ+	-/-	Z3- ⊕ Z4-	Z
+1.841	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y2-	(0,1,0)
+1.842	0.01	P-4m2	coplanar	P-4m2	Σ+	-/f	M5	M
+1.843	0.01	P-4m2	coplanar	P-4m2	Σ+	-/f	M5	M
+1.844	0.01	P-4m2	coplanar	P-4m2	Σ+	-/f	M5	M
+1.845	0.01	P-4m2	coplanar	P-4m2	Σ+	-/f	M5	M
+1.846	0.01	Im-3	collinear	Pm-3	none	-/-	R1+	R
+1.847	0.01	Cmce	collinear	Cmce	none	-/-	Y3+	(0,1,0)
+1.848	0.01	Cmmm	collinear	Cmmm	none	-/-	T4-	(0,1,1/2)
+1.849	0.01	C2/m	collinear	P-1	none	-/-	V1-	(1/2,1/2,0)
+1.850	0.01	P6_3	non-coplanar	P3	Σ+ α+	-/p	A1 ⊕ A2A3	A
+1.851	0.01	P6_3	collinear	P3	none	-/-	A1	A
+1.852	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z1+	Z
+1.853	0.01	P2_1/c	coplanar	P-1	Σ+	-/-	2V1-	(1/2,1/2,0)
+1.854	0.01	P2_12_12	coplanar	P2_12_12	Σ+ α+	-/p	Z1 ⊕ Z2	Z
+1.855	0.01	Pm-3m	collinear	R-3m	none	-/-	T1+	T
+1.856	0.01	Pm-3m	collinear	R-3m	none	-/-	T1+	T
+1.857	0.01	Cmmm	collinear	Cmmm	none	-/-	Y1+	(0,1,0)
+1.858	0.01	P6_3/mmc	coplanar	Cmcm	Σ+	-/-	Y2- ⊕ Y4-	(0,1,0)
+1.859	0.01	P6_3/mmc	coplanar	Cmcm	Σ+	-/-	Y2- ⊕ Y4-	(0,1,0)
+1.860	0.01	R-3	collinear	P-1	none	-/-	V1-	(1/2,1/2,0)
+1.861	0.01	R-3	collinear	P-1	none	-/-	R1+	(1/2,1/2,1/2)
+1.862	0.01	P2_1/c	non-coplanar	P-1	Σ+	-/-	3V1+	(1/2,1/2,0)
+1.863	0.01	P2_1/c	non-coplanar	P-1	Σ+	-/-	3V1-	(1/2,1/2,0)
+1.864	0.01	P2_1/c	non-coplanar	P2_1/c	Σ+	-/-	2Y1+ ⊕ Y2+	(1/2,0,0)
+1.865	0.01	P2_1/c	non-coplanar	P2_1/c	Σ+	-/-	2Y1+ ⊕ Y2+	(1/2,0,0)
+1.866	0.01	C2/m	coplanar	P-1	Σ+	-/-	2V1-	(1/2,-1/2,0)
+1.867	0.01	P6_3mc	collinear	Cmc2_1	none	-/-	Y3	(0,1,0)
+1.868	0.01	R-3m	collinear	R-3m	none	-/-	T2-	T
+1.869	0.01	R-3m	collinear	R-3m	none	-/-	T2-	T
+1.870	0.01	Pbam	coplanar	Pbam	Σ+	-/-	Z1+ ⊕ Z2+	Z
+1.871	0.01	Pnma	collinear	P2_1/c	none	-/-	Y2+	(1/2,0,0)
+1.872	0.01	P6/mmm	collinear	P6/mmm	none	-/-	A1+	A
+1.873	0.01	P6/mmm	collinear	P6/mmm	none	-/-	A1+	A
+1.874	0.01	Cmcm	collinear	Cmcm	none	-/-	Y3+	(0,1,0)
+1.875	0.01	P4/mmm	collinear	P4/mmm	none	-/-	Z2+	Z
+1.876	0.01	C2/c	coplanar	C2/c	Σ+	-/-	Y1+ ⊕ Y2+	(1,0,0)
+1.877	0.01	P4/mbm	coplanar	P4/mbm	Σ+	-/-	Z5+	Z
+1.878	0.01	P-1	coplanar	P-1	Σ+	-/-	2V1+	(1/2,-1/2,0)
+1.879	0.01	Fm-3m	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.880	0.01	I4/mmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.881	0.01	Pnma	non-coplanar	Pnma	M C Σ- Σ+ σ-	s/-	Ag ⊕ B1g ⊕ B2g	0
+1.882	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z2+	Z
+1.883	0.01	Pmm2	non-coplanar	Pm	Σ+ α+	-/p	E1 ⊕ 2E2	(1/2,1/2,1/2)
+1.884	0.01	Pmm2	non-coplanar	Pmm2	Σ+ α+	-/p	R1 ⊕ R3 ⊕ R4	R
+1.885	0.01	Fm-3m	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.886	0.01	Fmmm	collinear	Fmmm	none	-/-	T3+	(1,0,0)
+1.887	0.01	P4/nmm	collinear	P-4m2	none	-/-	M1	M
+1.888	0.01	P4/nmm	coplanar	P4/nmm	none	-/h	M2	M
+1.889	0.01	Cmcm	collinear	Pmmn	none	-/-	Z3+	Z
+1.890	0.01	P2_1/m	collinear	P2_1/m	none	-/-	A1+	(1/2,0,-1/2)
+1.891	0.01	Cmcm	collinear	Pmmn	none	-/-	Z3+	Z
+1.892	0.01	Pnma	collinear	P2_1/c	none	-/-	Y1-	(1/2,0,0)
+1.893	0.01	Pnma	collinear	P2_1/c	none	-/-	Y1-	(1/2,0,0)
+1.894	0.01	P4/mmm	collinear	P4/mmm	none	-/-	Z4-	Z
+1.895	0.01	P-62m	coplanar	P-6	Σ+	-/f	A4A6	A
+1.896	0.01	P2_1/c	non-coplanar	P2_1/c	Σ+	-/-	2Y1+ ⊕ Y2+	(1/2,0,0)
+1.897	0.01	P6_3/mmc	collinear	Amm2	none	-/-	Y1	(0,0,1)
+1.898	0.01	P6_3/mmc	collinear	C2/m	none	-/-	A2-	(0,0,1/2)
+1.899	0.01	Fm-3m	collinear	P4_2/nnm	none	-/-	A4+	A
+1.900	0.01	I4/mmm	collinear	I4/mmm	none	-/-	M1+	(0,0,1)
+1.901	0.01	P4/nmm	collinear	P4/nmm	none	-/-	Z1+	Z
+1.902	0.01	Fmmm	collinear	Fmmm	none	-/-	Y1+	(0,1,0)
+1.904	0.01	Imma	coplanar	Imma	α+	-/p	Σ3	(1/3,0,0), (-1/3,0,0)
+2.1	0.01	Fmmm	collinear	Cmce	none	-/-	Y1+	(0,1,0)
+2.2	0.01	I4/mmm	coplanar	C2/m	none	-/-	V1+	(1/2,-1/2,0), (1/2,1/2,0)
+2.3	0.01	P2_1/c	non-coplanar	P2_1	M C Σ- Σ+ σ- α- α+	s/p	A ⊕ 2B	0
+2.4	0.01	I4/mmm	coplanar	Fmmm	M C Σ-	s/-	Ag ⊕ Y4+	0, (0,1,0)
+2.5	0.01	Pm-3m	non-coplanar	P4/mmm	M C Σ- Σ+ σ-	s/-	A1g ⊕ M5-	0, M
+2.6	0.01	I4/mmm	coplanar	I4/mmm	none	-/-	X1+	(1/2,-1/2,0), (1/2,1/2,0)
+2.7	0.01	I4/mmm	coplanar	I4/mmm	none	-/-	X1+	(1/2,-1/2,0), (1/2,1/2,0)
+2.8	0.01	Pnma	coplanar	P2_1/c	α-	-/-	Bu ⊕ Y1-	0, (1/2,0,0)
+2.9	0.01	C2/c	non-coplanar	P2/c	Σ+	-/-	C1- ⊕ 2C2-	(1/2,1/2,0)
+2.10	0.01	Fm-3m	coplanar	R-3m	M C Σ-	s/-	A1g ⊕ T1+	0, T
+2.11	0.01	Pm-3m	coplanar	P4/mmm	M C Σ-	s/-	A1g ⊕ Z1+	0, Z
+2.12	0.01	Pm-3m	coplanar	P4/mmm	M C Σ-	s/-	A1g ⊕ Z1+	0, Z
+2.13	0.01	Fm-3m	coplanar	I4/mmm	none	-/-	X1+	(1/2,1/2,0), (1/2,-1/2,0)
+2.14	0.01	Pm-3m	coplanar	P4/mmm	none	-/-	X1+	X
+2.15	0.01	Fm-3m	collinear	P4/mmm	M C Σ-	s/-	A1g	0
+2.16	0.01	P4_2/mmc	coplanar	Amm2	M C Σ- Σ+ α- α+	s/p	2A1	0
+2.17	0.01	Pnma	collinear	Pmc2_1	C Σ- α-	d/-	B2	0
+2.18	0.01	P2_1/c	coplanar	P-1	Σ+	-/-	2R1+	(1/2,-1/2,1/2)
+2.19	0.01	Pm-3m	non-coplanar	P4/mmm	M C Σ- Σ+ σ-	s/-	A1g ⊕ A5+	0, A
+2.20	0.01	Fm-3m	coplanar	P4_2/mcm	none	-/-	X4-	X
+2.21	0.01	P2_1/m	coplanar	P2_1/m	α-	-/-	Bu ⊕ B2-	0, (0,0,1/2)
+2.22	0.01	P4_2/mnm	coplanar	P4_2/m	none	-/-	R1-	R
+2.23	0.01	I4/mmm	coplanar	I4/mmm	none	-/-	X1+	(1/2,-1/2,0), (1/2,1/2,0)
+2.24	0.01	I4/mmm	coplanar	I4/mmm	none	-/-	X1+	(1/2,-1/2,0), (1/2,1/2,0)
+2.25	0.01	C2/m	coplanar	P-1	Σ+	-/-	2R1+	(1/2,1/2,1/2)
+2.26	0.01	I4/mmm	collinear	P4/mmm	M C Σ-	s/-	A1g	0
+2.27	0.01	I4/mmm	coplanar	Fmmm	none	-/-	Au ⊕ T1+	0, (1,0,0)
+2.28	0.01	P4/mmm	coplanar	P4/mmm	M C Σ-	s/-	A1g ⊕ A1+	0, A
+2.29	0.01	I4_1/amd	coplanar	Pbcn	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+2.30	0.01	I4/mmm	collinear	Cmme	none	-/-	Y3+	(1,0,0)
+2.31	0.01	Pm-3m	coplanar	P4/mmm	none	-/-	M1+ ⊕ Z3-	Z, M
+2.32	0.01	P6_3/mmc	non-coplanar	P6_3/mcm	M C Σ- Σ+ σ-	s/-	A1g ⊕ E2g	0
+2.33	0.01	C2/m	non-coplanar	P-1	Σ+	-/-	3Z1+	(0,0,1/2)
+2.34	0.01	I4/mmm	coplanar	P4/mmm	M C Σ- Σ+	s/-	2A1g	0
+2.35	0.01	P6_3/mmc	non-coplanar	P6_3/mmc	none	g/f	B2g ⊕ K2	0, K
+2.36	0.01	Cmcm	collinear	Pbcm	none	-/-	X1+	X
+2.37	0.01	C2/c	non-coplanar	P-1	Σ+	-/-	3V1+	(1/2,1/2,0)
+2.38	0.01	Pmc2_1	non-coplanar	Pmc2_1	C Σ- Σ+ α- α+	d/p	B2 ⊕ X2 ⊕ X4	0, X
+2.39	0.01	I4/mmm	coplanar	I4/mmm	none	-/-	X1+	(1/2,-1/2,0), (1/2,1/2,0)
+2.40	0.01	I4/mmm	coplanar	I4/mmm	none	-/-	X1+	(1/2,-1/2,0), (1/2,1/2,0)
+2.41	0.01	I4/mmm	coplanar	I4/mmm	none	-/-	X1+	(1/2,-1/2,0), (1/2,1/2,0)
+2.42	0.01	I4/mmm	coplanar	I4/mmm	none	-/-	X1+	(1/2,-1/2,0), (1/2,1/2,0)
+2.43	0.01	Pbam	coplanar	Pbam	M C Σ-	s/-	Ag ⊕ Z1-	0, Z
+2.44	0.01	I4/mmm	coplanar	I4/mmm	none	-/-	X4+	(1/2,-1/2,0), (1/2,1/2,0)
+2.45	0.01	P4/mmm	coplanar	P4/mmm	Σ+	-/-	2M3-	M
+2.46	0.01	P4/mmm	coplanar	P4/mmm	Σ+	-/-	2M3-	M
+2.47	0.01	Ibam	coplanar	Ibam	C Σ-	d/-	B3g ⊕ X3-	0, (0,0,1)
+2.48	0.01	I4/mmm	coplanar	I4/mmm	none	-/-	X1+	(1/2,-1/2,0), (1/2,1/2,0)
+2.49	0.01	I4/mmm	coplanar	C2/m	none	-/-	V1+	(1/2,-1/2,0), (1/2,1/2,0)
+2.50	0.01	I4/mmm	collinear	P4_2/mmc	none	-/-	B2u	0
+2.51	0.01	I4/mmm	coplanar	I-4m2	M C Σ-	s/-	A1 ⊕ M2	0, (0,0,1)
+2.52	0.01	I4_1/amd	non-coplanar	Pca2_1	M C Σ- Σ+ σ- α- α+	s/p	A1 ⊕ A2 ⊕ B2	0
+2.53	0.01	I4/mmm	coplanar	Fmmm	none	-/-	Au ⊕ Y1+	0, (0,1,0)
+2.54	0.01	I4/mmm	coplanar	Fmmm	none	-/-	Z2+ ⊕ Y1+	(0,0,1), (0,1,0)
+2.55	0.01	Pbam	non-coplanar	Pm	Σ+ α+	-/p	2A1 ⊕ C2	(1/2,0,1/2), (1/2,1/2,0)
+2.56	0.01	I4/mmm	coplanar	C2/m	none	-/-	L1+	(1/2,1/2,-1/2), (1/2,-1/2,-1/2)
+2.57	0.01	I4/mmm	coplanar	I4/mmm	M C Σ-	s/-	A1g ⊕ M3-	0, (0,0,1)
+2.58	0.01	I4/mmm	coplanar	I4/mmm	none	-/-	B2u ⊕ M3-	0, (0,0,1)
+2.59	0.01	C2/m	non-coplanar	C2/m	M C Σ- Σ+ σ-	s/-	Ag ⊕ 2A1+	0, (0,0,1/2)
+2.60	0.01	I4/mmm	coplanar	I4/mmm	M C Σ-	s/-	A1g ⊕ M3-	0, (0,0,1)
+2.61	0.01	C2/m	non-coplanar	C2/m	C Σ- Σ+ σ-	d/-	Bg ⊕ 2M1+	0, (1,0,-1/2)
+2.62	0.01	Pnma	non-coplanar	Pmn2_1	C Σ- Σ+ σ- α- α+	d/p	B1 ⊕ Y1 ⊕ Y3	0, Y
+2.63	0.01	Pnma	non-coplanar	P2_1/m	C Σ- Σ+ σ-	d/-	Bg ⊕ 2A2-	0, (1/2,0,1/2)
+2.64	0.01	Pnma	non-coplanar	P2_1/m	C Σ- Σ+ σ-	d/-	Bg ⊕ 2A2-	0, (1/2,0,1/2)
+2.65	0.01	I4/mmm	collinear	P4/mmm	M C Σ-	s/-	A1g	0
+2.66	0.01	I4/mcm	coplanar	I4/mcm	none	-/-	A1u ⊕ M1+	0, (1,0,0)
+2.67	0.01	I4/mcm	coplanar	Fmmm	none	-/-	T3+ ⊕ Y4-	(0,1,1), (0,1,0)
+2.68	0.01	I4/mcm	coplanar	I4/mcm	none	-/-	A1u ⊕ M1+	0, (1,0,0)
+2.69	0.01	Pnma	coplanar	P2_1/m	Σ+	-/-	2Y2+	(1/2,0,0)
+2.70	0.01	Pm-3m	coplanar	P4/mmm	M C Σ-	s/-	A1g ⊕ Z1+	0, Z
+2.71	0.01	Pm-3m	coplanar	Pmmm	none	-/-	X1+ ⊕ Y1+	X, Y
+2.72	0.01	P6_322	coplanar	P6_322	M C Σ-	s/f	A1 ⊕ B1	0
+2.73	0.01	I4/mcm	coplanar	I4/mcm	none	-/-	X4-	(1/2,-1/2,0), (1/2,1/2,0)
+2.74	0.01	Pnma	collinear	P2_1	M C Σ- α-	s/-	A	0
+2.75	0.01	Pbam	non-coplanar	P2/m	Σ+	-/-	2A1+ ⊕ Z2+	(1/2,0,1/2), (0,1/2,0)
+2.76	0.01	Pbam	non-coplanar	Pm	Σ+ α+	-/p	2A1 ⊕ C2	(1/2,0,1/2), (1/2,1/2,0)
+2.77	0.01	I4/mmm	coplanar	I4/mmm	none	-/-	X1+	(1/2,-1/2,0), (1/2,1/2,0)
+2.78	0.01	I4/mmm	coplanar	I4/mmm	none	-/-	X1+	(1/2,-1/2,0), (1/2,1/2,0)
+2.79	0.01	I4/mmm	coplanar	I4/mmm	none	-/-	X1+	(1/2,-1/2,0), (1/2,1/2,0)
+2.80	0.01	Immm	collinear	Pmmn	M C Σ-	s/-	Ag	0
+2.81	0.01	I4/mmm	coplanar	I4/mmm	M C Σ-	s/-	A1g ⊕ M3-	0, (0,0,1)
+2.82	0.01	I4/mmm	coplanar	I4/mmm	M C Σ-	s/-	A1g ⊕ M3-	0, (0,0,1)
+2.83	0.01	I4/mmm	coplanar	I4/mmm	M C Σ-	s/-	A1g ⊕ M3-	0, (0,0,1)
+2.84	0.01	I4/mmm	coplanar	I4/mmm	M C Σ-	s/-	A1g ⊕ M3-	0, (0,0,1)
+2.85	0.01	Pnma	coplanar	P2_1/c	Σ+ α-	-/-	Au ⊕ Bu	0
+2.86	0.01	P4_2/mnm	coplanar	P4_2/m	none	-/-	R2-	R
+2.87	0.01	P4/mmm	coplanar	Pmmm	none	-/-	T1+ ⊕ U1+	U, T
+2.88	0.01	P-62m	collinear	P-62m	α-	g/-	A2''	0
+2.89	0.01	I4/mmm	coplanar	I4/mmm	none	-/-	X1+	(1/2,-1/2,0), (1/2,1/2,0)
+2.90	0.01	I4_1/amd	coplanar	Pbcn	M C Σ- Σ+	s/-	Ag ⊕ B2g	0
+2.91	0.01	Pnma	non-coplanar	Pmn2_1	M C Σ- Σ+ σ- α- α+	s/p	A1 ⊕ Y1 ⊕ Y3	0, Y
+2.92	0.01	Cmmm	collinear	P2/m	none	-/-	Z1-	(0,1/2,0)
+2.93	0.01	Cmcm	coplanar	Cmcm	C Σ-	d/-	B3g ⊕ Y3+	0, (0,1,0)
+2.94	0.01	I4/mmm	coplanar	P4mm	M C Σ- α-	s/-	A1 ⊕ Z1	0, Z
+2.95	0.01	I4/mmm	collinear	P4/nmm	M C Σ-	s/-	A1g	0
+2.96	0.01	I4/mmm	coplanar	I4/mmm	none	-/-	B2u ⊕ M3-	0, (0,0,1)
+2.97	0.01	I4/mmm	coplanar	I4/mmm	M C Σ-	s/-	A1g ⊕ M3-	0, (0,0,1)
+2.98	0.01	I4/mmm	collinear	P4_2/mmc	none	-/-	B2u	0
+2.99	0.01	P-62m	collinear	Pm	none	-/-	E2	(1/2,1/2,1/2)
+2.100	0.01	Fm-3m	coplanar	R-3m	M C Σ-	s/-	A1g ⊕ T1+	0, T
+2.101	0.01	P4/nmm	non-coplanar	P2	Σ+ α+	-/p	C1 ⊕ 2C2	(1/2,1/2,0)
+2.102	0.01	P4/nmm	non-coplanar	P2	Σ+ α+	-/p	E1 ⊕ 2E2	(1/2,1/2,-1/2)
+2.103	0.01	Pm-3m	collinear	P4/mmm	M C Σ-	s/-	A1g	0
+2.104	0.01	I4/mcm	coplanar	I4/mcm	none	-/-	X4-	(1/2,-1/2,0), (1/2,1/2,0)
+2.105	0.01	P4/nmm	coplanar	P2_1/m	α-	-/-	Bu ⊕ A2-	0, (1/2,0,1/2)
+2.106	0.01	Im-3	collinear	Pmmn	α-	-/-	B1u	0
+2.107	0.01	Cmcm	non-coplanar	Cm	Σ+ α+	-/p	2Y1 ⊕ M1	(1,0,0), (1,0,1/2)
+2.108	0.01	C222_1	non-coplanar	P222_1	Σ+ α+	-/p	S2 ⊕ S3 ⊕ S4	S
+2.109	0.01	Pnma	collinear	P2_1/m	none	-/-	Y1+	(1/2,0,0)
+2.110	0.01	Pnma	collinear	P2_1/m	none	-/-	Y1+	(1/2,0,0)
+2.111	0.01	Cmcm	coplanar	Pma2	M C Σ- Σ+ α- α+	s/p	2A1	0
+2.112	0.01	Cmcm	coplanar	Pbcm	M C Σ- α- α+	s/p	Ag ⊕ B3u	0
+2.113	0.01	Cmcm	non-coplanar	Pbcm	M C Σ- Σ+ α- α+	s/p	2Ag ⊕ B3u	0
+2.114	0.01	Pmmn	non-coplanar	Pmmn	M C Σ- Σ+ σ-	s/-	Ag ⊕ Z2+ ⊕ Z3+	0, Z
+2.115	0.01	Pmmn	non-coplanar	P2/c	M C Σ- Σ+ σ-	s/-	Ag ⊕ Z1+ ⊕ Z2+	0, (0,1/2,0)
+2.116	0.01	C2/m	coplanar	P2/m	Σ+	-/-	C1- ⊕ C2-	(1/2,1/2,0)
+2.117	0.01	P4/mbm	non-coplanar	P2_1/c	Σ+ α-	-/-	2Au ⊕ Bu	0
+2.118	0.01	P-1	non-coplanar	P-1	Σ+	-/-	3T1+	(0,1/2,-1/2)
+2.119	0.01	Pnma	non-coplanar	Pmn2_1	C Σ- Σ+ α- α+	d/p	A2 ⊕ B2 ⊕ B1	0
+2.120	0.01	I4/mmm	collinear	P4_2/mmc	none	-/-	M4-	M
+2.121	0.01	Pa-3	non-coplanar	R-3	C Σ- Σ+	d/-	Eg ⊕ T1+	0, T
+2.122	0.01	Pnn2	non-coplanar	P2_1	M C Σ- Σ+ σ- α- α+	s/p	2A ⊕ B	0
+2.123	0.01	Cmcm	non-coplanar	Cmcm	M C Σ- Σ+ σ-	s/-	2Ag ⊕ B1g	0
+3.1	0.01	P-62m	coplanar	P-62m	C Σ- Σ+ α-	d/f	E'	0
+3.2	0.01	Fm-3m	non-coplanar	Fm-3m	none	-/-	X1+	X
+3.3	0.01	P4/mmm	collinear	Cmcm	M C Σ-	s/-	Ag	0
+3.4	0.01	Fd-3m	non-coplanar	I-4m2	σ-	-/-	X4 ⊕ M1	(0,0,1), (1/2,1/2,0), (1/2,-1/2,0)
+3.5	0.01	Fm-3m	non-coplanar	Fm-3m	none	-/-	X1+	X
+3.6	0.01	Pm-3m	non-coplanar	Pm-3m	none	-/-	M4+	M
+3.7	0.01	Fm-3m	non-coplanar	Fm-3m	none	-/-	X1+	X
+3.8	0.01	Pm-3m	non-coplanar	Pm-3m	none	-/-	X1+	X
+3.9	0.01	Fm-3m	non-coplanar	Pn-3m	Σ+	-/-	R5+	R
+3.10	0.01	Fm-3m	non-coplanar	Pn-3m	Σ+	-/-	R5+	R
+3.11	0.01	Fm-3m	non-coplanar	Pn-3m	Σ+	-/-	R5+	R
+3.12	0.01	Fm-3m	non-coplanar	Fm-3m	none	-/-	X1+	X
+3.13	0.01	Pm-3m	coplanar	Cmcm	none	-/-	S2-	(1/2,1/2,0), (1/2,-1/2,0)
+3.14	0.01	P-3m1	collinear	C2/m	M C Σ-	s/-	Ag	0
+3.15	0.01	P-3m1	collinear	P-3m1	M C Σ-	s/-	A1g	0
+3.16	0.01	Fd-3m	non-coplanar	P-43m	Σ+	-/f	R5	R
+3.17	0.01	P3_121	coplanar	P3_121	C Σ- Σ+ α- α+	d/p	E	0
+3.18	0.01	Pm-3m	non-coplanar	Pm-3m	none	-/-	X1+	X
+3.19	0.01	Fm-3m	non-coplanar	P4_2/nnm	Σ+	-/-	A4+ ⊕ A5+	A
+3.20	0.01	I4/mmm	coplanar	P2_1/m	M C Σ-	s/-	Ag ⊕ Y2-	0, (1/2,0,0)
+3.21	0.01	Pm-3m	non-coplanar	Pm-3m	none	-/-	M1+	M
+3.22	0.01	Pm-3m	non-coplanar	Pm-3m	none	-/-	X1+	X
+3.23	0.01	Pm-3m	collinear	P4/mmm	M C Σ-	s/-	A1g	0
+3.24	0.01	Im-3	non-coplanar	R-3	σ-	-/-	F1+	(1/2,1/2,0), (1,-1/2,0), (1/2,-1,0)
+3.25	0.01	P6_322	non-coplanar	P6_322	M C Σ- Σ+ σ- α+	s/p	A1 ⊕ E2	0
+3.26	0.01	P6_322	non-coplanar	P6_322	M C Σ- Σ+ σ- α+	s/p	A1 ⊕ E2	0
+3.27	0.01	P6_3/mmc	non-coplanar	P6_3/mmc	M C Σ- Σ+ σ- α- α+	s/p	A1g ⊕ E1u	0
+3.28	0.005	R-3m	non-coplanar	R-3m	Σ+	-/-	T1+ ⊕ T3+	T
+3.29	0.01	P6_322	non-coplanar	P6_322	M C Σ- Σ+ σ- α- α+	s/p	A1 ⊕ E1	0
+3.30	0.01	P6_3/mmc	coplanar	Cmce	M C Σ- Σ+	s/-	Ag ⊕ B3g	0

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below, together with the paper."
+type: software
+title: 'Code for "Spin Space Symmetry Without Spin Space Groups"'
+version: 1.0.0
+date-released: 2026-11-19
+authors:
+  - family-names: Rau
+    given-names: Jeffrey G.
+    affiliation: University of Windsor
+license: CC-BY-4.0
+repository-code: "https://github.com/jeffrau/find-gamma"
+references:
+  - type: article
+    title: Spin Space Symmetry Without Spin Space Groups
+    authors:
+      - family-names: Rau
+        given-names: Jeffrey G.
+    year: 2026
+    url: "https://arxiv.org/abs/2610.37770"

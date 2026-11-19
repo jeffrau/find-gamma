@@ -1,0 +1,6 @@
+__pycache__/
+isoir.json.gz
+corrected/
+*.pdf
+*.tex
+TODO.md
